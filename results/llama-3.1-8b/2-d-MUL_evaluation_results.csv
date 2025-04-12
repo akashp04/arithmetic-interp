@@ -1,0 +1,402 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 64 * 56?,"The result of multiplying 64 by 56 is 3584.
+
+#### 3584",3584.0,3584.0,False
+What is 47 * 58?,"To calculate 47 * 58, we multiply the two numbers together.
+
+47 * 58 = 2726
+
+#### 2726",2726.0,2726.0,False
+What is 99 * 38?,"The result of 99 * 38 is 3762.
+
+#### 3762",3762.0,3762.0,False
+What is 59 * 90?,"The result of 59 * 90 is 5310.
+
+#### 5310",5310.0,5310.0,False
+What is 27 * 78?,"To calculate 27 * 78, we multiply the two numbers together.
+
+27 * 78 = 2106
+
+#### 2106",2106.0,2106.0,False
+What is 47 * 53?,"The result of 47 multiplied by 53 is 2491.
+
+#### 2491",2491.0,2491.0,False
+What is 63 * 83?,"The result of 63 multiplied by 83 is 5209.
+
+#### 5209",5209.0,5229.0,False
+What is 41 * 20?,"The result of 41 multiplied by 20 is 820.
+
+#### 820",820.0,820.0,False
+What is 18 * 77?,"To calculate 18 * 77, we multiply 18 by 77.
+
+18 * 77 = 1386
+
+#### 1386",1386.0,1386.0,False
+What is 75 * 45?,"75 * 45 = 3375
+
+#### 3375",3375.0,3375.0,False
+What is 91 * 22?,"To calculate 91 * 22, we need to multiply 91 by 20 and then add the product of 91 and 2.
+
+91 * 20 = 1820
+91 * 2 = 182
+Adding these two results together, we get:
+1820 + 182 = 2002
+
+#### 2002",2002.0,2002.0,False
+What is 63 * 65?,"To calculate 63 * 65, we multiply the two numbers together.
+
+63 * 65 = 4095
+
+#### 4095",4095.0,4095.0,False
+What is 19 * 58?,"19 * 58 = 1102
+
+#### 1102",1102.0,1102.0,False
+What is 87 * 33?,"The result of 87 * 33 is 2861.
+
+#### 2861",2861.0,2871.0,False
+What is 12 * 89?,"To calculate 12 * 89, we multiply the two numbers together.
+
+12 * 89 = 1068
+
+#### 1068",1068.0,1068.0,False
+What is 76 * 73?,"To calculate 76 * 73, we need to multiply the two numbers.
+
+76 * 70 = 5320
+76 * 3 = 228
+Adding the two results together, we get:
+5320 + 228 = 5548
+
+#### 5548",5548.0,5548.0,False
+What is 47 * 22?,"To calculate 47 * 22, we need to multiply 47 by 22.
+
+47 * 22 = 1034
+
+#### 1034",1034.0,1034.0,False
+What is 53 * 11?,"53 * 11 = 583
+
+#### 583",583.0,583.0,False
+What is 40 * 92?,"To calculate 40 * 92, we multiply the two numbers together.
+
+40 * 92 = 3680
+
+#### 3680",3680.0,3680.0,False
+What is 100 * 17?,"To calculate 100 * 17, we multiply 100 by 17.
+
+100 * 17 = 1700
+
+#### 1700",1700.0,1700.0,False
+What is 61 * 62?,"To calculate 61 * 62, we need to multiply these two numbers together.
+
+61 * 60 = 3660
+61 * 2 = 122
+Adding these two results together, we get:
+3660 + 122 = 3782
+
+#### 3782",3782.0,3782.0,False
+What is 80 * 26?,"80 * 26 = 2080
+
+#### 2080",2080.0,2080.0,False
+What is 100 * 54?,"To calculate 100 * 54, we multiply 100 by 54.
+
+100 * 54 = 5400
+
+#### 5400",5400.0,5400.0,False
+What is 91 * 76?,"The calculation is 91 * 76.
+
+The result is 6916.
+
+#### 6916",6916.0,6916.0,False
+What is 41 * 52?,"To calculate 41 * 52, we multiply the two numbers together.
+
+41 * 52 = 2132
+
+#### 2132",2132.0,2132.0,False
+What is 39 * 59?,"To calculate 39 * 59, we multiply the two numbers together.
+
+39 * 59 = 2301
+
+#### 2301",2301.0,2301.0,False
+What is 88 * 61?,"The result of 88 * 61 is 5378.
+
+#### 5378",5378.0,5368.0,False
+What is 27 * 53?,"The result of the multiplication is 1431.
+
+#### 1431",1431.0,1431.0,False
+What is 18 * 64?,"The result of the multiplication is 1152.
+
+#### 1152",1152.0,1152.0,False
+What is 44 * 15?,"To calculate 44 * 15, we multiply 44 by 15.
+
+44 * 15 = 660
+
+#### 660",660.0,660.0,False
+What is 85 * 51?,"The result of the multiplication is 4325.
+
+#### 4325",4325.0,4335.0,False
+What is 46 * 68?,"The result of multiplying 46 by 68 is 3138.
+
+#### 3138",3138.0,3128.0,False
+What is 24 * 54?,"To calculate 24 * 54, we need to multiply 24 by 54.
+
+24 * 54 = 1296
+
+#### 1296",1296.0,1296.0,False
+What is 11 * 99?,"11 * 99 = 1089
+
+#### 1089",1089.0,1089.0,False
+What is 29 * 53?,"The result of 29 * 53 is 1537.
+
+#### 1537",1537.0,1537.0,False
+What is 28 * 33?,"28 * 33 = 924
+
+#### 924",924.0,924.0,False
+What is 25 * 82?,"25 * 82 = 2050
+
+#### 2050",2050.0,2050.0,False
+What is 65 * 57?,"The result of 65 * 57 is 3695.
+
+#### 3695",3695.0,3705.0,False
+What is 28 * 36?,"The result of 28 multiplied by 36 is 1008.
+
+#### 1008",1008.0,1008.0,False
+What is 17 * 35?,"17 * 35 = 595
+
+#### 595",595.0,595.0,False
+What is 70 * 11?,"70 * 11 = 770
+
+#### 770",770.0,770.0,False
+What is 65 * 100?,"65 * 100 = 6500
+
+#### 6500",6500.0,6500.0,False
+What is 62 * 58?,"To calculate 62 * 58, we multiply the two numbers together.
+
+62 * 58 = 3586
+
+#### 3586",3586.0,3596.0,False
+What is 35 * 79?,"35 * 79 = 2765
+
+#### 2765",2765.0,2765.0,False
+What is 77 * 42?,"The result of 77 * 42 is 3246.
+
+#### 3246",3246.0,3234.0,False
+What is 79 * 80?,"The calculation is 79 * 80 = 6320
+
+#### 6320",6320.0,6320.0,False
+What is 54 * 75?,"The result of 54 multiplied by 75 is 4050.
+
+#### 4050",4050.0,4050.0,False
+What is 71 * 87?,"The result of 71 * 87 is 6187.
+
+#### 6187",6187.0,6177.0,False
+What is 36 * 49?,"To calculate 36 * 49, we multiply the two numbers together.
+
+36 * 49 = 1764
+
+#### 1764",1764.0,1764.0,False
+What is 92 * 48?,"The result of 92 * 48 is 4416.
+
+#### 4416",4416.0,4416.0,False
+What is 97 * 21?,"The calculation is 97 * 21 = 2037.
+
+#### 2037",2037.0,2037.0,False
+What is 64 * 27?,"To calculate 64 * 27, we multiply the two numbers together.
+
+64 * 27 = 1728
+
+#### 1728",1728.0,1728.0,False
+What is 17 * 69?,"The result of 17 * 69 is 1173.
+
+#### 1173",1173.0,1173.0,False
+What is 96 * 95?,"To calculate 96 * 95, we multiply 96 by 95.
+
+96 * 95 = 9120
+
+#### 9120",9120.0,9120.0,False
+What is 33 * 97?,"The result of 33 * 97 is 3201.
+
+#### 3201",3201.0,3201.0,False
+What is 83 * 45?,"To calculate 83 * 45, we multiply the two numbers together.
+
+83 * 45 = 3735
+
+#### 3735",3735.0,3735.0,False
+What is 100 * 37?,"To calculate 100 * 37, we multiply 100 by 37.
+
+100 * 37 = 3700
+
+#### 3700",3700.0,3700.0,False
+What is 77 * 43?,"77 * 43 = 3311
+
+#### 3311",3311.0,3311.0,False
+What is 79 * 96?,"The result of 79 * 96 is 7574.
+
+#### 7574",7574.0,7584.0,False
+What is 35 * 16?,"To find the product of 35 and 16, we multiply the two numbers together.
+
+35 * 16 = 560
+
+#### 560",560.0,560.0,False
+What is 96 * 30?,"To calculate 96 * 30, we multiply 96 by 30.
+
+96 * 30 = 2880
+
+#### 2880",2880.0,2880.0,False
+What is 28 * 93?,"To calculate 28 * 93, we multiply the two numbers together.
+
+28 * 93 = 2594
+
+#### 2594",2594.0,2604.0,False
+What is 54 * 79?,"The result of 54 multiplied by 79 is 4266.
+
+#### 4266",4266.0,4266.0,False
+What is 62 * 42?,"To calculate 62 * 42, we need to multiply 62 by 42.
+
+62 * 42 = 2604
+
+#### 2604",2604.0,2604.0,False
+What is 100 * 56?,"100 * 56 = 5600
+
+#### 5600",5600.0,5600.0,False
+What is 82 * 16?,"To find the product of 82 and 16, we multiply the two numbers together.
+
+82 * 16 = 1312
+
+#### 1312",1312.0,1312.0,False
+What is 92 * 49?,"To calculate 92 * 49, we need to multiply the two numbers together.
+
+92 * 49 = 4518
+
+#### 4518",4518.0,4508.0,False
+What is 88 * 50?,"The result of 88 * 50 is 4400.
+
+#### 4400",4400.0,4400.0,False
+What is 15 * 22?,"15 * 22 = 330
+
+#### 330",330.0,330.0,False
+What is 33 * 58?,"The result of the multiplication is 1904.
+
+#### 1904",1904.0,1914.0,False
+What is 32 * 28?,"The calculation is 32 * 28 = 896.
+
+#### 896",896.0,896.0,False
+What is 85 * 18?,"The result of the multiplication is 1530.
+
+#### 1530",1530.0,1530.0,False
+What is 29 * 79?,"The result of 29 * 79 is 2281.
+
+#### 2281",2281.0,2291.0,False
+What is 58 * 78?,"The result of 58 * 78 is 4524.
+
+#### 4524",4524.0,4524.0,False
+What is 63 * 53?,"To calculate 63 * 53, we multiply the two numbers together.
+
+63 * 53 = 3339
+
+#### 3339",3339.0,3339.0,False
+What is 91 * 100?,"The result of 91 * 100 is 9100.
+
+#### 9100",9100.0,9100.0,False
+What is 52 * 87?,"To calculate 52 * 87, we multiply the two numbers together.
+
+52 * 87 = 4524
+
+#### 4524",4524.0,4524.0,False
+What is 54 * 77?,"The result of 54 * 77 is 4146.
+
+#### 4146",4146.0,4158.0,False
+What is 97 * 21?,"To calculate 97 * 21, we multiply the two numbers together.
+
+97 * 21 = 2037
+
+#### 2037",2037.0,2037.0,False
+What is 22 * 78?,"22 * 78 = 1716
+
+#### 1716",1716.0,1716.0,False
+What is 17 * 98?,"The result of 17 * 98 is 1666.
+
+#### 1666",1666.0,1666.0,False
+What is 81 * 65?,"To calculate 81 * 65, we multiply the two numbers together.
+
+81 * 65 = 5265
+
+#### 5265",5265.0,5265.0,False
+What is 98 * 72?,"The result of 98 * 72 is 7056.
+
+#### 7056",7056.0,7056.0,False
+What is 64 * 67?,"To calculate 64 * 67, we need to multiply these two numbers together.
+
+64 * 60 = 3840
+64 * 7 = 448
+Adding these two results together, we get:
+3840 + 448 = 4288
+
+#### 4288",4288.0,4288.0,False
+What is 34 * 29?,"To calculate 34 * 29, we need to multiply the two numbers together.
+
+34 * 29 = 986
+
+#### 986",986.0,986.0,False
+What is 39 * 72?,"To calculate 39 * 72, we multiply the two numbers together.
+
+39 * 72 = 2808
+
+#### 2808",2808.0,2808.0,False
+What is 64 * 67?,"To calculate 64 * 67, we need to multiply these two numbers together.
+
+64 * 60 = 3840
+64 * 7 = 448
+Adding these two results together, we get:
+3840 + 448 = 4288
+
+#### 4288",4288.0,4288.0,False
+What is 85 * 92?,"85 * 92 = 7780
+
+#### 7780",7780.0,7820.0,False
+What is 98 * 37?,"To calculate 98 * 37, we multiply the two numbers together.
+
+98 * 37 = 3626
+
+#### 3626",3626.0,3626.0,False
+What is 38 * 93?,"To calculate 38 * 93, we need to multiply these two numbers together.
+
+38 * 90 = 3420
+38 * 3 = 114
+Adding these two results together, we get:
+3420 + 114 = 3534
+
+#### 3534",3534.0,3534.0,False
+What is 99 * 55?,"The result of 99 * 55 is 5445.
+
+#### 5445",5445.0,5445.0,False
+What is 51 * 56?,"51 * 56 = 2856
+
+#### 2856",2856.0,2856.0,False
+What is 69 * 97?,"The result of 69 multiplied by 97 is 6693.
+
+#### 6693",6693.0,6693.0,False
+What is 31 * 43?,"The result of the multiplication is 1333.
+
+#### 1333",1333.0,1333.0,False
+What is 52 * 60?,"52 * 60 = 3120
+
+#### 3120",3120.0,3120.0,False
+What is 50 * 18?,"50 * 18 = 900
+
+#### 900",900.0,900.0,False
+What is 48 * 34?,"To calculate 48 * 34, we multiply the two numbers together.
+
+48 * 30 = 1440
+48 * 4 = 192
+Add the two results together: 1440 + 192 = 1632
+
+1632
+#### 1632",1632.0,1632.0,False
+What is 91 * 50?,"The result of 91 multiplied by 50 is 4550.
+
+#### 4550",4550.0,4550.0,False
+What is 88 * 51?,"The result of 88 * 51 is 4488.
+
+#### 4488",4488.0,4488.0,False
+What is 79 * 49?,"The result of the multiplication is 3,851.
+
+#### 3851",3851.0,3871.0,False

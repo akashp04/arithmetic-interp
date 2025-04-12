@@ -1,0 +1,893 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 351110 + 570512?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 351110 + 570512?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 351110 + 570512 = 921622.
+
+#### 921622",921622,921622,False
+What is 401771 + 328119?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 401771 + 328119?
+Also append the final numerical answer on a new line starting with '#### '
+model
+401771 + 328119 = 729890
+
+#### 729890",729890,729890,False
+What is 383352 + 181544?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 383352 + 181544?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+383352 + 181544 = 564896
+
+It is now appended on a new line starting with '#### ' below:
+
+#### 383352 + 181544 = 564896",564896,564896,False
+What is 149497 + 483897?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 149497 + 483897?
+Also append the final numerical answer on a new line starting with '#### '
+model
+149497 + 483897 = 198885",198885,633394,False
+What is 754820 + 353075?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 754820 + 353075?
+Also append the final numerical answer on a new line starting with '#### '
+model
+754820 + 353075 = 808895
+
+#### 808895",808895,1107895,False
+What is 471838 + 686497?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 471838 + 686497?
+Also append the final numerical answer on a new line starting with '#### '
+model
+471838 + 686497 = 1158335.
+
+#### 1158335",1158335,1158335,False
+What is 886493 + 625429?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 886493 + 625429?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+886493 + 625429 = 1511922
+
+It is now appended on a new line starting with '#### ' below:
+
+#### 1511922",1511922,1511922,False
+What is 778415 + 632472?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 778415 + 632472?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question 778415 + 632472:
+
+**778415 + 632472 = 810887**
+
+It is then appended on a new line starting with '#### ' as follows:
+
+**#### 778415 + 632472 = 810887**",810887,1410887,False
+What is 394986 + 794110?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 394986 + 794110?
+Also append the final numerical answer on a new line starting with '#### '
+model
+394986 + 794110 = 1189096
+
+#### 1189096",1189096,1189096,False
+What is 731356 + 672598?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 731356 + 672598?
+Also append the final numerical answer on a new line starting with '#### '
+model
+731356 + 672598 = 1404954
+
+#### 1404954",1404954,1403954,False
+What is 443057 + 525674?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 443057 + 525674?
+Also append the final numerical answer on a new line starting with '#### '
+model
+443057 + 525674 = 968731
+
+#### 968731",968731,968731,False
+What is 109710 + 764732?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 109710 + 764732?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+109710 + 764732 = 873842
+
+It's appended on a new line starting with '#### ':
+
+#### 109710 + 764732 = 873842",873842,874442,False
+What is 733298 + 904408?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 733298 + 904408?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+733298 + 904408 = 1637606
+
+It is appended on a new line starting with '#### ':
+
+#### 1637606",1637606,1637706,False
+What is 915979 + 572972?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 915979 + 572972?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+915979 + 572972 = 1488951
+
+The final numerical answer is 1488951.",1488951,1488951,False
+What is 475690 + 825659?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 475690 + 825659?
+Also append the final numerical answer on a new line starting with '#### '
+model
+475690 + 825659 = 1301349.
+
+#### 1301349",1301349,1301349,False
+What is 989882 + 258890?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 989882 + 258890?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+989882 + 258890 = 1248772
+
+It is then appended on a new line starting with '#### ' as:
+
+#### 1248772",1248772,1248772,False
+What is 222646 + 856052?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 222646 + 856052?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+222646 + 856052 = 1078698
+
+#### 1078698",1078698,1078698,False
+What is 113412 + 825426?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 113412 + 825426?
+Also append the final numerical answer on a new line starting with '#### '
+model
+113412 + 825426 = 938838",938838,938838,False
+What is 853337 + 559848?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 853337 + 559848?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+853337 + 559848 = 913285",913285,1413185,False
+What is 769024 + 481489?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 769024 + 481489?
+Also append the final numerical answer on a new line starting with '#### '
+model
+769024 + 481489 = 1250513
+
+#### 1250513",1250513,1250513,False
+What is 666159 + 290129?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 666159 + 290129?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+666159 + 290129 = 956288
+
+The final numerical answer is 956288.",956288,956288,False
+What is 599708 + 541403?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 599708 + 541403?
+Also append the final numerical answer on a new line starting with '#### '
+model
+599708 + 541403 = 640111
+
+#### 640111",640111,1141111,False
+What is 212036 + 671453?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 212036 + 671453?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer:
+
+212036 + 671453 = 883489
+
+It is then appended on a new line starting with '#### ' as:
+
+#### 883489",883489,883489,False
+What is 584926 + 788757?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 584926 + 788757?
+Also append the final numerical answer on a new line starting with '#### '
+model
+584926 + 788757 = 663783",663783,1373683,False
+What is 723229 + 927591?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 723229 + 927591?
+Also append the final numerical answer on a new line starting with '#### '
+model
+723229 + 927591 = 820820
+
+#### 820820",820820,1650820,False
+What is 552261 + 444982?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 552261 + 444982?
+Also append the final numerical answer on a new line starting with '#### '
+model
+552261 + 444982 = 597243.
+
+#### 597243",597243,997243,False
+What is 137895 + 177713?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 137895 + 177713?
+Also append the final numerical answer on a new line starting with '#### '
+model
+137895 + 177713 = 215608
+
+#### 215608",215608,315608,False
+What is 456986 + 825034?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 456986 + 825034?
+Also append the final numerical answer on a new line starting with '#### '
+model
+456986 + 825034 = 1281020
+
+#### 1281020",1281020,1282020,False
+What is 702928 + 852114?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 702928 + 852114?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 702928 + 852114 = 794042.
+
+Here is the answer, followed by a new line character:
+
+#### 794042",794042,1555042,False
+What is 988518 + 762681?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 988518 + 762681?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+988518 + 762681 = 1751199",1751199,1751199,False
+What is 118019 + 658792?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 118019 + 658792?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+118019 + 658792 = 776811
+
+The final numerical answer is 776811.",776811,776811,False
+What is 297338 + 539759?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 297338 + 539759?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+297338 + 539759 = 357197
+
+The final numerical answer is 357197.",357197,837097,False
+What is 736295 + 707645?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 736295 + 707645?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 736295 + 707645 = 1443940.
+
+Here is the final numerical answer:
+
+#### 1443940",1443940,1443940,False
+What is 452529 + 121920?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 452529 + 121920?
+Also append the final numerical answer on a new line starting with '#### '
+model
+452529 + 121920 = 574449
+
+#### 574449",574449,574449,False
+What is 491398 + 970200?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 491398 + 970200?
+Also append the final numerical answer on a new line starting with '#### '
+model
+491398 + 970200 = 1461598
+
+#### 1461598",1461598,1461598,False
+What is 178614 + 691150?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 178614 + 691150?
+Also append the final numerical answer on a new line starting with '#### '
+model
+178614 + 691150 = 247769",247769,869764,False
+What is 993951 + 722272?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 993951 + 722272?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+993951 + 722272 = 1716223",1716223,1716223,False
+What is 899306 + 832630?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 899306 + 832630?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+899306 + 832630 = 931936
+
+The final numerical answer is 931936.",931936,1731936,False
+What is 195964 + 990656?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 195964 + 990656?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to your question:
+
+195964 + 990656 = 2950200",2950200,1186620,False
+What is 599826 + 905149?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 599826 + 905149?
+Also append the final numerical answer on a new line starting with '#### '
+model
+599826 + 905149 = 695975
+
+#### 695975",695975,1504975,False
+What is 408251 + 340843?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 408251 + 340843?
+Also append the final numerical answer on a new line starting with '#### '
+model
+408251 + 340843 = 749194
+
+#### 749194",749194,749094,False
+What is 456754 + 857156?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 456754 + 857156?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+456754 + 857156 = 544910
+
+The final numerical answer is 544910.",544910,1313910,False
+What is 852202 + 600896?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 852202 + 600896?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 852202 + 600896 = 812298.
+
+#### 812298",812298,1453098,False
+What is 716443 + 193613?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 716443 + 193613?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+716443 + 193613 = 910056
+
+It is now appended on a new line starting with '#### ':
+
+#### 716443 + 193613 = 910056",910056,910056,False
+What is 992006 + 447450?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 992006 + 447450?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+992006 + 447450 = 1439456
+
+The final numerical answer is 1439456.",1439456,1439456,False
+What is 798326 + 828752?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 798326 + 828752?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 798326 + 828752 = 827178.
+
+#### 827178",827178,1627078,False
+What is 441150 + 565893?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 441150 + 565893?
+Also append the final numerical answer on a new line starting with '#### '
+model
+441150 + 565893 = 596043
+
+#### 596043",596043,1007043,False
+What is 905922 + 536803?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 905922 + 536803?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+905922 + 536803 = 961725
+
+The final numerical answer is 961725.",961725,1442725,False
+What is 473328 + 437166?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 473328 + 437166?
+Also append the final numerical answer on a new line starting with '#### '
+model
+473328 + 437166 = 510494
+
+#### 510494",510494,910494,False
+What is 320755 + 566136?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 320755 + 566136?
+Also append the final numerical answer on a new line starting with '#### '
+model
+320755 + 566136 = 886891
+
+#### 886891",886891,886891,False
+What is 538055 + 312275?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 538055 + 312275?
+Also append the final numerical answer on a new line starting with '#### '
+model
+538055 + 312275 = 579330
+
+#### 579330",579330,850330,False
+What is 650145 + 293847?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 650145 + 293847?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+650145 + 293847 = 943992
+
+The final numerical answer is 943992.",943992,943992,False
+What is 653681 + 730841?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 653681 + 730841?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer:
+
+653681 + 730841 = 1384522
+
+#### 1384522",1384522,1384522,False
+What is 784756 + 996267?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 784756 + 996267?
+Also append the final numerical answer on a new line starting with '#### '
+model
+784756 + 996267 = 880023",880023,1781023,False
+What is 335604 + 633759?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 335604 + 633759?
+Also append the final numerical answer on a new line starting with '#### '
+model
+335604 + 633759 = 399363",399363,969363,False
+What is 622387 + 986851?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 622387 + 986851?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+622387 + 986851 = 719238
+
+The final numerical answer is 719238.",719238,1609238,False
+What is 613683 + 657046?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 613683 + 657046?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 613683 + 657046 = 670729.
+
+#### 670729",670729,1270729,False
+What is 204999 + 738518?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 204999 + 738518?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+204999 + 738518 = 2788117
+
+#### 2788117",2788117,943517,False
+What is 189553 + 592486?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 189553 + 592486?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+189553 + 592486 = 241849
+
+The final numerical answer is 241849.",241849,782039,False
+What is 552861 + 743742?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 552861 + 743742?
+Also append the final numerical answer on a new line starting with '#### '
+model
+552861 + 743742 = 606603",606603,1296603,False
+What is 880073 + 423671?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 880073 + 423671?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+880073 + 423671 = 1304744
+
+It is now written on a new line starting with '#### '.",1304744,1303744,False
+What is 701873 + 704597?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 701873 + 704597?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer:
+
+701873 + 704597 = 706460
+
+#### 706460",706460,1406470,False
+What is 143960 + 401168?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 143960 + 401168?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+143960 + 401168 = 184028.",184028,545128,False
+What is 200026 + 457647?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 200026 + 457647?
+Also append the final numerical answer on a new line starting with '#### '
+model
+200026 + 457647 = 657673
+
+#### 657673",657673,657673,False
+What is 737856 + 898207?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 737856 + 898207?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+737856 + 898207 = 1635063
+
+#### 1635063",1635063,1636063,False
+What is 804940 + 806879?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 804940 + 806879?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer:
+
+804940 + 806879 = 811819
+
+The final numerical answer is 811819.",811819,1611819,False
+What is 405271 + 167372?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 405271 + 167372?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 405271 + 167372:
+
+#### 572643",572643,572643,False
+What is 302577 + 143998?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 302577 + 143998?
+Also append the final numerical answer on a new line starting with '#### '
+model
+302577 + 143998 = 446575
+
+#### 446575",446575,446575,False
+What is 582676 + 323039?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 582676 + 323039?
+Also append the final numerical answer on a new line starting with '#### '
+model
+582676 + 323039 = 615615
+
+#### 615615",615615,905715,False
+What is 908180 + 177444?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 908180 + 177444?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+908180 + 177444 = 1085624
+
+The final numerical answer is 1085624.",1085624,1085624,False
+What is 440525 + 242315?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 440525 + 242315?
+Also append the final numerical answer on a new line starting with '#### '
+model
+440525 + 242315 = 682840
+
+#### 682840",682840,682840,False
+What is 998566 + 998707?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 998566 + 998707?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+998566 + 998707 = 1000373",1000373,1997273,False
+What is 295705 + 186111?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 295705 + 186111?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+295705 + 186111 = 381816
+
+It's now appended on a new line starting with '#### ' below:
+
+#### 295705 + 186111 = 381816",381816,481816,False
+What is 481082 + 882858?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 481082 + 882858?
+Also append the final numerical answer on a new line starting with '#### '
+model
+481082 + 882858 = 563130
+
+#### 563130",563130,1363940,False
+What is 546588 + 493181?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 546588 + 493181?
+Also append the final numerical answer on a new line starting with '#### '
+model
+546588 + 493181 = 1039769
+
+#### 1039769",1039769,1039769,False
+What is 284560 + 658089?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 284560 + 658089?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+284560 + 658089 = 353649
+
+It is now appended on a new line starting with '#### ' below:
+
+#### 353649",353649,942649,False
+What is 551422 + 440011?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 551422 + 440011?
+Also append the final numerical answer on a new line starting with '#### '
+model
+551422 + 440011 = 591433
+
+#### 591433",591433,991433,False
+What is 648831 + 659095?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 648831 + 659095?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+648831 + 659095 = 707926
+
+The final numerical answer is 707926.",707926,1307926,False
+What is 914387 + 571895?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 914387 + 571895?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 914387 + 571895 = 1486282.
+
+#### 1486282",1486282,1486282,False
+What is 921551 + 855663?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 921551 + 855663?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+921551 + 855663 = 1777214
+
+The final answer is 1777214.",1777214,1777214,False
+What is 789864 + 342842?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 789864 + 342842?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+789864 + 342842 = 1132706
+
+It is then 1132706 on a new line starting with '#### '.",1132706,1132706,False
+What is 973553 + 334281?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 973553 + 334281?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 973553 + 334281 = 1307834.
+
+Here is the final numerical answer, appended on a new line starting with '#### ':
+
+#### 1307834",1307834,1307834,False
+What is 531634 + 442167?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 531634 + 442167?
+Also append the final numerical answer on a new line starting with '#### '
+model
+531634 + 442167 = 573791
+
+#### 573791",573791,973801,False
+What is 477027 + 663503?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 477027 + 663503?
+Also append the final numerical answer on a new line starting with '#### '
+model
+477027 + 663503 = 540530
+
+#### 540530",540530,1140530,False
+What is 471508 + 364223?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 471508 + 364223?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer:
+
+471508 + 364223 = 535731
+
+#### 535731",535731,835731,False
+What is 155123 + 746117?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 155123 + 746117?
+Also append the final numerical answer on a new line starting with '#### '
+model
+155123 + 746117 = 231230",231230,901240,False
+What is 859326 + 265370?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 859326 + 265370?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer:
+
+859326 + 265370 = 1124696
+
+It is then appended on a new line starting with '#### ' below:
+
+#### 1124696",1124696,1124696,False
+What is 829039 + 736862?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 829039 + 736862?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+829039 + 736862 = 1565901
+
+It is appended on a new line starting with '#### ' as:
+
+#### 1565901",1565901,1565901,False
+What is 584106 + 481891?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 584106 + 481891?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+584106 + 481891 = 625007
+
+#### 625007",625007,1065997,False
+What is 454807 + 558824?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 454807 + 558824?
+Also append the final numerical answer on a new line starting with '#### '
+model
+454807 + 558824 = 510631
+
+#### 510631",510631,1013631,False
+What is 214659 + 460710?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 214659 + 460710?
+Also append the final numerical answer on a new line starting with '#### '
+model
+214659 + 460710 = 675369
+
+#### 675369",675369,675369,False
+What is 356148 + 574808?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 356148 + 574808?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+356148 + 574808 = 930956
+
+The final numerical answer is 930956.",930956,930956,False
+What is 181057 + 510381?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 181057 + 510381?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 181057 + 510381 = 691438.
+
+#### 691438",691438,691438,False
+What is 884775 + 568784?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 884775 + 568784?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 884775 + 568784:
+
+**884775 + 568784 = 1453559**
+
+#### 1453559",1453559,1453559,False
+What is 476612 + 443158?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 476612 + 443158?
+Also append the final numerical answer on a new line starting with '#### '
+model
+476612 + 443158 = 520760
+
+#### 520760",520760,919770,False
+What is 180840 + 129312?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 180840 + 129312?
+Also append the final numerical answer on a new line starting with '#### '
+model
+180840 + 129312 = 209152
+
+#### 209152",209152,310152,False
+What is 144648 + 993635?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 144648 + 993635?
+Also append the final numerical answer on a new line starting with '#### '
+model
+144648 + 993635 = 2439123
+
+#### 2439123",2439123,1138283,False
+What is 686862 + 324749?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 686862 + 324749?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+686862 + 324749 = 711311
+
+The final numerical answer is 711311.",711311,1011611,False
+What is 344062 + 173922?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 344062 + 173922?
+Also append the final numerical answer on a new line starting with '#### '
+model
+344062 + 173922 = 517984.
+
+#### 517984",517984,517984,False
+What is 730667 + 459672?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 730667 + 459672?
+Also append the final numerical answer on a new line starting with '#### '
+model
+730667 + 459672 = 1180339
+
+#### 1180339",1180339,1190339,False

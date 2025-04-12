@@ -1,0 +1,391 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 22 + 97?,"To calculate 22 + 97, I get:
+
+119
+
+#### 119",119.0,119.0,True
+What is 16 + 67?,"16 + 67 = 83
+
+#### 83",83.0,83.0,True
+What is 91 + 92?,"To find the sum, we need to add 91 and 92.
+
+91 + 92 = 183
+
+#### 183",183.0,183.0,True
+What is 46 + 31?,"The calculation is 46 + 31 = 77
+
+#### 77",77.0,77.0,True
+What is 26 + 50?,"To calculate 26 + 50, we need to add the two numbers together.
+
+26 + 50 = 76
+
+#### 76",76.0,76.0,True
+What is 46 + 96?,"To calculate the sum, I'll add 46 and 96 together.
+
+46 + 96 = 142
+
+#### 142",142.0,142.0,True
+What is 76 + 98?,"76 + 98 = 174
+
+#### 174",174.0,174.0,True
+What is 85 + 34?,"To calculate the sum, we need to add 85 and 34.
+
+85 + 34 = 119
+
+#### 119",119.0,119.0,True
+What is 70 + 23?,"70 + 23 = 93
+
+#### 93",93.0,93.0,True
+What is 91 + 19?,"91 + 19 = 110
+
+#### 110",110.0,110.0,True
+What is 60 + 46?,"To find the sum, I'll add 60 and 46.
+
+60 + 46 = 106
+
+#### 106",106.0,106.0,True
+What is 90 + 13?,"The result of 90 + 13 is 103.
+
+#### 103",103.0,103.0,True
+What is 25 + 48?,"First, let's calculate the sum: 25 + 48 = 73
+
+#### 73",73.0,73.0,True
+What is 25 + 29?,"25 + 29 = 54
+
+#### 54",54.0,54.0,True
+What is 47 + 19?,"To calculate 47 + 19, we need to add the two numbers together.
+
+47 + 19 = 66
+
+#### 66",66.0,66.0,True
+What is 40 + 35?,"The result of 40 + 35 is 75.
+
+#### 75",75.0,75.0,True
+What is 40 + 48?,"To find the sum, we add 40 and 48 together.
+
+40 + 48 = 88
+
+#### 88",88.0,88.0,True
+What is 60 + 85?,"60 + 85 = 145
+
+#### 145",145.0,145.0,True
+What is 63 + 54?,"To calculate 63 + 54, we need to add the two numbers together.
+
+63 + 54 = 117
+
+#### 117",117.0,117.0,True
+What is 34 + 66?,"34 + 66 = 100
+
+#### 100",100.0,100.0,True
+What is 94 + 64?,"The result of 94 + 64 is 158.
+
+#### 158",158.0,158.0,True
+What is 50 + 89?,"50 + 89 = 139
+
+#### 139",139.0,139.0,True
+What is 29 + 12?,"To calculate 29 + 12, we simply add the two numbers together.
+
+29 + 12 = 41
+
+#### 41",41.0,41.0,True
+What is 99 + 38?,"To calculate 99 + 38, we need to add the two numbers together.
+
+99 + 38 = 137
+
+#### 137",137.0,137.0,True
+What is 40 + 33?,"The result of 40 + 33 is 73.
+
+#### 73",73.0,73.0,True
+What is 61 + 25?,"61 + 25 = 86
+
+#### 86",86.0,86.0,True
+What is 36 + 59?,"To find the sum, I'll add 36 and 59 together.
+
+36 + 59 = 95
+
+#### 95",95.0,95.0,True
+What is 78 + 18?,"To calculate 78 + 18, I would add the two numbers together.
+
+78 + 18 = 96
+
+#### 96",96.0,96.0,True
+What is 29 + 60?,"The result of 29 + 60 is 89.
+
+#### 89",89.0,89.0,True
+What is 22 + 53?,"To calculate 22 + 53, I get:
+
+75
+
+#### 75",75.0,75.0,True
+What is 51 + 65?,"51 + 65 = 116
+
+#### 116",116.0,116.0,True
+What is 32 + 69?,"The result of 32 + 69 is 101.
+
+#### 101",101.0,101.0,True
+What is 84 + 94?,"To find the sum, I'll add 84 and 94 together.
+
+84 + 94 = 178
+
+#### 178",178.0,178.0,True
+What is 41 + 57?,"The result of 41 + 57 is 98.
+
+#### 98",98.0,98.0,True
+What is 72 + 68?,"The result of 72 + 68 is 140.
+
+#### 140",140.0,140.0,True
+What is 76 + 86?,"76 + 86 = 162
+
+#### 162",162.0,162.0,True
+What is 99 + 48?,"The result of 99 + 48 is 147.
+
+#### 147",147.0,147.0,True
+What is 52 + 33?,"52 + 33 = 85
+
+#### 85",85.0,85.0,True
+What is 80 + 50?,"To calculate the sum, I'll add 80 and 50 together.
+
+80 + 50 = 130
+
+#### 130",130.0,130.0,True
+What is 11 + 49?,"11 + 49 = 60
+
+#### 60",60.0,60.0,True
+What is 64 + 40?,"To find the sum, I'll add 64 and 40 together.
+
+64 + 40 = 104
+
+#### 104",104.0,104.0,True
+What is 82 + 28?,"To find the sum, I'll add 82 and 28 together.
+
+82 + 28 = 110
+
+#### 110",110.0,110.0,True
+What is 91 + 76?,"The result of 91 + 76 is 167.
+
+#### 167",167.0,167.0,True
+What is 91 + 64?,"The result of 91 + 64 is 155.
+
+#### 155",155.0,155.0,True
+What is 47 + 29?,"To find the answer, we need to add 47 and 29 together.
+
+47 + 29 = 76
+
+#### 76",76.0,76.0,True
+What is 44 + 11?,"To calculate 44 + 11, we need to add the two numbers together.
+
+44 + 11 = 55
+
+#### 55",55.0,55.0,True
+What is 88 + 47?,"88 + 47 = 135
+
+#### 135",135.0,135.0,True
+What is 62 + 72?,"To find the sum, I'll add 62 and 72 together.
+
+62 + 72 = 134
+
+#### 134",134.0,134.0,True
+What is 81 + 82?,"First, let's add 81 and 82.
+
+81 + 82 = 163
+
+#### 163",163.0,163.0,True
+What is 63 + 89?,"63 + 89 = 152
+
+#### 152",152.0,152.0,True
+What is 96 + 49?,"The result of 96 + 49 is 145.
+
+#### 145",145.0,145.0,True
+What is 28 + 26?,"To find the sum, we'll add 28 and 26 together.
+
+28 + 26 = 54
+
+#### 54",54.0,54.0,True
+What is 42 + 43?,"To find the answer, we need to add 42 and 43 together.
+
+42 + 43 = 85
+
+#### 85",85.0,85.0,True
+What is 68 + 17?,"To calculate the sum, I'll add 68 and 17.
+
+68 + 17 = 85
+
+#### 85",85.0,85.0,True
+What is 58 + 82?,"The result of 58 + 82 is 140.
+
+#### 140",140.0,140.0,True
+What is 54 + 81?,"First, let's calculate the sum: 54 + 81 = 135
+
+#### 135",135.0,135.0,True
+What is 56 + 33?,"56 + 33 = 89
+
+#### 89",89.0,89.0,True
+What is 40 + 75?,"First, let's calculate the sum of 40 and 75.
+
+40 + 75 = 115
+
+#### 115",115.0,115.0,True
+What is 43 + 86?,"To calculate 43 + 86, we need to add the two numbers together.
+
+43 + 86 = 129
+
+#### 129",129.0,129.0,True
+What is 20 + 100?,"The calculation is 20 + 100 = 120
+
+#### 120",120.0,120.0,True
+What is 59 + 36?,"First, let's calculate the sum of 59 and 36.
+
+59 + 36 = 95
+
+#### 95",95.0,95.0,True
+What is 27 + 74?,"27 + 74 = 101
+
+#### 101",101.0,101.0,True
+What is 24 + 85?,"24 + 85 = 109
+
+#### 109",109.0,109.0,True
+What is 85 + 58?,"The result of 85 + 58 is 143.
+
+#### 143",143.0,143.0,True
+What is 38 + 79?,"38 + 79 = 117
+
+#### 117",117.0,117.0,True
+What is 59 + 79?,"59 + 79 = 138
+
+#### 138",138.0,138.0,True
+What is 80 + 17?,"80 + 17 = 97
+
+#### 97",97.0,97.0,True
+What is 77 + 34?,"To calculate 77 + 34, we need to add the two numbers together.
+
+77 + 34 = 111
+
+#### 111",111.0,111.0,True
+What is 40 + 98?,"To calculate the sum, I'll add 40 and 98.
+
+40 + 98 = 138
+
+#### 138",138.0,138.0,True
+What is 87 + 83?,"To calculate 87 + 83, I get:
+
+170
+
+#### 170",170.0,170.0,True
+What is 35 + 11?,"To calculate 35 + 11, we need to add the two numbers together.
+
+35 + 11 = 46
+
+#### 46",46.0,46.0,True
+What is 37 + 75?,"To find the answer, I'll add 37 and 75 together.
+
+37 + 75 = 112
+
+#### 112",112.0,112.0,True
+What is 100 + 92?,"100 + 92 = 192
+
+#### 192",192.0,192.0,True
+What is 13 + 34?,"The result of 13 + 34 is 47.
+
+#### 47",47.0,47.0,True
+What is 65 + 43?,"To find the sum, I'll add 65 and 43 together.
+
+65 + 43 = 108
+
+#### 108",108.0,108.0,True
+What is 22 + 56?,"To calculate 22 + 56, we simply add the two numbers together.
+
+22 + 56 = 78
+
+#### 78",78.0,78.0,True
+What is 59 + 70?,"59 + 70 = 129
+
+#### 129",129.0,129.0,True
+What is 87 + 49?,"To calculate 87 + 49, we need to add the two numbers together.
+
+87 + 49 = 136
+
+#### 136",136.0,136.0,True
+What is 16 + 69?,"The result of 16 + 69 is 85.
+
+#### 85",85.0,85.0,True
+What is 54 + 34?,"To calculate 54 + 34, we need to add the two numbers together.
+
+54 + 34 = 88
+
+#### 88",88.0,88.0,True
+What is 73 + 89?,"The result of 73 + 89 is 162.
+
+#### 162",162.0,162.0,True
+What is 71 + 96?,"The result of 71 + 96 is 167.
+
+#### 167",167.0,167.0,True
+What is 87 + 48?,"The result of 87 + 48 is 135.
+
+#### 135",135.0,135.0,True
+What is 94 + 29?,"The result of 94 + 29 is 123.
+
+#### 123",123.0,123.0,True
+What is 28 + 32?,"28 + 32 = 60
+
+#### 60",60.0,60.0,True
+What is 40 + 47?,"First, let's calculate the sum: 40 + 47 = 87
+
+#### 87",87.0,87.0,True
+What is 56 + 18?,"To find the answer, we need to add 56 and 18.
+
+56 + 18 = 74
+
+#### 74",74.0,74.0,True
+What is 90 + 93?,"To find the answer, we need to add 90 and 93.
+
+90 + 93 = 183
+
+#### 183",183.0,183.0,True
+What is 11 + 71?,"The result of 11 + 71 is 82.
+
+#### 82",82.0,82.0,True
+What is 18 + 25?,"To find the answer, we need to add 18 and 25 together.
+
+18 + 25 = 43
+
+#### 43",43.0,43.0,True
+What is 87 + 58?,"To calculate 87 + 58, we need to add the two numbers together.
+
+87 + 58 = 145
+
+#### 145",145.0,145.0,True
+What is 83 + 65?,"To calculate 83 + 65, we need to add the two numbers together.
+
+83 + 65 = 148
+
+#### 148",148.0,148.0,True
+What is 28 + 34?,"To find the answer, I'll add 28 and 34 together.
+
+28 + 34 = 62
+
+#### 62",62.0,62.0,True
+What is 72 + 12?,"To calculate 72 + 12, we need to add the two numbers together.
+
+72 + 12 = 84
+
+#### 84",84.0,84.0,True
+What is 75 + 71?,"To find the sum, we need to add 75 and 71.
+
+75 + 71 = 146
+
+#### 146",146.0,146.0,True
+What is 70 + 100?,"70 + 100 = 170
+
+#### 170",170.0,170.0,True
+What is 30 + 44?,"The result of 30 + 44 is 74.
+
+#### 74",74.0,74.0,True
+What is 89 + 53?,"The result of 89 + 53 is 142.
+
+#### 142",142.0,142.0,True
+What is 53 + 35?,"The result of 53 + 35 is 88.
+
+#### 88",88.0,88.0,True
+What is 99 + 88?,"The calculation is 99 + 88, which equals 187.
+
+#### 187",187.0,187.0,True

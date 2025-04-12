@@ -1,0 +1,504 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 560 + 512?,"To calculate the sum of 560 and 512, I'll add the two numbers together.
+
+560 + 512 = 1072
+
+#### 1072",1072.0,1072.0,True
+What is 410 + 466?,"410 + 466 = 876
+
+#### 876",876.0,876.0,True
+What is 946 + 839?,"To find the answer, I'll add 946 and 839 together.
+
+946 + 839 = 1785
+
+#### 1785",1785.0,1785.0,True
+What is 547 + 171?,"To calculate the sum of 547 and 171, I'll simply add the two numbers together.
+
+547 + 171 = 718
+
+#### 718",718.0,718.0,True
+What is 563 + 771?,"To calculate the sum of 563 and 771, I'll add the two numbers together.
+
+563 + 771 = 1334
+
+#### 1334",1334.0,1334.0,True
+What is 273 + 620?,"To calculate the sum of 273 and 620, I'll simply add the two numbers together.
+
+273 + 620 = 893
+
+#### 893",893.0,893.0,True
+What is 381 + 990?,"To calculate the sum, I'll simply add the two numbers together.
+
+381 + 990 = 1371
+
+#### 1371",1371.0,1371.0,True
+What is 837 + 800?,"To calculate 837 + 800, I'll simply add the two numbers together.
+
+837 + 800 = 1637
+
+#### 1637",1637.0,1637.0,True
+What is 704 + 941?,"To calculate the sum of 704 and 941, I'll add the two numbers together.
+
+704 + 941 = 1645
+
+#### 1645",1645.0,1645.0,True
+What is 138 + 601?,"To calculate the sum, I'll add 138 and 601.
+
+138 + 601 = 739
+
+#### 739",739.0,739.0,True
+What is 625 + 470?,"To find the answer, I'll simply add 625 and 470.
+
+625 + 470 = 1095
+
+#### 1095",1095.0,1095.0,True
+What is 887 + 290?,"To calculate 887 + 290, I'll simply add the two numbers together.
+
+887 + 290 = 1177
+
+#### 1177",1177.0,1177.0,True
+What is 112 + 553?,"To calculate the sum, I'll add 112 and 553.
+
+112 + 553 = 665
+
+#### 665",665.0,665.0,True
+What is 368 + 933?,"To calculate the sum, I'll add 368 and 933.
+
+368 + 933 = 1301
+
+#### 1301",1301.0,1301.0,True
+What is 759 + 372?,"To calculate the sum of 759 and 372, I'll simply add the two numbers together.
+
+759 + 372 = 1131
+
+#### 1131",1131.0,1131.0,True
+What is 831 + 447?,"To calculate the sum, I'll add 831 and 447.
+
+831 + 447 = 1278
+
+#### 1278",1278.0,1278.0,True
+What is 385 + 942?,"To calculate the sum, I'll simply add the two numbers together:
+
+385 + 942 = 1327
+
+#### 1327",1327.0,1327.0,True
+What is 484 + 356?,"To calculate the sum, I'll add 484 and 356.
+
+484 + 356 = 840
+
+#### 840",840.0,840.0,True
+What is 416 + 142?,"To calculate the sum, I'll add 416 and 142.
+
+416 + 142 = 558
+
+#### 558",558.0,558.0,True
+What is 431 + 128?,"To calculate the sum, I'll add 431 and 128.
+
+431 + 128 = 559
+
+#### 559",559.0,559.0,True
+What is 648 + 794?,"To calculate the sum of 648 and 794, I'll add the numbers together.
+
+648 + 794 = 1442
+
+#### 1442",1442.0,1442.0,True
+What is 345 + 704?,"To calculate the sum, I'll add 345 and 704 together.
+
+345 + 704 = 1049
+
+#### 1049",1049.0,1049.0,True
+What is 564 + 833?,"To calculate the sum, I'll add 564 and 833.
+
+564 + 833 = 1397
+
+#### 1397",1397.0,1397.0,True
+What is 433 + 529?,"To calculate the sum, I'll add 433 and 529.
+
+433 + 529 = 962
+
+#### 962",962.0,962.0,True
+What is 602 + 883?,"602 + 883 = 1485
+
+#### 1485",1485.0,1485.0,True
+What is 745 + 747?,"To calculate the sum of 745 and 747, I'll simply add the two numbers together.
+
+745 + 747 = 1492
+
+#### 1492",1492.0,1492.0,True
+What is 227 + 977?,"To calculate the sum, I'll add 227 and 977 together.
+
+227 + 977 = 1204
+
+#### 1204",1204.0,1204.0,True
+What is 364 + 231?,"To calculate the sum, I'll simply add the two numbers together.
+
+364 + 231 = 595
+
+#### 595",595.0,595.0,True
+What is 794 + 319?,"To calculate the sum, I'll add 794 and 319 together.
+
+794 + 300 = 1094
+1094 + 19 = 1113
+
+So the final answer is:
+
+#### 1113",1113.0,1113.0,True
+What is 531 + 679?,"To calculate the sum of 531 and 679, I'll simply add the two numbers together.
+
+531 + 679 = 1210
+
+#### 1210",1210.0,1210.0,True
+What is 949 + 433?,"To calculate the sum, I'll add 949 and 433.
+
+949 + 400 = 1349
+1349 + 30 = 1379
+1379 + 3 = 1382
+
+The final answer is: 
+#### 1382",1382.0,1382.0,True
+What is 188 + 375?,"To find the answer, I'll add 188 and 375.
+
+188 + 375 = 563
+
+#### 563",563.0,563.0,True
+What is 512 + 196?,"To calculate 512 + 196, I'll add the two numbers together.
+
+512 + 196 = 708
+
+#### 708",708.0,708.0,True
+What is 439 + 384?,"To calculate the sum of 439 and 384, I'll simply add the two numbers together.
+
+439 + 384 = 823
+
+#### 823",823.0,823.0,True
+What is 438 + 778?,"To calculate the sum of 438 and 778, I'll add the two numbers together.
+
+438 + 778 = 1216
+
+#### 1216",1216.0,1216.0,True
+What is 523 + 523?,"To calculate the sum, I'll simply add the two numbers together.
+
+523 + 523 = 1046
+
+#### 1046",1046.0,1046.0,True
+What is 540 + 160?,"To find the answer, I'll simply add 540 and 160.
+
+540 + 160 = 700
+
+#### 700",700.0,700.0,True
+What is 139 + 509?,"To calculate the sum of 139 and 509, I'll simply add the two numbers together.
+
+139 + 509 = 648
+
+#### 648",648.0,648.0,True
+What is 339 + 508?,"To calculate the sum, I'll add 339 and 508.
+
+339 + 508 = 847
+
+#### 847",847.0,847.0,True
+What is 543 + 750?,"To find the answer, I'll simply add 543 and 750.
+
+543 + 750 = 1293
+
+#### 1293",1293.0,1293.0,True
+What is 891 + 701?,"To calculate the sum, I'll add 891 and 701.
+
+891 + 701 = 1592
+
+#### 1592",1592.0,1592.0,True
+What is 885 + 774?,"To calculate the sum, I'll simply add the two numbers together:
+
+885 + 774 = 1659
+
+#### 1659",1659.0,1659.0,True
+What is 419 + 490?,"To calculate the sum of 419 and 490, I'll simply add the two numbers together.
+
+419 + 490 = 909
+
+#### 909",909.0,909.0,True
+What is 227 + 495?,"To calculate the sum of 227 and 495, I'll simply add the two numbers together.
+
+227 + 495 = 722
+
+#### 722",722.0,722.0,True
+What is 455 + 863?,"To calculate the sum, I'll add 455 and 863.
+
+455 + 863 = 1318
+
+#### 1318",1318.0,1318.0,True
+What is 596 + 933?,"To calculate the sum, I'll add 596 and 933.
+
+596 + 933 = 1529
+
+#### 1529",1529.0,1529.0,True
+What is 510 + 678?,"To calculate the sum, I'll simply add the two numbers together:
+
+510 + 678 = 1188
+
+#### 1188",1188.0,1188.0,True
+What is 872 + 816?,"To calculate the sum, I'll add 872 and 816.
+
+872 + 816 = 1688
+
+#### 1688",1688.0,1688.0,True
+What is 883 + 502?,"To calculate the sum, I'll add 883 and 502.
+
+883 + 502 = 1385
+
+#### 1385",1385.0,1385.0,True
+What is 119 + 703?,"To calculate the sum, I'll add 119 and 703.
+
+119 + 703 = 822
+
+#### 822",822.0,822.0,True
+What is 438 + 674?,"To calculate the sum of 438 and 674, I'll simply add the two numbers together.
+
+438 + 674 = 1112
+
+#### 1112",1112.0,1112.0,True
+What is 485 + 109?,"To calculate 485 + 109, I'll simply add the two numbers together.
+
+485 + 100 = 585
+585 + 9 = 594
+
+#### 594",594.0,594.0,True
+What is 693 + 339?,"To calculate the sum of 693 and 339, I'll perform the addition:
+
+693 + 300 = 993
+993 + 30 = 1023
+1023 + 9 = 1032
+
+The final answer is: #### 1032",1032.0,1032.0,True
+What is 243 + 316?,"To calculate the sum, I'll add 243 and 316 together.
+
+243 + 316 = 559
+
+#### 559",559.0,559.0,True
+What is 773 + 249?,"To calculate the sum, I'll add 773 and 249.
+
+773 + 200 = 973
+973 + 49 = 1022
+
+The final answer is: 
+#### 1022",1022.0,1022.0,True
+What is 650 + 184?,"650 + 184 = 834
+
+#### 834",834.0,834.0,True
+What is 586 + 292?,"To calculate the sum, I'll add 586 and 292.
+
+586 + 292 = 878
+
+#### 878",878.0,878.0,True
+What is 585 + 811?,"To calculate the sum of 585 and 811, I'll simply add the two numbers together.
+
+585 + 811 = 1396
+
+#### 1396",1396.0,1396.0,True
+What is 787 + 887?,"To calculate the sum, I'll add 787 and 887 together.
+
+787 + 887 = 1674
+
+#### 1674",1674.0,1674.0,True
+What is 450 + 276?,"To calculate the sum of 450 and 276, I'll add the two numbers together.
+
+450 + 276 = 726
+
+#### 726",726.0,726.0,True
+What is 457 + 645?,"To calculate the sum, I'll add 457 and 645.
+
+457 + 645 = 1102
+
+#### 1102",1102.0,1102.0,True
+What is 316 + 967?,"To calculate the sum, I'll add 316 and 967.
+
+316 + 967 = 1283
+
+#### 1283",1283.0,1283.0,True
+What is 548 + 481?,"To calculate the sum, I'll simply add the two numbers together.
+
+548 + 481 = 1029
+
+#### 1029",1029.0,1029.0,True
+What is 471 + 614?,"To find the answer, I'll add 471 and 614.
+
+471 + 614 = 1085
+
+#### 1085",1085.0,1085.0,True
+What is 718 + 927?,"To calculate the sum, I'll add 718 and 927.
+
+718 + 927 = 1645
+
+#### 1645",1645.0,1645.0,True
+What is 769 + 706?,"769 + 706 = 1475
+
+#### 1475",1475.0,1475.0,True
+What is 385 + 214?,"To calculate the sum of 385 and 214, I'll simply add the two numbers together.
+
+385 + 214 = 599
+
+#### 599",599.0,599.0,True
+What is 722 + 560?,"722 + 560 = 1282
+
+#### 1282",1282.0,1282.0,True
+What is 316 + 213?,"To calculate the sum, I'll add 316 and 213.
+
+316 + 213 = 529
+
+#### 529",529.0,529.0,True
+What is 637 + 981?,"To calculate the sum, I'll add 637 and 981.
+
+637 + 981 = 1618
+
+#### 1618",1618.0,1618.0,True
+What is 970 + 192?,"To calculate the sum, I'll add 970 and 192.
+
+970 + 192 = 1162
+
+#### 1162",1162.0,1162.0,True
+What is 390 + 922?,"To calculate the sum, I'll add 390 and 922.
+
+390 + 922 = 1312
+
+#### 1312",1312.0,1312.0,True
+What is 286 + 964?,"To calculate the sum, I'll add 286 and 964.
+
+286 + 964 = 1250
+
+#### 1250",1250.0,1250.0,True
+What is 489 + 250?,"To calculate the sum, I'll add 489 and 250.
+
+489 + 250 = 739
+
+#### 739",739.0,739.0,True
+What is 368 + 653?,"To calculate the sum, I'll add 368 and 653 together.
+
+368 + 653 = 1021
+
+#### 1021",1021.0,1021.0,True
+What is 930 + 786?,"To calculate the sum, I'll add 930 and 786.
+
+930 + 786 = 1716
+
+#### 1716",1716.0,1716.0,True
+What is 841 + 682?,"To find the answer, I'll add 841 and 682.
+
+841 + 682 = 1523
+
+#### 1523",1523.0,1523.0,True
+What is 799 + 468?,"To calculate the sum, I'll add the two numbers:
+
+799 + 468 = 1267
+
+#### 1267",1267.0,1267.0,True
+What is 909 + 487?,"To calculate the sum, I'll add 909 and 487.
+
+909 + 487 = 1396
+
+#### 1396",1396.0,1396.0,True
+What is 724 + 614?,"To calculate the sum, I'll add 724 and 614.
+
+724 + 614 = 1338
+
+#### 1338",1338.0,1338.0,True
+What is 622 + 180?,"To calculate 622 + 180, I'll simply add the two numbers together.
+
+622 + 180 = 802
+
+#### 802",802.0,802.0,True
+What is 273 + 444?,"To find the answer, I'll add 273 and 444.
+
+273 + 444 = 717
+
+#### 717",717.0,717.0,True
+What is 577 + 496?,"To calculate the sum of 577 and 496, I'll simply add the two numbers together.
+
+577 + 496 = 1073
+
+#### 1073",1073.0,1073.0,True
+What is 742 + 560?,"To find the answer, I'll simply add the two numbers together.
+
+742 + 560 = 1302
+
+#### 1302",1302.0,1302.0,True
+What is 928 + 327?,"To calculate the sum, I'll add 928 and 327.
+
+928 + 300 = 1228
+1228 + 20 = 1248
+1248 + 7 = 1255
+
+The final answer is: 
+#### 1255",1255.0,1255.0,True
+What is 261 + 595?,"To calculate the sum of 261 and 595, I'll add the two numbers together.
+
+261 + 595 = 856
+
+#### 856",856.0,856.0,True
+What is 667 + 915?,"To calculate the sum of 667 and 915, I'll simply add the two numbers together.
+
+667 + 915 = 1582
+
+#### 1582",1582.0,1582.0,True
+What is 405 + 989?,"To find the answer, I'll add 405 and 989.
+
+405 + 989 = 1394
+
+#### 1394",1394.0,1394.0,True
+What is 500 + 898?,"To calculate the sum, I'll add 500 and 898.
+
+500 + 898 = 1398
+
+#### 1398",1398.0,1398.0,True
+What is 779 + 713?,"To calculate the sum of 779 and 713, I'll simply add the two numbers together.
+
+779 + 713 = 1492
+
+#### 1492",1492.0,1492.0,True
+What is 103 + 254?,"To calculate the sum, I'll add 103 and 254.
+
+103 + 254 = 357
+
+#### 357",357.0,357.0,True
+What is 253 + 319?,"To calculate the sum, I'll add 253 and 319 together.
+
+253 + 300 = 553
+553 + 19 = 572
+
+So the final answer is: 
+
+#### 572",572.0,572.0,True
+What is 943 + 576?,"To calculate the sum, I'll add 943 and 576.
+
+943 + 576 = 1519
+
+#### 1519",1519.0,1519.0,True
+What is 880 + 497?,"To calculate the sum of 880 and 497, I'll simply add the two numbers together.
+
+880 + 497 = 1377
+
+#### 1377",1377.0,1377.0,True
+What is 872 + 895?,"To calculate the sum of 872 and 895, I'll add the two numbers together.
+
+872 + 895 = 1767
+
+#### 1767",1767.0,1767.0,True
+What is 680 + 198?,"680 + 198 = 878
+
+#### 878",878.0,878.0,True
+What is 289 + 251?,"289 + 251 = 540
+
+#### 540",540.0,540.0,True
+What is 157 + 134?,"To calculate the sum of 157 and 134, we simply add the two numbers together.
+
+157 + 134 = 291
+
+#### 291",291.0,291.0,True
+What is 305 + 823?,"To find the answer, I'll add 305 and 823.
+
+305 + 823 = 1128
+
+#### 1128",1128.0,1128.0,True
+What is 189 + 538?,"To calculate the sum of 189 and 538, I'll simply add the two numbers together.
+
+189 + 538 = 727
+
+#### 727",727.0,727.0,True

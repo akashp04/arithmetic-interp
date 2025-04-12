@@ -1,0 +1,584 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 886 * 318?,"To find the product of 886 and 318, we multiply the two numbers together.
+
+886 * 300 = 265800
+886 * 10 = 8860
+886 * 8 = 7088
+
+Adding up the partial products, we get:
+265800 + 8860 + 7088 = 281748
+
+#### 281748",281748.0,281748.0,True
+What is 884 * 468?,"To calculate the product of 884 and 468, I'll multiply the two numbers together.
+
+884 × 468 = 413,472
+
+#### 413,472",413472.0,413712.0,False
+What is 729 * 914?,"To find the product of 729 and 914, I'll perform the multiplication.
+
+729 * 914 = 666,486
+
+#### 666,486",666486.0,666306.0,False
+What is 847 * 692?,"To calculate the product of 847 and 692, I'll perform the multiplication.
+
+847 * 692 = 585,724
+
+#### 585,724",585724.0,586124.0,False
+What is 718 * 673?,"To find the product of 718 and 673, we need to multiply these two numbers.
+
+The result of multiplying 718 by 673 is 483,074.
+
+#### 483,074",483074.0,483214.0,False
+What is 931 * 338?,"To calculate the product of 931 and 338, I'll perform the multiplication.
+
+931 × 300 = 279300
+931 × 30 = 27930
+931 × 8 = 7448
+
+Now, let's add up the partial products:
+279300 + 27930 + 7448 = 313678
+
+#### 313678",313678.0,314678.0,False
+What is 119 * 402?,"To calculate 119 * 402, I get:
+
+47,838
+
+#### 47,838",47838.0,47838.0,True
+What is 695 * 166?,"To calculate 695 * 166, we need to multiply these two numbers together.
+
+695 * 166 = 115,470
+
+#### 115,470",115470.0,115370.0,False
+What is 313 * 493?,"To find the product of 313 and 493, we need to multiply these two numbers.
+
+313 * 493 = 154,549
+
+#### 154,549",154549.0,154309.0,False
+What is 759 * 829?,"To calculate the product of 759 and 829, I get:
+
+759 × 829 = 629,191
+
+#### 629,191",629191.0,629211.0,False
+What is 917 * 494?,"To calculate the product of 917 and 494, I can help you with that.
+
+917 * 494 = 453,078
+
+#### 453,078",453078.0,452998.0,False
+What is 847 * 426?,"To find the product of 847 and 426, we multiply these two numbers together.
+
+847 * 426 = 361,122
+
+#### 361,122",361122.0,360822.0,False
+What is 931 * 127?,"To calculate the product of 931 and 127, I'll perform the multiplication.
+
+931 * 127 = 118,237
+
+#### 118,237",118237.0,118237.0,True
+What is 899 * 275?,"To calculate 899 * 275, I get:
+
+247,725
+
+#### 247,725",247725.0,247225.0,False
+What is 409 * 548?,"To find the product of 409 and 548, we multiply these two numbers together.
+
+409 * 548 = 224,092
+
+#### 224,092",224092.0,224132.0,False
+What is 131 * 349?,"To calculate 131 * 349, I'll multiply the two numbers.
+
+131 * 300 = 39300
+131 * 40 = 5240
+131 * 9 = 1179
+
+Now, let's add up the partial products:
+39300 + 5240 + 1179 = 45719
+
+#### 45719",45719.0,45719.0,True
+What is 674 * 435?,"To calculate the product of 674 and 435, I'll perform the multiplication.
+
+674 * 435 = 293,290
+
+#### 293,290",293290.0,293190.0,False
+What is 603 * 689?,"603 * 689 = 415,767
+
+#### 415,767",415767.0,415467.0,False
+What is 347 * 739?,"To find the product of 347 and 739, we need to multiply these two numbers.
+
+347 * 739 = 256,573
+
+#### 256,573",256573.0,256433.0,False
+What is 295 * 475?,"To calculate 295 * 475, I'd be happy to help.
+
+295 * 475 = 140,125
+
+#### 140,125",140125.0,140125.0,True
+What is 939 * 595?,"To calculate the product of 939 and 595, we can multiply the two numbers together.
+
+939 * 595 = 558,505
+
+#### 558,505",558505.0,558705.0,False
+What is 631 * 539?,"To find the product of 631 and 539, we multiply these two numbers together.
+
+631 * 539 = 339,809
+
+#### 339,809",339809.0,340109.0,False
+What is 537 * 649?,"To calculate the product of 537 and 649, I'll multiply the two numbers together.
+
+537 * 649 = 348,813
+
+#### 348,813",348813.0,348513.0,False
+What is 828 * 941?,"To calculate the product of 828 and 941, I'll multiply the two numbers together.
+
+The result of the multiplication is: 779748
+
+#### 779748",779748.0,779148.0,False
+What is 844 * 284?,"To calculate 844 * 284, we can multiply the two numbers together.
+
+844 * 200 = 168,800
+844 * 80 = 67,520
+844 * 4 = 3,376
+
+Now, let's add up the results:
+168,800 + 67,520 + 3,376 = 239,696
+
+#### 239,696",239696.0,239696.0,True
+What is 568 * 624?,"To find the product of 568 and 624, I'll perform the multiplication.
+
+568 × 600 = 340,800
+568 × 20 = 11,360
+568 × 4 = 2,272
+
+Now, let's add up the partial products:
+340,800 + 11,360 + 2,272 = 354,432
+
+#### 354,432",354432.0,354432.0,True
+What is 400 * 347?,"To calculate 400 * 347, I'll perform the multiplication.
+
+400 * 300 = 120,000
+400 * 40 = 16,000
+400 * 7 = 2,800
+
+Adding up the partial products: 120,000 + 16,000 + 2,800 = 138,800
+
+#### 138,800",138800.0,138800.0,True
+What is 577 * 400?,"To calculate the product of 577 and 400, we can multiply these two numbers together.
+
+577 * 400 = 230,800
+
+#### 230,800",230800.0,230800.0,True
+What is 964 * 560?,"To calculate the product of 964 and 560, we multiply these two numbers together.
+
+964 * 560 = 539,840
+
+#### 539,840",539840.0,539840.0,True
+What is 700 * 200?,"To calculate 700 * 200, we can multiply the two numbers together.
+
+700 * 200 = 140,000
+
+#### 140,000",140000.0,140000.0,True
+What is 172 * 738?,"To calculate 172 * 738, I'll perform the multiplication.
+
+172 * 738 = 126,936
+
+#### 126,936",126936.0,126936.0,True
+What is 482 * 322?,"To calculate the product of 482 and 322, I'll perform the multiplication.
+
+482 * 322 = 155,284
+
+#### 155,284",155284.0,155204.0,False
+What is 984 * 376?,"To find the product of 984 and 376, we can multiply these two numbers together.
+
+984 * 376 = 369,984
+
+#### 369,984",369984.0,369984.0,True
+What is 748 * 774?,"To calculate the product of 748 and 774, I'll multiply the two numbers together.
+
+748 × 774 = 578,472
+
+#### 578,472",578472.0,578952.0,False
+What is 108 * 637?,"To calculate the result of 108 * 637, I'll multiply the two numbers together.
+
+108 * 600 = 64,800
+108 * 30 = 3,240
+108 * 7 = 756
+
+Adding up the partial products:
+64,800 + 3,240 + 756 = 68,796
+
+#### 68,796",68796.0,68796.0,True
+What is 531 * 149?,"To calculate the result of 531 multiplied by 149, we can perform the multiplication operation.
+
+531 * 149 = 79,119
+
+#### 79,119",79119.0,79119.0,True
+What is 108 * 955?,"To calculate 108 * 955, I get:
+
+102,540
+
+#### 102,540",102540.0,103140.0,False
+What is 730 * 407?,"To calculate the product of 730 and 407, I'll multiply the two numbers together.
+
+730 * 407 = 297,110
+
+#### 297,110",297110.0,297110.0,True
+What is 443 * 742?,"To find the product of 443 and 742, we multiply the two numbers together.
+
+443 * 742 = 328,726
+
+#### 328,726",328726.0,328706.0,False
+What is 359 * 358?,"To calculate 359 * 358, I get:
+
+128,822
+
+#### 128,822",128822.0,128522.0,False
+What is 420 * 752?,"To calculate the product of 420 and 752, we multiply the two numbers together.
+
+420 * 752 = 316,440
+
+#### 316,440",316440.0,315840.0,False
+What is 555 * 778?,"To calculate 555 * 778, I get:
+
+431,190
+
+#### 431,190",431190.0,431790.0,False
+What is 817 * 679?,"To calculate the result of 817 multiplied by 679, I get:
+
+817 × 679 = 554,843
+
+#### 554,843",554843.0,554743.0,False
+What is 564 * 212?,"To calculate 564 * 212, we need to multiply these two numbers together.
+
+564 * 200 = 112800
+564 * 10 = 5640
+564 * 2 = 1128
+
+Now, let's add up the partial products:
+112800 + 5640 + 1128 = 119568
+
+#### 119568",119568.0,119568.0,True
+What is 279 * 557?,"To calculate 279 * 557, I'll multiply the two numbers together.
+
+279 * 557 = 155,343
+
+#### 155,343",155343.0,155403.0,False
+What is 200 * 826?,"To calculate 200 * 826, I get:
+
+200 * 826 = 165,200
+
+#### 165,200",165200.0,165200.0,True
+What is 976 * 627?,"To calculate 976 * 627, we need to multiply the two numbers together.
+
+976 * 627 = 612,672
+
+#### 612,672",612672.0,611952.0,False
+What is 564 * 954?,"To calculate the product of 564 and 954, I'll perform the multiplication.
+
+564 × 954 = 538,536
+
+#### 538,536",538536.0,538056.0,False
+What is 483 * 857?,"To calculate the product of 483 and 857, I'll perform the multiplication.
+
+483 * 857 = 413,911
+
+#### 413,911",413911.0,413931.0,False
+What is 649 * 881?,"To calculate the product of 649 and 881, I get:
+
+649 × 881 = 572,429
+
+#### 572,429",572429.0,571769.0,False
+What is 812 * 405?,"To calculate 812 * 405, I'll perform the multiplication.
+
+812 * 400 = 324,800
+812 * 5 = 4,060
+Adding the two results together: 324,800 + 4,060 = 328,860
+
+#### 328,860",328860.0,328860.0,True
+What is 173 * 255?,"To calculate the product of 173 and 255, I'll multiply the numbers together.
+
+173 * 255 = 44,115
+
+#### 44,115",44115.0,44115.0,True
+What is 180 * 793?,"To calculate 180 * 793, we can multiply the two numbers together.
+
+180 * 793 = 142,740
+
+#### 142,740",142740.0,142740.0,True
+What is 451 * 581?,"To calculate 451 * 581, I'll multiply the numbers together.
+
+451 * 581 = 262,131
+
+#### 262,131",262131.0,262031.0,False
+What is 590 * 801?,"To find the product of 590 and 801, I'll multiply the two numbers together.
+
+590 × 801 = 472,590
+
+#### 472,590",472590.0,472590.0,True
+What is 495 * 862?,"To calculate the product of 495 and 862, I'll perform the multiplication.
+
+495 * 862 = 426,870
+
+#### 426,870",426870.0,426690.0,False
+What is 971 * 367?,"To calculate the product of 971 and 367, we can multiply the two numbers together.
+
+971 * 367 = 356,257
+
+#### 356,257",356257.0,356357.0,False
+What is 803 * 793?,"To find the product of 803 and 793, we can multiply these two numbers.
+
+803 * 793 = 637,079
+
+#### 637,079",637079.0,636779.0,False
+What is 973 * 901?,"To calculate 973 * 901, I can help you with that.
+
+973 * 901 = 876,773
+
+#### 876,773",876773.0,876673.0,False
+What is 376 * 241?,"To calculate the product of 376 and 241, I'll perform the multiplication.
+
+376 * 200 = 75,200
+376 * 40 = 15,040
+376 * 1 = 376
+
+Now, let's add up the partial products:
+75,200 + 15,040 + 376 = 90,616
+
+#### 90,616",90616.0,90616.0,True
+What is 228 * 195?,"To calculate 228 * 195, I'll multiply the two numbers together.
+
+228 * 100 = 22800
+228 * 90 = 20520
+228 * 5 = 1140
+
+Now, let's add up the partial products:
+22800 + 20520 = 43320
+43320 + 1140 = 44460
+
+The final answer is: 44460
+#### 44460",44460.0,44460.0,True
+What is 650 * 998?,"650 * 998 = 648,700
+
+#### 648,700",648700.0,648700.0,True
+What is 900 * 330?,"To calculate 900 * 330, we need to multiply the two numbers together.
+
+900 * 300 = 270,000
+900 * 30 = 27,000
+Adding these two results together gives us:
+270,000 + 27,000 = 297,000
+
+#### 297,000",297000.0,297000.0,True
+What is 575 * 214?,"To calculate 575 * 214, I get:
+
+122,550
+
+#### 122,550",122550.0,123050.0,False
+What is 363 * 267?,"To calculate the product of 363 and 267, I get:
+
+363 × 267 = 96,921
+
+#### 96,921",96921.0,96921.0,True
+What is 400 * 936?,"To calculate 400 * 936, I get:
+
+374400
+
+#### 374400",374400.0,374400.0,True
+What is 826 * 934?,"To find the product of 826 and 934, I'll multiply the two numbers together.
+
+826 × 934 = 771,844
+
+#### 771,844",771844.0,771484.0,False
+What is 679 * 272?,"To calculate 679 * 272, I'll perform the multiplication.
+
+679 * 200 = 135,800
+679 * 70 = 47,530
+679 * 2 = 1,358
+
+Adding up the partial products:
+135,800 + 47,530 + 1,358 = 184,688
+
+#### 184,688",184688.0,184688.0,True
+What is 813 * 961?,"To calculate the result of 813 multiplied by 961, I get:
+
+813 * 961 = 780,093
+
+#### 780,093",780093.0,781293.0,False
+What is 340 * 261?,"To calculate 340 * 261, I'd be happy to help you with that.
+
+340 * 261 = 88,740
+
+#### 88,740",88740.0,88740.0,True
+What is 114 * 710?,"To calculate 114 * 710, we need to multiply the two numbers together.
+
+114 * 710 = 80,940
+
+#### 80,940",80940.0,80940.0,True
+What is 329 * 813?,"To calculate 329 * 813, I'll multiply the two numbers.
+
+329 * 813 = 267,477
+
+#### 267,477",267477.0,267477.0,True
+What is 975 * 866?,"To calculate the product of 975 and 866, I'll perform the multiplication.
+
+975 * 866 = 844,550
+
+#### 844,550",844550.0,844350.0,False
+What is 750 * 422?,"To calculate the result, I'll multiply 750 by 422.
+
+750 * 422 = 316,500
+
+#### 316,500",316500.0,316500.0,True
+What is 736 * 869?,"To calculate the result of 736 * 869, we can simply multiply these two numbers together.
+
+736 * 869 = 638,984
+
+#### 638,984",638984.0,639584.0,False
+What is 197 * 954?,"To calculate 197 * 954, we can multiply the two numbers together.
+
+197 * 954 = 188,038
+
+#### 188,038",188038.0,187938.0,False
+What is 318 * 135?,"To calculate 318 * 135, I'll multiply the two numbers together.
+
+318 * 135 = 42,930
+
+#### 42,930",42930.0,42930.0,True
+What is 233 * 945?,"To calculate the result of 233 * 945, I'll perform the multiplication.
+
+233 * 900 = 209700
+233 * 40 = 9320
+233 * 5 = 1165
+
+Adding up the partial results:
+209700 + 9320 + 1165 = 219185
+
+#### 219185",219185.0,220185.0,False
+What is 327 * 982?,"To calculate the product of 327 and 982, we can multiply these two numbers together.
+
+327 * 982 = 321,414
+
+#### 321,414",321414.0,321114.0,False
+What is 614 * 642?,"To calculate the product of 614 and 642, we can multiply the two numbers together.
+
+614 × 642 = 394,068
+
+#### 394,068",394068.0,394188.0,False
+What is 825 * 637?,"To find the product of 825 and 637, we can multiply the two numbers together.
+
+825 × 637 = 525,525
+
+#### 525,525",525525.0,525525.0,True
+What is 381 * 559?,"To calculate the product of 381 and 559, I'll multiply the two numbers together.
+
+381 * 559 = 213,079
+
+#### 213,079",213079.0,212979.0,False
+What is 512 * 986?,"To calculate 512 * 986, I'll perform the multiplication.
+
+512 * 986 = 504,832
+
+#### 504,832",504832.0,504832.0,True
+What is 366 * 395?,"To calculate the product of 366 and 395, we multiply the two numbers together.
+
+366 × 395 = 144,870
+
+#### 144,870",144870.0,144570.0,False
+What is 456 * 166?,"To calculate the result of 456 multiplied by 166, I'll perform the multiplication.
+
+456 * 166 = 75,696
+
+#### 75,696",75696.0,75696.0,True
+What is 306 * 272?,"To calculate the product of 306 and 272, I'll perform the multiplication:
+
+306 * 272 = 83,232
+
+#### 83,232",83232.0,83232.0,True
+What is 896 * 832?,"To calculate 896 * 832, we multiply the two numbers together.
+
+896 * 832 = 745,632
+
+#### 745,632",745632.0,745472.0,False
+What is 392 * 302?,"To calculate 392 * 302, I'd be happy to help.
+
+392 * 300 = 117,600
+392 * 2 = 784
+
+Adding those together, we get:
+117,600 + 784 = 118,384
+
+#### 118,384",118384.0,118384.0,True
+What is 184 * 835?,"To calculate the product of 184 and 835, I'll perform the multiplication:
+
+184 × 835 = 153,940
+
+#### 153,940",153940.0,153640.0,False
+What is 870 * 444?,"To calculate the result of 870 * 444, I get:
+
+386,880
+
+#### 386,880",386880.0,386280.0,False
+What is 285 * 697?,"To calculate the product of 285 and 697, I get:
+
+285 * 697 = 198,945
+
+#### 198,945",198945.0,198645.0,False
+What is 252 * 825?,"To calculate 252 * 825, we need to multiply the two numbers together.
+
+252 * 800 = 201600
+252 * 20 = 5040
+252 * 5 = 1260
+
+Now, let's add up the partial products:
+201600 + 5040 + 1260 = 208900
+
+#### 208900",208900.0,207900.0,False
+What is 112 * 131?,"To calculate the product of 112 and 131, we need to multiply these two numbers.
+
+112 * 131 = 14672
+
+#### 14672",14672.0,14672.0,True
+What is 808 * 852?,"To calculate the result of 808 * 852, I'll perform the multiplication:
+
+808 × 852 = 688,416
+
+#### 688,416",688416.0,688416.0,True
+What is 338 * 924?,"To calculate 338 * 924, I get:
+
+338 * 924 = 312,552
+
+#### 312,552",312552.0,312312.0,False
+What is 102 * 789?,"To calculate the product of 102 and 789, I'll perform the multiplication.
+
+102 * 789 = 80,478
+
+#### 80,478",80478.0,80478.0,True
+What is 917 * 226?,"To calculate 917 * 226, I get:
+
+206,622
+
+#### 206,622",206622.0,207242.0,False
+What is 933 * 174?,"To calculate the product of 933 and 174, I'll perform the multiplication.
+
+933 * 174 = 162,222
+
+#### 162,222",162222.0,162342.0,False
+What is 470 * 528?,"To calculate 470 * 528, we can multiply the two numbers together.
+
+470 * 500 = 235,000
+470 * 20 = 9,400
+470 * 8 = 3,760
+
+Adding up the partial products, we get:
+235,000 + 9,400 + 3,760 = 248,160
+
+#### 248,160",248160.0,248160.0,True
+What is 526 * 236?,"To calculate the product of 526 and 236, I'll perform the multiplication.
+
+526 * 200 = 105,200
+526 * 30 = 15,780
+526 * 6 = 3,156
+
+Now, let's add up the partial products:
+105,200 + 15,780 + 3,156 = 124,136
+
+So, the result of 526 * 236 is:
+
+#### 124,136",124136.0,124136.0,True

@@ -1,0 +1,795 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 886 * 318?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 886 * 318?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 886 * 318:
+
+#### 28,042",28042,281748,False
+What is 884 * 468?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 884 * 468?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 884 * 468:
+
+#### 407,632",407632,413712,False
+What is 729 * 914?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 729 * 914?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 729 * 914 = 67506.
+
+#### 67506",67506,666306,False
+What is 847 * 692?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 847 * 692?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 847 * 692 = 56604.
+
+#### 56604",56604,586124,False
+What is 718 * 673?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 718 * 673?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 718 * 673:
+
+#### 48,014",48014,483214,False
+What is 931 * 338?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 931 * 338?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 931 * 338:
+
+**#### 32,228**",32228,314678,False
+What is 119 * 402?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 119 * 402?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 119 * 402 = 48,168.
+
+#### 48,168",48168,47838,False
+What is 695 * 166?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 695 * 166?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 695 * 166 = 107,600.
+
+#### 107,600",107600,115370,False
+What is 313 * 493?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 313 * 493?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 313 * 493:
+
+#### 313 * 493 = 152,191",152191,154309,False
+What is 759 * 829?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 759 * 829?
+Also append the final numerical answer on a new line starting with '#### '
+model
+759 * 829 = 62,441
+
+#### 62,441",62441,629211,False
+What is 917 * 494?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 917 * 494?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 917 * 494 = 42748.
+
+#### 42748",42748,452998,False
+What is 847 * 426?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 847 * 426?
+Also append the final numerical answer on a new line starting with '#### '
+model
+847 * 426 = 352062",352062,360822,False
+What is 931 * 127?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 931 * 127?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 931 * 127 = 11435.
+
+#### 11435",11435,118237,False
+What is 899 * 275?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 899 * 275?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 899 * 275 = 24927.
+
+#### 24927",24927,247225,False
+What is 409 * 548?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 409 * 548?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 409 * 548 = 218,208.
+
+#### 218,208",218208,224132,False
+What is 131 * 349?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 131 * 349?
+Also append the final numerical answer on a new line starting with '#### '
+model
+131 * 349 = 46,145
+
+#### 46,145",46145,45719,False
+What is 674 * 435?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 674 * 435?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 674 * 435 = 284,200.
+
+#### 284,200",284200,293190,False
+What is 603 * 689?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 603 * 689?
+Also append the final numerical answer on a new line starting with '#### '
+model
+603 * 689 = 39,580
+
+#### 39,580",39580,415467,False
+What is 347 * 739?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 347 * 739?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 347 * 739 = 267,203.
+
+#### 267,203",267203,256433,False
+What is 295 * 475?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 295 * 475?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 295 * 475:
+
+**295 * 475 = 138,250**
+
+Here's the final numerical answer on a new line starting with '#### ':
+
+#### 138,250",138250,140125,False
+What is 939 * 595?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 939 * 595?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 939 * 595 = 53485.
+
+#### 53485",53485,558705,False
+What is 631 * 539?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 631 * 539?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 631 * 539 = 32501.
+
+#### 32501",32501,340109,False
+What is 537 * 649?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 537 * 649?
+Also append the final numerical answer on a new line starting with '#### '
+model
+537 * 649 = 325403",325403,348513,False
+What is 828 * 941?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 828 * 941?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 828 * 941:
+
+#### 787,768",787768,779148,False
+What is 844 * 284?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 844 * 284?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 844 * 284:
+
+#### 23604",23604,239696,False
+What is 568 * 624?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 568 * 624?
+Also append the final numerical answer on a new line starting with '#### '
+model
+568 * 624 = 33504",33504,354432,False
+What is 400 * 347?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 400 * 347?
+Also append the final numerical answer on a new line starting with '#### '
+model
+400 * 347 = 149,600
+
+#### 149,600",149600,138800,False
+What is 577 * 400?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 577 * 400?
+Also append the final numerical answer on a new line starting with '#### '
+model
+577 * 400 = 228800
+
+#### 228800",228800,230800,False
+What is 964 * 560?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 964 * 560?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 964 * 560 = 52320.
+
+#### 52320",52320,539840,False
+What is 700 * 200?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 700 * 200?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 700 * 200 = 140,000.
+
+#### 140,000",140000,140000,False
+What is 172 * 738?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 172 * 738?
+Also append the final numerical answer on a new line starting with '#### '
+model
+172 * 738 = 129,048
+
+#### 129,048",129048,126936,False
+What is 482 * 322?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 482 * 322?
+Also append the final numerical answer on a new line starting with '#### '
+model
+482 * 322 = 160,884
+
+#### 160,884",160884,155204,False
+What is 984 * 376?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 984 * 376?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer:
+
+```
+984 * 376 = 36584
+```
+
+The final numerical answer is 36584.",36584,369984,False
+What is 748 * 774?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 748 * 774?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 748 * 774 = 58032.
+
+#### 58032",58032,578952,False
+What is 108 * 637?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 108 * 637?
+Also append the final numerical answer on a new line starting with '#### '
+model
+108 * 637 = 66,004
+
+#### 66,004",66004,68796,False
+What is 531 * 149?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 531 * 149?
+Also append the final numerical answer on a new line starting with '#### '
+model
+531 * 149 = 75,855
+
+#### 75,855",75855,79119,False
+What is 108 * 955?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 108 * 955?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 108 * 955:
+
+#### 98880",98880,103140,False
+What is 730 * 407?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 730 * 407?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 730 * 407 = 297460.
+
+#### 297460",297460,297110,False
+What is 443 * 742?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 443 * 742?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 443 * 742 = 32556.
+
+#### 32556",32556,328706,False
+What is 359 * 358?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 359 * 358?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 359 * 358 = 128,006.
+
+#### 128,006",128006,128522,False
+What is 420 * 752?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 420 * 752?
+Also append the final numerical answer on a new line starting with '#### '
+model
+420 * 752 = 324800",324800,315840,False
+What is 555 * 778?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 555 * 778?
+Also append the final numerical answer on a new line starting with '#### '
+model
+555 * 778 = 43880
+
+#### 43880",43880,431790,False
+What is 817 * 679?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 817 * 679?
+Also append the final numerical answer on a new line starting with '#### '
+model
+817 * 679 = 542063",542063,554743,False
+What is 564 * 212?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 564 * 212?
+Also append the final numerical answer on a new line starting with '#### '
+model
+564 * 212 = 12168
+
+#### 12168",12168,119568,False
+What is 279 * 557?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 279 * 557?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 279 * 557:
+
+#### 148, 359",148359,155403,False
+What is 200 * 826?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 200 * 826?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 200 * 826 = 16520.
+
+#### 16520",16520,165200,False
+What is 976 * 627?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 976 * 627?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 976 * 627:
+
+#### 60016",60016,611952,False
+What is 564 * 954?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 564 * 954?
+Also append the final numerical answer on a new line starting with '#### '
+model
+564 * 954 = 53664
+
+#### 53664",53664,538056,False
+What is 483 * 857?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 483 * 857?
+Also append the final numerical answer on a new line starting with '#### '
+model
+483 * 857 = 415005",415005,413931,False
+What is 649 * 881?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 649 * 881?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 649 * 881 = 578,799.
+
+#### 578,799",578799,571769,False
+What is 812 * 405?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 812 * 405?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 812 * 405 = 32,480.
+
+#### 32,480",32480,328860,False
+What is 173 * 255?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 173 * 255?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 173 * 255 = 45,755.
+
+#### 45,755",45755,44115,False
+What is 180 * 793?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 180 * 793?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 180 * 793:
+
+#### 140,240",140240,142740,False
+What is 451 * 581?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 451 * 581?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+451 * 581 = 254,155
+
+#### 254,155",254155,262031,False
+What is 590 * 801?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 590 * 801?
+Also append the final numerical answer on a new line starting with '#### '
+model
+590 * 801 = 48160
+
+#### 48160",48160,472590,False
+What is 495 * 862?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 495 * 862?
+Also append the final numerical answer on a new line starting with '#### '
+model
+495 * 862 = 43140
+
+#### 43140",43140,426690,False
+What is 971 * 367?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 971 * 367?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 971 * 367:
+
+#### 355991",355991,356357,False
+What is 803 * 793?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 803 * 793?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 803 * 793:
+
+#### 66,349",66349,636779,False
+What is 973 * 901?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 973 * 901?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question 973 * 901:
+
+#### 89603",89603,876673,False
+What is 376 * 241?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 376 * 241?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 376 * 241 = 94720.
+
+#### 94720",94720,90616,False
+What is 228 * 195?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 228 * 195?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 228 * 195 = 42,800.
+
+#### 42,800",42800,44460,False
+What is 650 * 998?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 650 * 998?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 650 * 998:
+
+#### 645820",645820,648700,False
+What is 900 * 330?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 900 * 330?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 900 * 330:
+
+#### 29,600",29600,297000,False
+What is 575 * 214?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 575 * 214?
+Also append the final numerical answer on a new line starting with '#### '
+model
+575 * 214 = 125,650
+
+#### 125,650",125650,123050,False
+What is 363 * 267?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 363 * 267?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 363 * 267:
+
+#### 95141",95141,96921,False
+What is 400 * 936?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 400 * 936?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 400 * 936 = 36480.
+
+#### 36480",36480,374400,False
+What is 826 * 934?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 826 * 934?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 826 * 934 = 78372.
+
+#### 78372",78372,771484,False
+What is 679 * 272?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 679 * 272?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 679 * 272 = 180,088.
+
+#### 180,088",180088,184688,False
+What is 813 * 961?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 813 * 961?
+Also append the final numerical answer on a new line starting with '#### '
+model
+813 * 961 = 789031
+
+#### 789031",789031,781293,False
+What is 340 * 261?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 340 * 261?
+Also append the final numerical answer on a new line starting with '#### '
+model
+340 * 261 = 85,440
+
+#### 85,440",85440,88740,False
+What is 114 * 710?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 114 * 710?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 114 * 710:
+
+#### 7880",7880,80940,False
+What is 329 * 813?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 329 * 813?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 329 * 813 = 270,007.
+
+#### 270,007",270007,267477,False
+What is 975 * 866?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 975 * 866?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 975 * 866 = 85760.
+
+#### 85760",85760,844350,False
+What is 750 * 422?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 750 * 422?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 750 * 422:
+
+#### 311200",311200,316500,False
+What is 736 * 869?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 736 * 869?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 736 * 869 = 63104.
+
+#### 63104",63104,639584,False
+What is 197 * 954?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 197 * 954?
+Also append the final numerical answer on a new line starting with '#### '
+model
+197 * 954 = 192292",192292,187938,False
+What is 318 * 135?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 318 * 135?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 318 * 135 = 41,100.
+
+#### 41,100",41100,42930,False
+What is 233 * 945?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 233 * 945?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 233 * 945 = 21805.
+
+#### 21805",21805,220185,False
+What is 327 * 982?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 327 * 982?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 327 * 982:
+
+#### 320,566",320566,321114,False
+What is 614 * 642?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 614 * 642?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 614 * 642 = 37516.
+
+#### 37516",37516,394188,False
+What is 825 * 637?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 825 * 637?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 825 * 637 = 52525.
+
+#### 52525",52525,525525,False
+What is 381 * 559?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 381 * 559?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 381 * 559 = 206,605.
+
+#### 206,605",206605,212979,False
+What is 512 * 986?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 512 * 986?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 512 * 986:
+
+#### 487448",487448,504832,False
+What is 366 * 395?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 366 * 395?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 366 * 395 = 144,150.
+
+#### 144,150",144150,144570,False
+What is 456 * 166?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 456 * 166?
+Also append the final numerical answer on a new line starting with '#### '
+model
+456 * 166 = 74888
+
+#### 74888",74888,75696,False
+What is 306 * 272?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 306 * 272?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 306 * 272 = 8304.
+
+#### 8304",8304,83232,False
+What is 896 * 832?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 896 * 832?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 896 * 832:
+
+#### 78064",78064,745472,False
+What is 392 * 302?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 392 * 302?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 392 * 302 = 12164.
+
+#### 12164",12164,118384,False
+What is 184 * 835?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 184 * 835?
+Also append the final numerical answer on a new line starting with '#### '
+model
+184 * 835 = 159,600
+
+#### 159,600",159600,153640,False
+What is 870 * 444?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 870 * 444?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 870 * 444 = 37160.
+
+#### 37160",37160,386280,False
+What is 285 * 697?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 285 * 697?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 285 * 697:
+
+#### 190 235",190235,198645,False
+What is 252 * 825?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 252 * 825?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 252 * 825 = 216,250.
+
+#### 216,250",216250,207900,False
+What is 112 * 131?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 112 * 131?
+Also append the final numerical answer on a new line starting with '#### '
+model
+112 * 131 = 14440",14440,14672,False
+What is 808 * 852?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 808 * 852?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 808 * 852 = 68,608.
+
+#### 68,608",68608,688416,False
+What is 338 * 924?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 338 * 924?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 338 * 924 = 32112.
+
+#### 32112",32112,312312,False
+What is 102 * 789?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 102 * 789?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 102 * 789 = 80074.
+
+#### 80074",80074,80478,False
+What is 917 * 226?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 917 * 226?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 917 * 226 = 20522.
+
+#### 20522",20522,207242,False
+What is 933 * 174?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 933 * 174?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 933 * 174 = 15952.
+
+#### 15952",15952,162342,False
+What is 470 * 528?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 470 * 528?
+Also append the final numerical answer on a new line starting with '#### '
+model
+470 * 528 = 248,320
+
+#### 248,320",248320,248160,False
+What is 526 * 236?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 526 * 236?
+Also append the final numerical answer on a new line starting with '#### '
+model
+526 * 236 = 124,088
+
+#### 124,088",124088,124136,False

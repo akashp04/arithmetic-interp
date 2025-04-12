@@ -1,0 +1,835 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 560 + 512?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 560 + 512?
+Also append the final numerical answer on a new line starting with '#### '
+model
+560 + 512 = 1072
+
+#### 1072",1072,1072,True
+What is 410 + 466?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 410 + 466?
+Also append the final numerical answer on a new line starting with '#### '
+model
+410 + 466 = 876
+
+#### 876",876,876,True
+What is 946 + 839?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 946 + 839?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 946 + 839 = 1785.
+
+#### 1785",1785,1785,True
+What is 547 + 171?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 547 + 171?
+Also append the final numerical answer on a new line starting with '#### '
+model
+547 + 171 = 718
+
+#### 718",718,718,True
+What is 563 + 771?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 563 + 771?
+Also append the final numerical answer on a new line starting with '#### '
+model
+563 + 771 = 1334
+
+#### 1334",1334,1334,True
+What is 273 + 620?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 273 + 620?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 273 + 620 = 893.
+
+#### 893",893,893,True
+What is 381 + 990?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 381 + 990?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+381 + 990 = 1371
+
+Here's the final numerical answer, appended on a new line starting with '#### ':
+
+#### 1371",1371,1371,True
+What is 837 + 800?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 837 + 800?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer:
+
+837 + 800 = 1637
+
+It is 1637.",1637,1637,True
+What is 704 + 941?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 704 + 941?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question 704 + 941:
+
+**#### 1645**",1645,1645,True
+What is 138 + 601?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 138 + 601?
+Also append the final numerical answer on a new line starting with '#### '
+model
+138 + 601 = 739
+
+#### 739",739,739,True
+What is 625 + 470?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 625 + 470?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 625 + 470 = 1095.
+
+#### 1095",1095,1095,True
+What is 887 + 290?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 887 + 290?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 887 + 290 = 1177.
+
+#### 1177",1177,1177,True
+What is 112 + 553?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 112 + 553?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+112 + 553 = 665
+
+#### 665",665,665,True
+What is 368 + 933?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 368 + 933?
+Also append the final numerical answer on a new line starting with '#### '
+model
+368 + 933 = 1301
+
+#### 1301",1301,1301,True
+What is 759 + 372?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 759 + 372?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+759 + 372 = 1131
+
+#### 1131",1131,1131,True
+What is 831 + 447?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 831 + 447?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 831 + 447 = 1278.
+
+#### 1278",1278,1278,True
+What is 385 + 942?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 385 + 942?
+Also append the final numerical answer on a new line starting with '#### '
+model
+385 + 942 = 1327
+
+#### 1327",1327,1327,True
+What is 484 + 356?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 484 + 356?
+Also append the final numerical answer on a new line starting with '#### '
+model
+484 + 356 = 840
+
+#### 840",840,840,True
+What is 416 + 142?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 416 + 142?
+Also append the final numerical answer on a new line starting with '#### '
+model
+416 + 142 = 558
+
+#### 558",558,558,True
+What is 431 + 128?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 431 + 128?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 431 + 128 = 559.
+
+#### 559",559,559,True
+What is 648 + 794?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 648 + 794?
+Also append the final numerical answer on a new line starting with '#### '
+model
+648 + 794 = 1442
+
+#### 1442",1442,1442,True
+What is 345 + 704?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 345 + 704?
+Also append the final numerical answer on a new line starting with '#### '
+model
+345 + 704 = 1049.
+
+#### 1049",1049,1049,True
+What is 564 + 833?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 564 + 833?
+Also append the final numerical answer on a new line starting with '#### '
+model
+564 + 833 = 1497
+
+#### 1497",1497,1397,True
+What is 433 + 529?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 433 + 529?
+Also append the final numerical answer on a new line starting with '#### '
+model
+433 + 529 = 962
+
+#### 962",962,962,True
+What is 602 + 883?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 602 + 883?
+Also append the final numerical answer on a new line starting with '#### '
+model
+602 + 883 = 1485
+
+#### 1485",1485,1485,True
+What is 745 + 747?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 745 + 747?
+Also append the final numerical answer on a new line starting with '#### '
+model
+745 + 747 = 1492
+
+#### 1492",1492,1492,True
+What is 227 + 977?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 227 + 977?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 227 + 977 = 1204.
+
+#### 1204",1204,1204,True
+What is 364 + 231?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 364 + 231?
+Also append the final numerical answer on a new line starting with '#### '
+model
+364 + 231 = 595
+
+#### 595",595,595,True
+What is 794 + 319?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 794 + 319?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 794 + 319 = 1113.
+
+#### 1113",1113,1113,True
+What is 531 + 679?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 531 + 679?
+Also append the final numerical answer on a new line starting with '#### '
+model
+531 + 679 = 1210
+
+#### 1210",1210,1210,True
+What is 949 + 433?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 949 + 433?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 949 + 433 = 1382.
+
+#### 1382",1382,1382,True
+What is 188 + 375?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 188 + 375?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 188 + 375 = 563.
+
+#### 563",563,563,True
+What is 512 + 196?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 512 + 196?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+512 + 196 = 618
+
+It is now 618.",618,708,True
+What is 439 + 384?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 439 + 384?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 439 + 384 = 823.
+
+#### 823",823,823,True
+What is 438 + 778?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 438 + 778?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 438 + 778 = 1216.
+
+#### 1216",1216,1216,True
+What is 523 + 523?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 523 + 523?
+Also append the final numerical answer on a new line starting with '#### '
+model
+523 + 523 = 1046
+
+#### 1046",1046,1046,True
+What is 540 + 160?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 540 + 160?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+540 + 160 = 600
+
+It is 600.",600,700,True
+What is 139 + 509?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 139 + 509?
+Also append the final numerical answer on a new line starting with '#### '
+model
+139 + 509 = 648
+
+#### 648",648,648,True
+What is 339 + 508?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 339 + 508?
+Also append the final numerical answer on a new line starting with '#### '
+model
+339 + 508 = 847
+
+#### 847",847,847,True
+What is 543 + 750?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 543 + 750?
+Also append the final numerical answer on a new line starting with '#### '
+model
+543 + 750 = 1293
+
+#### 1293",1293,1293,True
+What is 891 + 701?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 891 + 701?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 891 + 701 = 1592.
+
+#### 1592",1592,1592,True
+What is 885 + 774?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 885 + 774?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question 885 + 774:
+
+#### 1659",1659,1659,True
+What is 419 + 490?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 419 + 490?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 419 + 490 = 909.
+
+#### 909",909,909,True
+What is 227 + 495?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 227 + 495?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 227 + 495 = 722.
+
+#### 722",722,722,True
+What is 455 + 863?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 455 + 863?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question 455 + 863:
+
+#### 1318",1318,1318,True
+What is 596 + 933?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 596 + 933?
+Also append the final numerical answer on a new line starting with '#### '
+model
+596 + 933 = 1529
+
+#### 1529",1529,1529,True
+What is 510 + 678?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 510 + 678?
+Also append the final numerical answer on a new line starting with '#### '
+model
+510 + 678 = 1188
+
+#### 1188",1188,1188,True
+What is 872 + 816?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 872 + 816?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 872 + 816 = 1688.
+
+#### 1688",1688,1688,True
+What is 883 + 502?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 883 + 502?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+883 + 502 = 1385
+
+#### 1385",1385,1385,True
+What is 119 + 703?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 119 + 703?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 119 + 703:
+
+#### 822",822,822,True
+What is 438 + 674?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 438 + 674?
+Also append the final numerical answer on a new line starting with '#### '
+model
+438 + 674 = 1112
+
+#### 1112",1112,1112,True
+What is 485 + 109?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 485 + 109?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 485 + 109:
+
+#### 594",594,594,True
+What is 693 + 339?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 693 + 339?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 693 + 339 = 1032.
+
+#### 1032",1032,1032,True
+What is 243 + 316?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 243 + 316?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 243 + 316:
+
+**#### 559**",559,559,True
+What is 773 + 249?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 773 + 249?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 773 + 249 = 1022.
+
+#### 1022",1022,1022,True
+What is 650 + 184?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 650 + 184?
+Also append the final numerical answer on a new line starting with '#### '
+model
+650 + 184 = 834
+
+#### 834",834,834,True
+What is 586 + 292?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 586 + 292?
+Also append the final numerical answer on a new line starting with '#### '
+model
+586 + 292 = 878
+
+#### 878",878,878,True
+What is 585 + 811?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 585 + 811?
+Also append the final numerical answer on a new line starting with '#### '
+model
+585 + 811 = 1496
+
+#### 1496",1496,1396,True
+What is 787 + 887?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 787 + 887?
+Also append the final numerical answer on a new line starting with '#### '
+model
+787 + 887 = 1674
+
+#### 1674",1674,1674,True
+What is 450 + 276?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 450 + 276?
+Also append the final numerical answer on a new line starting with '#### '
+model
+450 + 276 = 726
+
+#### 726",726,726,True
+What is 457 + 645?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 457 + 645?
+Also append the final numerical answer on a new line starting with '#### '
+model
+457 + 645 = 1102
+
+#### 1102",1102,1102,True
+What is 316 + 967?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 316 + 967?
+Also append the final numerical answer on a new line starting with '#### '
+model
+316 + 967 = 1283
+
+#### 1283",1283,1283,True
+What is 548 + 481?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 548 + 481?
+Also append the final numerical answer on a new line starting with '#### '
+model
+548 + 481 = 1029
+
+#### 1029",1029,1029,True
+What is 471 + 614?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 471 + 614?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 471 + 614:
+
+#### 1085",1085,1085,True
+What is 718 + 927?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 718 + 927?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question 718 + 927:
+
+**718 + 927 = 1645**
+
+Here is the final numerical answer, 1645, appended on a new line starting with '#### ':
+
+#### 1645",1645,1645,True
+What is 769 + 706?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 769 + 706?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 769 + 706 = 1475.
+
+#### 1475",1475,1475,True
+What is 385 + 214?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 385 + 214?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 385 + 214:
+
+#### 599",599,599,True
+What is 722 + 560?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 722 + 560?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 722 + 560:
+
+**722 + 560 = 1282**
+
+Please note that I have appended the final numerical answer on a new line starting with '#### ' for clarity.",1282,1282,True
+What is 316 + 213?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 316 + 213?
+Also append the final numerical answer on a new line starting with '#### '
+model
+316 + 213 = 529
+
+#### 529",529,529,True
+What is 637 + 981?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 637 + 981?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 637 + 981 = 1618.
+
+#### 1618",1618,1618,True
+What is 970 + 192?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 970 + 192?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 970 + 192 = 1162.
+
+#### 1162",1162,1162,True
+What is 390 + 922?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 390 + 922?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 390 + 922 = 1312.
+
+#### 1312",1312,1312,True
+What is 286 + 964?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 286 + 964?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 286 + 964 = 1250.
+
+#### 1250",1250,1250,True
+What is 489 + 250?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 489 + 250?
+Also append the final numerical answer on a new line starting with '#### '
+model
+489 + 250 = 739
+
+#### 739",739,739,True
+What is 368 + 653?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 368 + 653?
+Also append the final numerical answer on a new line starting with '#### '
+model
+368 + 653 = 1021
+
+#### 1021",1021,1021,True
+What is 930 + 786?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 930 + 786?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 930 + 786 = 1716.
+
+#### 1716",1716,1716,True
+What is 841 + 682?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 841 + 682?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 841 + 682 = 1523.
+
+#### 1523",1523,1523,True
+What is 799 + 468?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 799 + 468?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 799 + 468:
+
+**799 + 468 = 1267**
+
+Here's the final numerical answer:
+
+#### 1267",1267,1267,True
+What is 909 + 487?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 909 + 487?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 909 + 487 = 1396.
+
+#### 1396",1396,1396,True
+What is 724 + 614?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 724 + 614?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question 724 + 614:
+
+#### 1338",1338,1338,True
+What is 622 + 180?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 622 + 180?
+Also append the final numerical answer on a new line starting with '#### '
+model
+622 + 180 = 802
+
+#### 802",802,802,True
+What is 273 + 444?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 273 + 444?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+273 + 444 = 717
+
+Here's the final numerical answer:
+
+#### 717",717,717,True
+What is 577 + 496?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 577 + 496?
+Also append the final numerical answer on a new line starting with '#### '
+model
+577 + 496 = 1073
+
+#### 1073",1073,1073,True
+What is 742 + 560?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 742 + 560?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 742 + 560:
+
+#### 1,202",1202,1302,True
+What is 928 + 327?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 928 + 327?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 928 + 327 = 1255.
+
+#### 1255",1255,1255,True
+What is 261 + 595?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 261 + 595?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 261 + 595 = 856.
+
+#### 856",856,856,True
+What is 667 + 915?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 667 + 915?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 667 + 915 = 1582.
+
+#### 1582",1582,1582,True
+What is 405 + 989?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 405 + 989?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 405 + 989 = 1394.
+
+#### 1394",1394,1394,True
+What is 500 + 898?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 500 + 898?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+500 + 898 = 1398
+
+#### 1398",1398,1398,True
+What is 779 + 713?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 779 + 713?
+Also append the final numerical answer on a new line starting with '#### '
+model
+779 + 713 = 1492.
+
+#### 1492",1492,1492,True
+What is 103 + 254?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 103 + 254?
+Also append the final numerical answer on a new line starting with '#### '
+model
+103 + 254 = 357
+
+#### 357",357,357,True
+What is 253 + 319?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 253 + 319?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 253 + 319 = 572.
+
+#### 572",572,572,True
+What is 943 + 576?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 943 + 576?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 943 + 576 = 1519.
+
+#### 1519",1519,1519,True
+What is 880 + 497?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 880 + 497?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 880 + 497 = 1377.
+
+#### 1377",1377,1377,True
+What is 872 + 895?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 872 + 895?
+Also append the final numerical answer on a new line starting with '#### '
+model
+872 + 895 = 1767
+
+#### 1767",1767,1767,True
+What is 680 + 198?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 680 + 198?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to your question:
+
+680 + 198 = 878
+
+It is 878.",878,878,True
+What is 289 + 251?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 289 + 251?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 289 + 251 = 540.
+
+#### 540",540,540,True
+What is 157 + 134?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 157 + 134?
+Also append the final numerical answer on a new line starting with '#### '
+model
+157 + 134 = 291
+
+#### 291",291,291,True
+What is 305 + 823?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 305 + 823?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 305 + 823 = 1128.
+
+#### 1128",1128,1128,True
+What is 189 + 538?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 189 + 538?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 189 + 538 = 727.
+
+#### 727",727,727,True

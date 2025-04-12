@@ -1,0 +1,329 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 4 + 7?,"4 + 7 = 11
+
+#### 11",11.0,11.0,True
+What is 8 + 9?,"8 + 9 = 17
+
+#### 17",17.0,17.0,True
+What is 4 + 6?,"The answer to 4 + 6 is 10.
+
+#### 10",10.0,10.0,True
+What is 5 + 5?,"The answer to 5 + 5 is 10.
+
+#### 10",10.0,10.0,True
+What is 5 + 5?,"5 + 5 equals 10.
+
+#### 10",10.0,10.0,True
+What is 2 + 5?,"To calculate 2 + 5, we simply add the two numbers together.
+
+2 + 5 = 7
+
+#### 7",7.0,7.0,True
+What is 5 + 9?,"The answer to 5 + 9 is 14.
+
+#### 14",14.0,14.0,True
+What is 10 + 9?,"To calculate 10 + 9, we simply add the two numbers together.
+
+10 + 9 = 19
+
+#### 19",19.0,19.0,True
+What is 6 + 8?,"The answer to 6 + 8 is 14.
+
+#### 14",14.0,14.0,True
+What is 4 + 1?,"The answer to 4 + 1 is 5.
+
+#### 5",5.0,5.0,True
+What is 5 + 7?,"5 + 7 = 12
+
+#### 12",12.0,12.0,True
+What is 6 + 1?,"6 + 1 = 7
+
+#### 7",7.0,7.0,True
+What is 6 + 7?,"The answer to 6 + 7 is 13.
+
+#### 13",13.0,13.0,True
+What is 6 + 2?,"6 + 2 = 8
+
+#### 8",8.0,8.0,True
+What is 7 + 6?,"7 + 6 = 13
+
+#### 13",13.0,13.0,True
+What is 6 + 2?,"6 + 2 = 8
+
+#### 8",8.0,8.0,True
+What is 5 + 4?,"To calculate 5 + 4, we simply add the two numbers together.
+
+5 + 4 = 9
+
+#### 9",9.0,9.0,True
+What is 3 + 7?,"The answer to 3 + 7 is 10.
+
+#### 10",10.0,10.0,True
+What is 5 + 6?,"To calculate 5 + 6, I'll simply add the two numbers together.
+
+5 + 6 = 11
+
+#### 11",11.0,11.0,True
+What is 5 + 3?,"The answer to 5 + 3 is 8.
+
+#### 8",8.0,8.0,True
+What is 2 + 3?,"The answer to 2 + 3 is 5.
+
+#### 5",5.0,5.0,True
+What is 6 + 9?,"6 + 9 = 15
+
+#### 15",15.0,15.0,True
+What is 7 + 4?,"The answer to 7 + 4 is 11.
+
+#### 11",11.0,11.0,True
+What is 2 + 6?,"The answer to 2 + 6 is 8.
+
+#### 8",8.0,8.0,True
+What is 7 + 6?,"The answer to 7 + 6 is 13.
+
+#### 13",13.0,13.0,True
+What is 2 + 4?,"The answer to 2 + 4 is 6.
+
+#### 6",6.0,6.0,True
+What is 9 + 3?,"9 + 3 = 12
+
+#### 12",12.0,12.0,True
+What is 2 + 6?,"To find the answer, we simply add 2 and 6 together.
+
+2 + 6 = 8
+
+#### 8",8.0,8.0,True
+What is 9 + 8?,"9 + 8 = 17
+
+#### 17",17.0,17.0,True
+What is 9 + 9?,"9 + 9 = 18
+
+#### 18",18.0,18.0,True
+What is 2 + 2?,"The answer to 2 + 2 is 4.
+
+#### 4",4.0,4.0,True
+What is 10 + 1?,"10 + 1 = 11
+
+#### 11",11.0,11.0,True
+What is 2 + 6?,"2 + 6 = 8
+
+#### 8",8.0,8.0,True
+What is 8 + 10?,"To calculate 8 + 10, I'll simply add the two numbers together.
+
+8 + 10 = 18
+
+#### 18",18.0,18.0,True
+What is 5 + 10?,"To calculate the sum of 5 and 10, we simply add the two numbers together.
+
+5 + 10 = 15
+
+#### 15",15.0,15.0,True
+What is 2 + 2?,"The answer to 2 + 2 is 4.
+
+#### 4",4.0,4.0,True
+What is 9 + 2?,"The answer to 9 + 2 is 11.
+
+#### 11",11.0,11.0,True
+What is 1 + 6?,"The answer to 1 + 6 is 7.
+
+#### 7",7.0,7.0,True
+What is 1 + 2?,"The answer to 1 + 2 is 3.
+
+#### 3",3.0,3.0,True
+What is 2 + 2?,"The answer to 2 + 2 is 4.
+
+#### 4",4.0,4.0,True
+What is 4 + 2?,"4 + 2 = 6
+
+#### 6",6.0,6.0,True
+What is 2 + 1?,"The answer to 2 + 1 is 3.
+
+#### 3",3.0,3.0,True
+What is 9 + 1?,"9 + 1 = 10
+
+#### 10",10.0,10.0,True
+What is 6 + 5?,"The answer to 6 + 5 is 11.
+
+#### 11",11.0,11.0,True
+What is 7 + 8?,"The answer to 7 + 8 is 15.
+
+#### 15",15.0,15.0,True
+What is 3 + 3?,"3 + 3 = 6
+
+#### 6",6.0,6.0,True
+What is 7 + 8?,"7 + 8 = 15
+
+#### 15",15.0,15.0,True
+What is 4 + 6?,"The answer to 4 + 6 is 10.
+
+#### 10",10.0,10.0,True
+What is 6 + 9?,"6 + 9 = 15
+
+#### 15",15.0,15.0,True
+What is 7 + 6?,"7 + 6 = 13
+
+#### 13",13.0,13.0,True
+What is 7 + 8?,"The answer to 7 + 8 is 15.
+
+#### 15",15.0,15.0,True
+What is 7 + 2?,"7 + 2 = 9
+
+#### 9",9.0,9.0,True
+What is 8 + 9?,"To calculate 8 + 9, we simply add the two numbers together.
+
+8 + 9 = 17
+
+#### 17",17.0,17.0,True
+What is 8 + 5?,"The answer to 8 + 5 is 13.
+
+#### 13",13.0,13.0,True
+What is 1 + 8?,"1 + 8 = 9
+
+#### 9",9.0,9.0,True
+What is 5 + 9?,"To calculate 5 + 9, I'll simply add the two numbers together.
+
+5 + 9 = 14
+
+#### 14",14.0,14.0,True
+What is 1 + 1?,"The answer to 1 + 1 is 2.
+
+#### 2",2.0,2.0,True
+What is 9 + 1?,"9 + 1 is 10.
+
+#### 10",10.0,10.0,True
+What is 2 + 2?,"The answer to 2 + 2 is 4.
+
+#### 4",4.0,4.0,True
+What is 3 + 2?,"The answer to 3 + 2 is 5.
+
+#### 5",5.0,5.0,True
+What is 8 + 2?,"The answer to 8 + 2 is 10.
+
+#### 10",10.0,10.0,True
+What is 10 + 3?,"10 + 3 = 13
+
+#### 13",13.0,13.0,True
+What is 3 + 1?,"The answer to 3 + 1 is 4.
+
+#### 4",4.0,4.0,True
+What is 10 + 5?,"10 + 5 = 15
+
+#### 15",15.0,15.0,True
+What is 9 + 10?,"9 + 10 = 19
+
+#### 19",19.0,19.0,True
+What is 5 + 3?,"To calculate the answer, I'll simply add 5 and 3 together.
+
+5 + 3 = 8
+
+#### 8",8.0,8.0,True
+What is 6 + 7?,"The answer to 6 + 7 is 13.
+
+#### 13",13.0,13.0,True
+What is 7 + 2?,"The answer to 7 + 2 is 9.
+
+#### 9",9.0,9.0,True
+What is 9 + 9?,"9 + 9 = 18
+
+#### 18",18.0,18.0,True
+What is 3 + 7?,"The answer to 3 + 7 is 10.
+
+#### 10",10.0,10.0,True
+What is 4 + 6?,"4 + 6 equals 10.
+
+#### 10",10.0,10.0,True
+What is 6 + 1?,"6 + 1 = 7
+
+#### 7",7.0,7.0,True
+What is 3 + 5?,"The answer to 3 + 5 is 8.
+
+#### 8",8.0,8.0,True
+What is 2 + 2?,"The answer to 2 + 2 is 4.
+
+#### 4",4.0,4.0,True
+What is 6 + 4?,"The answer to 6 + 4 is 10.
+
+#### 10",10.0,10.0,True
+What is 2 + 4?,"The answer to 2 + 4 is 6.
+
+#### 6",6.0,6.0,True
+What is 10 + 4?,"The answer to 10 + 4 is 14.
+
+#### 14",14.0,14.0,True
+What is 5 + 5?,"5 + 5 equals 10.
+
+#### 10",10.0,10.0,True
+What is 1 + 2?,"The answer to 1 + 2 is 3.
+
+#### 3",3.0,3.0,True
+What is 9 + 3?,"The answer to 9 + 3 is 12.
+
+#### 12",12.0,12.0,True
+What is 9 + 3?,"9 + 3 = 12
+
+#### 12",12.0,12.0,True
+What is 2 + 10?,"To calculate 2 + 10, I'll simply add the two numbers together.
+
+2 + 10 = 12
+
+#### 12",12.0,12.0,True
+What is 5 + 2?,"5 + 2 = 7
+
+#### 7",7.0,7.0,True
+What is 4 + 7?,"To find the answer, I'll simply add 4 and 7 together.
+
+4 + 7 = 11
+
+#### 11",11.0,11.0,True
+What is 9 + 6?,"9 + 6 = 15
+
+#### 15",15.0,15.0,True
+What is 5 + 6?,"The answer to 5 + 6 is 11.
+
+#### 11",11.0,11.0,True
+What is 1 + 10?,"1 + 10 = 11
+
+#### 11",11.0,11.0,True
+What is 1 + 1?,"The answer to 1 + 1 is 2.
+
+#### 2",2.0,2.0,True
+What is 5 + 2?,"The answer to 5 + 2 is 7.
+
+#### 7",7.0,7.0,True
+What is 9 + 6?,"9 + 6 = 15
+
+#### 15",15.0,15.0,True
+What is 1 + 5?,"The answer to 1 + 5 is 6.
+
+#### 6",6.0,6.0,True
+What is 6 + 4?,"6 + 4 = 10
+
+#### 10",10.0,10.0,True
+What is 4 + 1?,"The answer to 4 + 1 is 5.
+
+#### 5",5.0,5.0,True
+What is 1 + 4?,"The answer to 1 + 4 is 5.
+
+#### 5",5.0,5.0,True
+What is 7 + 10?,"7 + 10 = 17
+
+#### 17",17.0,17.0,True
+What is 4 + 6?,"4 + 6 = 10
+
+#### 10",10.0,10.0,True
+What is 9 + 1?,"The answer to 9 + 1 is 10.
+
+#### 10",10.0,10.0,True
+What is 5 + 9?,"To calculate 5 + 9, we simply add the two numbers together.
+
+5 + 9 = 14
+
+#### 14",14.0,14.0,True
+What is 2 + 5?,"The answer to 2 + 5 is 7.
+
+#### 7",7.0,7.0,True
+What is 2 + 10?,"To calculate 2 + 10, we simply add the two numbers together.
+
+2 + 10 = 12
+
+#### 12",12.0,12.0,True

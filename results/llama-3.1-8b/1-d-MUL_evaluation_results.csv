@@ -1,0 +1,309 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 10 * 7?,"The calculation is 10 * 7 = 70
+
+#### 70",70.0,70.0,True
+What is 5 * 10?,"The calculation is 5 * 10 = 50
+
+#### 50",50.0,50.0,True
+What is 10 * 1?,"10 * 1 = 10
+
+#### 10",10.0,10.0,True
+What is 3 * 9?,"3 * 9 = 27
+
+#### 27",27.0,27.0,True
+What is 2 * 4?,"2 * 4 = 8
+
+#### 8",8.0,8.0,True
+What is 8 * 7?,"To find the product of 8 and 7, we multiply the two numbers together.
+
+8 * 7 = 56
+
+#### 56",56.0,56.0,True
+What is 9 * 5?,"The calculation is 9 * 5 = 45.
+
+#### 45",45.0,45.0,True
+What is 2 * 8?,"2 * 8 = 16
+
+#### 16",16.0,16.0,True
+What is 7 * 2?,"The result of 7 * 2 is 14.
+
+#### 14",14.0,14.0,True
+What is 5 * 3?,"The result of the multiplication is 15.
+
+#### 15",15.0,15.0,True
+What is 7 * 1?,"The result of 7 * 1 is 7.
+
+#### 7",7.0,7.0,True
+What is 1 * 4?,"1 * 4 = 4
+
+#### 4",4.0,4.0,True
+What is 9 * 4?,"9 * 4 = 36
+
+#### 36",36.0,36.0,True
+What is 8 * 4?,"8 * 4 = 32
+
+#### 32",32.0,32.0,True
+What is 7 * 1?,"7 * 1 = 7
+
+#### 7",7.0,7.0,True
+What is 1 * 6?,"1 * 6 = 6
+
+#### 6",6.0,6.0,True
+What is 7 * 6?,"The result of 7 * 6 is 42.
+
+#### 42",42.0,42.0,True
+What is 3 * 3?,"The result of 3 * 3 is 9.
+
+#### 9",9.0,9.0,True
+What is 5 * 2?,"The result of 5 * 2 is 10.
+
+#### 10",10.0,10.0,True
+What is 4 * 6?,"The result of 4 * 6 is 24.
+
+#### 24",24.0,24.0,True
+What is 2 * 8?,"2 * 8 = 16
+
+#### 16",16.0,16.0,True
+What is 8 * 10?,"The calculation is 8 * 10 = 80
+
+#### 80",80.0,80.0,True
+What is 4 * 10?,"The calculation is 4 * 10 = 40.
+
+#### 40",40.0,40.0,True
+What is 8 * 10?,"8 * 10 = 80
+
+#### 80",80.0,80.0,True
+What is 6 * 7?,"6 * 7 = 42
+
+#### 42",42.0,42.0,True
+What is 8 * 8?,"64
+
+#### 64",64.0,64.0,True
+What is 8 * 1?,"8 * 1 = 8
+
+#### 8",8.0,8.0,True
+What is 10 * 5?,"The calculation is 10 * 5 = 50
+
+#### 50",50.0,50.0,True
+What is 9 * 3?,"9 * 3 = 27
+
+#### 27",27.0,27.0,True
+What is 1 * 7?,"The result of 1 * 7 is 7.
+
+#### 7",7.0,7.0,True
+What is 10 * 2?,"The result of 10 * 2 is 20.
+
+#### 20",20.0,20.0,True
+What is 1 * 5?,"1 * 5 = 5
+
+#### 5",5.0,5.0,True
+What is 8 * 7?,"The result of 8 * 7 is 56.
+
+#### 56",56.0,56.0,True
+What is 7 * 6?,"7 * 6 = 42
+
+#### 42",42.0,42.0,True
+What is 9 * 7?,"9 * 7 = 63
+
+#### 63",63.0,63.0,True
+What is 9 * 3?,"9 * 3 = 27
+
+#### 27",27.0,27.0,True
+What is 5 * 5?,"The calculation is 5 * 5 = 25
+
+#### 25",25.0,25.0,True
+What is 2 * 3?,"2 * 3 = 6
+
+#### 6",6.0,6.0,True
+What is 3 * 1?,"The result of 3 * 1 is 3.
+
+#### 3",3.0,3.0,True
+What is 10 * 1?,"The result of 10 * 1 is 10.
+
+#### 10",10.0,10.0,True
+What is 5 * 4?,"The calculation is 5 * 4 = 20.
+
+#### 20",20.0,20.0,True
+What is 7 * 6?,"7 * 6 = 42
+
+#### 42",42.0,42.0,True
+What is 9 * 5?,"9 * 5 = 45
+
+#### 45",45.0,45.0,True
+What is 4 * 9?,"To find the product of 4 and 9, we multiply the two numbers together.
+
+4 * 9 = 36
+
+#### 36",36.0,36.0,True
+What is 5 * 1?,"The result of 5 * 1 is 5.
+
+#### 5",5.0,5.0,True
+What is 5 * 2?,"The calculation is 5 * 2 = 10.
+
+#### 10",10.0,10.0,True
+What is 8 * 6?,"8 * 6 = 48
+
+#### 48",48.0,48.0,True
+What is 7 * 4?,"7 * 4 = 28
+
+#### 28",28.0,28.0,True
+What is 9 * 7?,"9 * 7 = 63
+
+#### 63",63.0,63.0,True
+What is 5 * 4?,"5 * 4 = 20
+
+#### 20",20.0,20.0,True
+What is 5 * 3?,"The result of 5 * 3 is 15.
+
+#### 15",15.0,15.0,True
+What is 2 * 3?,"The calculation is 2 * 3 = 6.
+
+#### 6",6.0,6.0,True
+What is 1 * 6?,"1 * 6 = 6
+
+#### 6",6.0,6.0,True
+What is 7 * 7?,"The result of 7 * 7 is 49.
+
+#### 49",49.0,49.0,True
+What is 4 * 1?,"4 * 1 = 4
+
+#### 4",4.0,4.0,True
+What is 6 * 1?,"6 * 1 = 6
+
+#### 6",6.0,6.0,True
+What is 5 * 10?,"To calculate 5 * 10, we multiply the two numbers together.
+
+The result is 50.
+
+#### 50",50.0,50.0,True
+What is 6 * 1?,"The result of 6 * 1 is 6.
+
+#### 6",6.0,6.0,True
+What is 7 * 9?,"The result of 7 * 9 is 63.
+
+#### 63",63.0,63.0,True
+What is 5 * 2?,"The result of 5 * 2 is 10.
+
+#### 10",10.0,10.0,True
+What is 5 * 7?,"The calculation is 5 * 7 = 35.
+
+#### 35",35.0,35.0,True
+What is 1 * 7?,"1 * 7 = 7
+
+#### 7",7.0,7.0,True
+What is 3 * 8?,"The calculation is 3 * 8 = 24
+
+#### 24",24.0,24.0,True
+What is 8 * 10?,"8 * 10 = 80
+
+#### 80",80.0,80.0,True
+What is 8 * 7?,"The result of 8 * 7 is 56.
+
+#### 56",56.0,56.0,True
+What is 5 * 10?,"The calculation is 5 * 10 = 50
+
+#### 50",50.0,50.0,True
+What is 1 * 2?,"1 * 2 = 2
+
+#### 2",2.0,2.0,True
+What is 2 * 8?,"2 * 8 = 16
+
+#### 16",16.0,16.0,True
+What is 6 * 9?,"The calculation is 6 * 9 = 54
+
+#### 54",54.0,54.0,True
+What is 9 * 8?,"9 * 8 = 72
+
+#### 72",72.0,72.0,True
+What is 5 * 5?,"5 * 5 = 25
+
+#### 25",25.0,25.0,True
+What is 10 * 3?,"The result of the multiplication is 30.
+
+#### 30",30.0,30.0,True
+What is 7 * 9?,"7 * 9 = 63
+
+#### 63",63.0,63.0,True
+What is 6 * 9?,"The result of 6 * 9 is 54.
+
+#### 54",54.0,54.0,True
+What is 2 * 8?,"2 * 8 = 16
+
+#### 16",16.0,16.0,True
+What is 4 * 4?,"The result of 4 * 4 is 16.
+
+#### 16",16.0,16.0,True
+What is 6 * 8?,"6 * 8 = 48
+
+#### 48",48.0,48.0,True
+What is 6 * 6?,"6 * 6 = 36
+
+#### 36",36.0,36.0,True
+What is 3 * 4?,"3 * 4 = 12
+
+#### 12",12.0,12.0,True
+What is 1 * 6?,"1 * 6 = 6
+
+#### 6",6.0,6.0,True
+What is 10 * 3?,"10 * 3 = 30
+
+#### 30",30.0,30.0,True
+What is 2 * 1?,"The result of 2 * 1 is 2.
+
+#### 2",2.0,2.0,True
+What is 2 * 8?,"The calculation is 2 multiplied by 8, which equals 16.
+
+#### 16",16.0,16.0,True
+What is 9 * 9?,"The result of 9 * 9 is 81.
+
+#### 81",81.0,81.0,True
+What is 10 * 9?,"10 * 9 = 90
+
+#### 90",90.0,90.0,True
+What is 10 * 4?,"The result of 10 * 4 is 40.
+
+#### 40",40.0,40.0,True
+What is 4 * 10?,"4 * 10 = 40
+
+#### 40",40.0,40.0,True
+What is 6 * 8?,"6 * 8 = 48
+
+#### 48",48.0,48.0,True
+What is 8 * 4?,"The calculation is 8 multiplied by 4.
+
+The result is 32.
+
+#### 32",32.0,32.0,True
+What is 4 * 3?,"The calculation is 4 * 3 = 12.
+
+#### 12",12.0,12.0,True
+What is 1 * 4?,"The calculation is 1 * 4 = 4
+
+#### 4",4.0,4.0,True
+What is 1 * 3?,"1 * 3 = 3
+
+#### 3",3.0,3.0,True
+What is 3 * 6?,"The result of the multiplication is 18.
+
+#### 18",18.0,18.0,True
+What is 10 * 6?,"10 * 6 = 60
+
+#### 60",60.0,60.0,True
+What is 8 * 3?,"The result of 8 * 3 is 24.
+
+#### 24",24.0,24.0,True
+What is 6 * 8?,"The result of 6 * 8 is 48.
+
+#### 48",48.0,48.0,True
+What is 7 * 5?,"The result of the multiplication is 35.
+
+#### 35",35.0,35.0,True
+What is 10 * 3?,"10 * 3 = 30
+
+#### 30",30.0,30.0,True
+What is 4 * 3?,"The result of 4 * 3 is 12.
+
+#### 12",12.0,12.0,True
+What is 1 * 6?,"1 * 6 = 6
+
+#### 6",6.0,6.0,True

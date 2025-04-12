@@ -1,0 +1,851 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 4 + 7?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 4 + 7?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 4 + 7 = 11.
+
+#### 11",11.0,11.0,True
+What is 8 + 9?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 8 + 9?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 8 + 9 = 17.
+
+#### 17",17.0,17.0,True
+What is 4 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 4 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+4 + 6 = 10
+
+#### 10",10.0,10.0,True
+What is 5 + 5?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 5?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to your question:
+
+5 + 5 = 10
+
+Here's the final numerical answer:
+
+#### 10",10.0,10.0,True
+What is 5 + 5?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 5?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 5 + 5 is 10.
+
+#### 10",10.0,10.0,True
+What is 2 + 5?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 5?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 2 + 5 = 7.
+
+#### 7",7.0,7.0,True
+What is 5 + 9?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 9?
+Also append the final numerical answer on a new line starting with '#### '
+model
+5 + 9 = 14
+
+#### 14",14.0,14.0,True
+What is 10 + 9?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 10 + 9?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 10 + 9 = 19.
+
+#### 19",19.0,19.0,True
+What is 6 + 8?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 8?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 6 + 8 = 14.
+
+#### 14",14.0,14.0,True
+What is 4 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 4 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question 4 + 1:
+
+#### 5",5.0,5.0,True
+What is 5 + 7?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 7?
+Also append the final numerical answer on a new line starting with '#### '
+model
+5 + 7 = 12
+
+#### 12",12.0,12.0,True
+What is 6 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 6 + 1 = 7.
+
+#### 7",7.0,7.0,True
+What is 6 + 7?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 7?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 6 + 7 is 13.
+
+#### 13",13.0,13.0,True
+What is 6 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 6 + 2 = 8.
+
+#### 8",8.0,8.0,True
+What is 7 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 7 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 7 + 6:
+
+**7 + 6 = 13**
+
+Please let me know if you have any other questions.",13.0,13.0,True
+What is 6 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 6 + 2 is 8.
+
+#### 8",8.0,8.0,True
+What is 5 + 4?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 4?
+Also append the final numerical answer on a new line starting with '#### '
+model
+5 + 4 = 9
+
+#### 9",9.0,9.0,True
+What is 3 + 7?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 3 + 7?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 3 + 7 = 10.
+
+#### 10",10.0,10.0,True
+What is 5 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 5 + 6 = 11.
+
+#### 11",11.0,11.0,True
+What is 5 + 3?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 3?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 5 + 3 = 8.
+
+#### 8",8.0,8.0,True
+What is 2 + 3?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 3?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 2 + 3 = 5.
+
+#### 5",5.0,5.0,True
+What is 6 + 9?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 9?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 6 + 9 = 15.
+
+#### 15",15.0,15.0,True
+What is 7 + 4?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 7 + 4?
+Also append the final numerical answer on a new line starting with '#### '
+model
+7 + 4 = 11
+
+#### 11",11.0,11.0,True
+What is 2 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+2 + 6 = 8
+
+Here is the final numerical answer:
+
+#### 8",8.0,8.0,True
+What is 7 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 7 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+7 + 6 = 13
+
+#### 13",13.0,13.0,True
+What is 2 + 4?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 4?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 2 + 4 = 6.
+
+#### 6",6.0,6.0,True
+What is 9 + 3?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 3?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 9 + 3 = 12.
+
+#### 12",12.0,12.0,True
+What is 2 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 2 + 6 = 8.
+
+#### 8",8.0,8.0,True
+What is 9 + 8?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 8?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to your question:
+
+9 + 8 = 17
+
+Here's the final numerical answer, followed by a new line:
+
+#### 17",17.0,17.0,True
+What is 9 + 9?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 9?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 9 + 9 is 18.
+
+#### 18",18.0,18.0,True
+What is 2 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 2 + 2:
+
+**2 + 2 = 4**
+
+Here is the final numerical answer, printed on a new line starting with '#### ':
+
+#### 2 + 2 = 4",4.0,4.0,True
+What is 10 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 10 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 10 + 1:
+
+**11**
+
+#### 11",11.0,11.0,True
+What is 2 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 2 + 6 = 8.
+
+#### 8",8.0,8.0,True
+What is 8 + 10?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 8 + 10?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 8 + 10:
+
+**8 + 10 = 18**
+
+Here is the final numerical answer, 18, appended on a new line starting with '#### ':
+
+#### 8 + 10 = 18",18.0,18.0,True
+What is 5 + 10?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 10?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 5 + 10 = 15.
+
+#### 15",15.0,15.0,True
+What is 2 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 2 + 2 is 4.
+
+#### 4",4.0,4.0,True
+What is 9 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 9 + 2 is 11.
+
+#### 11",11.0,11.0,True
+What is 1 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 1 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+1 + 6 = 7
+
+#### 7",7.0,7.0,True
+What is 1 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 1 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+1 + 2 = 3
+
+#### 1 + 2",3.0,3.0,True
+What is 2 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 2 + 2 is 4.
+
+#### 4",4.0,4.0,True
+What is 4 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 4 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 4 + 2 = 6.
+
+#### 6",6.0,6.0,True
+What is 2 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 2 + 1 is 3.
+
+#### 3",3.0,3.0,True
+What is 9 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 9 + 1:
+
+**9 + 1 = 10**
+
+Here's the final numerical answer, followed by a new line:
+
+#### 10",10.0,10.0,True
+What is 6 + 5?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 5?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 6 + 5 = 11.
+
+#### 11",11.0,11.0,True
+What is 7 + 8?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 7 + 8?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 7 + 8 = 15.
+
+#### 15",15.0,15.0,True
+What is 3 + 3?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 3 + 3?
+Also append the final numerical answer on a new line starting with '#### '
+model
+3 + 3 = 6
+
+#### 6",6.0,6.0,True
+What is 7 + 8?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 7 + 8?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 7 + 8 = 15.
+
+#### 15",15.0,15.0,True
+What is 4 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 4 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+4 + 6 = 10
+
+#### 10",10.0,10.0,True
+What is 6 + 9?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 9?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 6 + 9 = 15.
+
+#### 15",15.0,15.0,True
+What is 7 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 7 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 7 + 6 = 13.
+
+#### 13",13.0,13.0,True
+What is 7 + 8?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 7 + 8?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 7 + 8 is 15.
+
+#### 15",15.0,15.0,True
+What is 7 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 7 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question:
+
+7 + 2 = 9
+
+It's a simple addition problem.",9.0,9.0,True
+What is 8 + 9?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 8 + 9?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 8 + 9 = 17.
+
+#### 17",17.0,17.0,True
+What is 8 + 5?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 8 + 5?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 8 + 5 = 13.
+
+#### 13",13.0,13.0,True
+What is 1 + 8?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 1 + 8?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question 1 + 8:
+
+1 + 8 = 9
+
+Here's the final numerical answer:
+
+#### 9",9.0,9.0,True
+What is 5 + 9?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 9?
+Also append the final numerical answer on a new line starting with '#### '
+model
+5 + 9 = 14
+
+#### 14",14.0,14.0,True
+What is 1 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 1 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+1 + 1 = 2
+
+#### 2",2.0,2.0,True
+What is 9 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 9 + 1:
+
+**9 + 1 = 10**
+
+Here's the final numerical answer, followed by a new line:
+
+#### 10",10.0,10.0,True
+What is 2 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 2 + 2 is 4.
+
+#### 4",4.0,4.0,True
+What is 3 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 3 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 3 + 2 is 5.
+
+#### 5",5.0,5.0,True
+What is 8 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 8 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+8 + 2 = 10
+
+Here is the answer with the final numerical answer appended on a new line starting with '#### ':
+
+#### 8 + 2 = 10",10.0,10.0,True
+What is 10 + 3?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 10 + 3?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to the question 10 + 3:
+
+**10 + 3 = 13**
+
+Here's the final numerical answer, followed by a new line:
+
+#### 13",13.0,13.0,True
+What is 3 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 3 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 3 + 1 = 4.
+
+#### 4",4.0,4.0,True
+What is 10 + 5?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 10 + 5?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 10 + 5 = 15.
+
+#### 15",15.0,15.0,True
+What is 9 + 10?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 10?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 9 + 10 = 19.
+
+#### 19",19.0,19.0,True
+What is 5 + 3?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 3?
+Also append the final numerical answer on a new line starting with '#### '
+model
+5 + 3 = 8
+
+#### 8",8.0,8.0,True
+What is 6 + 7?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 7?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 6 + 7 = 13.
+
+#### 13",13.0,13.0,True
+What is 7 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 7 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 7 + 2 = 9.
+
+#### 9",9.0,9.0,True
+What is 9 + 9?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 9?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 9 + 9 is 18.
+
+#### 18",18.0,18.0,True
+What is 3 + 7?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 3 + 7?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 3 + 7 = 10.
+
+#### 10",10.0,10.0,True
+What is 4 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 4 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+4 + 6 = 10
+
+#### 10",10.0,10.0,True
+What is 6 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 6 + 1 = 7.
+
+#### 7",7.0,7.0,True
+What is 3 + 5?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 3 + 5?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 3 + 5 = 8.
+
+#### 8",8.0,8.0,True
+What is 2 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 2 + 2 = 4.
+
+#### 4",4.0,4.0,True
+What is 6 + 4?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 4?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 6 + 4 = 10.
+
+#### 10",10.0,10.0,True
+What is 2 + 4?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 4?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 2 + 4 is 6.
+
+#### 6",6.0,6.0,True
+What is 10 + 4?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 10 + 4?
+Also append the final numerical answer on a new line starting with '#### '
+model
+10 + 4 = 14
+
+#### 14",14.0,14.0,True
+What is 5 + 5?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 5?
+Also append the final numerical answer on a new line starting with '#### '
+model
+5 + 5 = 10
+
+#### 10",10.0,10.0,True
+What is 1 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 1 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 1 + 2 = 3.
+
+#### 3",3.0,3.0,True
+What is 9 + 3?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 3?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 9 + 3 = 12.
+
+#### 12",12.0,12.0,True
+What is 9 + 3?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 3?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 9 + 3 = 12.
+
+#### 12",12.0,12.0,True
+What is 2 + 10?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 10?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 2 + 10 = 12.
+
+#### 12",12.0,12.0,True
+What is 5 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 5 + 2 is 7.
+
+#### 7",7.0,7.0,True
+What is 4 + 7?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 4 + 7?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 4 + 7 = 11.
+
+#### 11",11.0,11.0,True
+What is 9 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 9 + 6 = 15.
+
+#### 15",15.0,15.0,True
+What is 5 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+5 + 6 = 11
+
+#### 11",11.0,11.0,True
+What is 1 + 10?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 1 + 10?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 1 + 10 = 11.
+
+#### 11",11.0,11.0,True
+What is 1 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 1 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 1 + 1 = 2.
+
+#### 2",2.0,2.0,True
+What is 5 + 2?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 2?
+Also append the final numerical answer on a new line starting with '#### '
+model
+5 + 2 = 7
+
+#### 7",7.0,7.0,True
+What is 9 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 9 + 6 = 15.
+
+#### 15",15.0,15.0,True
+What is 1 + 5?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 1 + 5?
+Also append the final numerical answer on a new line starting with '#### '
+model
+1 + 5 = 6
+
+#### 6",6.0,6.0,True
+What is 6 + 4?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 6 + 4?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 6 + 4 is 10.
+
+#### 10",10.0,10.0,True
+What is 4 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 4 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 4 + 1:
+
+#### 5",5.0,5.0,True
+What is 1 + 4?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 1 + 4?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 1 + 4 = 5.
+
+#### 5",5.0,5.0,True
+What is 7 + 10?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 7 + 10?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 7 + 10 = 17.
+
+#### 17",17.0,17.0,True
+What is 4 + 6?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 4 + 6?
+Also append the final numerical answer on a new line starting with '#### '
+model
+4 + 6 = 10
+
+#### 10",10.0,10.0,True
+What is 9 + 1?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 9 + 1?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question 9 + 1:
+
+#### 10",10.0,10.0,True
+What is 5 + 9?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 5 + 9?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 5 + 9 = 14.
+
+#### 14",14.0,14.0,True
+What is 2 + 5?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 5?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to your question:
+
+2 + 5 = 7
+
+Here is the final numerical answer, appended on a new line starting with '#### ':
+
+#### 2 + 5 = 7",7.0,7.0,True
+What is 2 + 10?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 2 + 10?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 2 + 10 = 12.
+
+#### 12",12.0,12.0,True

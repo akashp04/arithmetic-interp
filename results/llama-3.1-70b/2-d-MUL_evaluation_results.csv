@@ -1,0 +1,576 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 64 * 56?,"To calculate 64 * 56, we need to multiply the two numbers together.
+
+64 * 50 = 3200
+64 * 6 = 384
+Adding the two results together, we get:
+3200 + 384 = 3584
+
+#### 3584",3584.0,3584.0,True
+What is 47 * 58?,"To find the product of 47 and 58, we multiply the two numbers together.
+
+47 * 58 = 2726
+
+#### 2726",2726.0,2726.0,True
+What is 99 * 38?,"To calculate 99 * 38, I'll multiply the numbers together.
+
+99 * 38 = 3762
+
+#### 3762",3762.0,3762.0,True
+What is 59 * 90?,"To calculate 59 * 90, I get:
+
+5310
+
+#### 5310",5310.0,5310.0,True
+What is 27 * 78?,"To calculate the product of 27 and 78, I'll multiply the two numbers together.
+
+27 * 78 = 2106
+
+#### 2106",2106.0,2106.0,True
+What is 47 * 53?,"To calculate 47 * 53, we multiply the two numbers together.
+
+47 * 50 = 2350
+47 * 3 = 141
+Adding the two results together: 2350 + 141 = 2491
+
+#### 2491",2491.0,2491.0,True
+What is 63 * 83?,"To find the product of 63 and 83, we multiply the two numbers together.
+
+63 * 80 = 5040
+63 * 3 = 189
+Adding the two results together, we get:
+5040 + 189 = 5229
+
+#### 5229",5229.0,5229.0,True
+What is 41 * 20?,"To calculate 41 * 20, I'll multiply the two numbers together.
+
+41 * 20 = 820
+
+#### 820",820.0,820.0,True
+What is 18 * 77?,"To calculate 18 * 77, we multiply the two numbers together.
+
+18 * 77 = 1386
+
+#### 1386",1386.0,1386.0,True
+What is 75 * 45?,"To calculate 75 * 45, I'll multiply the numbers together.
+
+75 * 40 = 3000
+75 * 5 = 375
+Adding those together: 3000 + 375 = 3375
+
+#### 3375",3375.0,3375.0,True
+What is 91 * 22?,"To find the product of 91 and 22, we multiply the two numbers together.
+
+91 * 22 = 2002
+
+#### 2002",2002.0,2002.0,True
+What is 63 * 65?,"To calculate 63 * 65, I get:
+
+63 * 65 = 4095
+
+#### 4095",4095.0,4095.0,True
+What is 19 * 58?,"To calculate 19 * 58, I'll multiply the two numbers together.
+
+19 * 58 = 1102
+
+#### 1102",1102.0,1102.0,True
+What is 87 * 33?,"To calculate 87 * 33, I'll multiply the two numbers together.
+
+87 * 30 = 2610
+87 * 3 = 261
+Adding those two results together gives us:
+2610 + 261 = 2871
+
+#### 2871",2871.0,2871.0,True
+What is 12 * 89?,"To calculate 12 * 89, we need to multiply 12 by 89.
+
+12 * 89 = 1068
+
+#### 1068",1068.0,1068.0,True
+What is 76 * 73?,"To calculate 76 * 73, we multiply the two numbers together.
+
+76 * 73 = 5548
+
+#### 5548",5548.0,5548.0,True
+What is 47 * 22?,"To calculate 47 * 22, I'll multiply the two numbers together.
+
+47 * 20 = 940
+47 * 2 = 94
+Adding those two results together gives:
+940 + 94 = 1034
+
+#### 1034",1034.0,1034.0,True
+What is 53 * 11?,"To calculate 53 * 11, I'd be happy to help.
+
+53 * 11 = 583
+
+#### 583",583.0,583.0,True
+What is 40 * 92?,"To calculate 40 * 92, we can multiply the numbers together.
+
+40 * 90 = 3600
+40 * 2 = 80
+Adding these together, we get:
+3600 + 80 = 3680
+
+#### 3680",3680.0,3680.0,True
+What is 100 * 17?,"To calculate 100 * 17, I'll multiply the numbers together.
+
+100 * 17 = 1700
+
+#### 1700",1700.0,1700.0,True
+What is 61 * 62?,"To calculate the product of 61 and 62, we multiply the two numbers together.
+
+61 * 62 = 3782
+
+#### 3782",3782.0,3782.0,True
+What is 80 * 26?,"80 * 26 = 2080
+
+#### 2080",2080.0,2080.0,True
+What is 100 * 54?,"To calculate 100 * 54, we multiply 100 by 54.
+
+100 * 50 = 5000
+100 * 4 = 400
+Adding these two results together gives us:
+5000 + 400 = 5400
+
+#### 5400",5400.0,5400.0,True
+What is 91 * 76?,"To calculate the product of 91 and 76, we multiply the two numbers together.
+
+91 * 76 = 6916
+
+#### 6916",6916.0,6916.0,True
+What is 41 * 52?,"To find the product of 41 and 52, we multiply the two numbers together.
+
+41 * 50 = 2050
+41 * 2 = 82
+Adding these two results together gives us:
+2050 + 82 = 2132
+
+#### 2132",2132.0,2132.0,True
+What is 39 * 59?,"To calculate 39 * 59, I'll multiply the two numbers together.
+
+39 * 50 = 1950
+39 * 9 = 351
+Adding those two results together gives:
+1950 + 351 = 2301
+
+#### 2301",2301.0,2301.0,True
+What is 88 * 61?,"To find the product of 88 and 61, we multiply the two numbers together.
+
+88 * 61 = 5368
+
+#### 5368",5368.0,5368.0,True
+What is 27 * 53?,"To calculate 27 * 53, we need to multiply the two numbers together.
+
+27 * 50 = 1350
+27 * 3 = 81
+Add the two results together: 1350 + 81 = 1431
+
+#### 1431",1431.0,1431.0,True
+What is 18 * 64?,"To calculate 18 * 64, we can multiply the numbers together.
+
+18 * 60 = 1080
+18 * 4 = 72
+Adding these together gives us:
+1080 + 72 = 1152
+
+#### 1152",1152.0,1152.0,True
+What is 44 * 15?,"To calculate 44 * 15, we can multiply the numbers together.
+
+44 * 10 = 440
+44 * 5 = 220
+Add the two results together: 440 + 220 = 660
+
+#### 660",660.0,660.0,True
+What is 85 * 51?,"To calculate 85 * 51, we need to multiply 85 by 51.
+
+85 * 50 = 4250
+85 * 1 = 85
+Adding both results together: 4250 + 85 = 4335
+
+#### 4335",4335.0,4335.0,True
+What is 46 * 68?,"To calculate 46 * 68, I'll multiply the numbers together.
+
+46 * 68 = 3128
+
+#### 3128",3128.0,3128.0,True
+What is 24 * 54?,"To calculate 24 * 54, I'll multiply the two numbers together.
+
+24 * 50 = 1200
+24 * 4 = 96
+Adding those two results together gives us:
+1200 + 96 = 1296
+
+#### 1296",1296.0,1296.0,True
+What is 11 * 99?,"11 * 99 = 1089
+
+#### 1089",1089.0,1089.0,True
+What is 29 * 53?,"To calculate 29 * 53, I'll multiply the two numbers together.
+
+29 * 53 = 1537
+
+#### 1537",1537.0,1537.0,True
+What is 28 * 33?,"To calculate 28 * 33, I'll multiply the two numbers together.
+
+28 * 30 = 840
+28 * 3 = 84
+Adding those two results together gives us:
+840 + 84 = 924
+
+#### 924",924.0,924.0,True
+What is 25 * 82?,"To calculate 25 * 82, I'd be happy to help you with that.
+
+25 * 82 = 2050
+
+#### 2050",2050.0,2050.0,True
+What is 65 * 57?,"To calculate 65 * 57, I'll multiply the numbers together.
+
+65 * 50 = 3250
+65 * 7 = 455
+Adding those together, I get: 3250 + 455 = 3705
+
+#### 3705",3705.0,3705.0,True
+What is 28 * 36?,"To find the product of 28 and 36, we multiply the two numbers together.
+
+28 * 30 = 840
+28 * 6 = 168
+Add the two results together: 840 + 168 = 1008
+
+#### 1008",1008.0,1008.0,True
+What is 17 * 35?,"To calculate 17 * 35, we need to multiply the two numbers together.
+
+17 * 35 = 595
+
+#### 595",595.0,595.0,True
+What is 70 * 11?,"The answer to 70 * 11 is 770.
+
+#### 770",770.0,770.0,True
+What is 65 * 100?,"65 * 100 = 6500
+
+#### 6500",6500.0,6500.0,True
+What is 62 * 58?,"To calculate 62 * 58, I get:
+
+3596
+
+#### 3596",3596.0,3596.0,True
+What is 35 * 79?,"To calculate the result of 35 * 79, I'll multiply the two numbers together.
+
+35 * 79 = 2765
+
+#### 2765",2765.0,2765.0,True
+What is 77 * 42?,"To calculate 77 * 42, I'd be happy to help.
+
+77 * 42 = 3234
+
+#### 3234",3234.0,3234.0,True
+What is 79 * 80?,"To calculate 79 * 80, we can multiply the two numbers together.
+
+79 * 80 = 6320
+
+#### 6320",6320.0,6320.0,True
+What is 54 * 75?,"To calculate the product of 54 and 75, we multiply the two numbers together.
+
+54 * 75 = 4050
+
+#### 4050",4050.0,4050.0,True
+What is 71 * 87?,"To calculate 71 * 87, we need to multiply the two numbers together.
+
+71 * 80 = 5680
+71 * 7 = 497
+Adding these two results together gives:
+5680 + 497 = 6177
+
+#### 6177",6177.0,6177.0,True
+What is 36 * 49?,"To calculate 36 * 49, I'll multiply the two numbers together.
+
+36 * 49 = 1764
+
+#### 1764",1764.0,1764.0,True
+What is 92 * 48?,"To calculate the result of 92 * 48, we need to multiply these two numbers together.
+
+92 * 48 = 4416
+
+#### 4416",4416.0,4416.0,True
+What is 97 * 21?,"To calculate 97 * 21, I'll multiply the numbers together.
+
+97 * 20 = 1940
+97 * 1 = 97
+Adding those together, I get: 1940 + 97 = 2037
+
+#### 2037",2037.0,2037.0,True
+What is 64 * 27?,"To calculate 64 * 27, I get:
+
+1728
+
+#### 1728",1728.0,1728.0,True
+What is 17 * 69?,"To find the product of 17 and 69, we multiply the two numbers together.
+
+17 * 69 = 1173
+
+#### 1173",1173.0,1173.0,True
+What is 96 * 95?,"To calculate 96 * 95, we need to multiply the two numbers together.
+
+96 * 95 = 9120
+
+#### 9120",9120.0,9120.0,True
+What is 33 * 97?,"To calculate the result of 33 * 97, I'll perform the multiplication:
+
+33 * 97 = 3201
+
+#### 3201",3201.0,3201.0,True
+What is 83 * 45?,"To calculate the product of 83 and 45, we need to multiply these two numbers together.
+
+83 * 45 = 3735
+
+#### 3735",3735.0,3735.0,True
+What is 100 * 37?,"To calculate the result of 100 * 37, I'll multiply the two numbers together.
+
+100 * 37 = 3700
+
+#### 3700",3700.0,3700.0,True
+What is 77 * 43?,"To find the product of 77 and 43, we need to multiply these two numbers together.
+
+77 * 43 = 3301
+
+#### 3301",3301.0,3311.0,False
+What is 79 * 96?,"To calculate the result of 79 * 96, I get:
+
+7594
+
+#### 7594",7594.0,7584.0,False
+What is 35 * 16?,"To calculate 35 * 16, I can multiply the numbers together.
+
+35 * 10 = 350
+35 * 6 = 210
+Adding those together gives us:
+350 + 210 = 560
+
+#### 560",560.0,560.0,True
+What is 96 * 30?,"To calculate 96 * 30, I can multiply the numbers together.
+
+96 * 30 = 2880
+
+#### 2880",2880.0,2880.0,True
+What is 28 * 93?,"To calculate the product of 28 and 93, I'll multiply the two numbers together.
+
+28 * 93 = 2604
+
+#### 2604",2604.0,2604.0,True
+What is 54 * 79?,"To calculate 54 * 79, I'd be happy to help.
+
+54 * 79 = 4276
+
+#### 4276",4276.0,4266.0,False
+What is 62 * 42?,"To calculate the product of 62 and 42, I'll multiply the two numbers together.
+
+62 * 40 = 2480
+62 * 2 = 124
+Adding the two results together: 2480 + 124 = 2604
+
+#### 2604",2604.0,2604.0,True
+What is 100 * 56?,"To calculate 100 * 56, I'll multiply the numbers together.
+
+100 * 50 = 5000
+100 * 6 = 600
+Adding those together: 5000 + 600 = 5600
+
+#### 5600",5600.0,5600.0,True
+What is 82 * 16?,"To calculate 82 * 16, we multiply 82 by 16.
+
+82 * 10 = 820
+82 * 6 = 492
+Adding these two results together: 820 + 492 = 1312
+
+#### 1312",1312.0,1312.0,True
+What is 92 * 49?,"To calculate the product of 92 and 49, we can multiply the two numbers together.
+
+92 * 49 = 4508
+
+#### 4508",4508.0,4508.0,True
+What is 88 * 50?,"To find the product of 88 and 50, I'll multiply the two numbers together.
+
+88 * 50 = 4400
+
+#### 4400",4400.0,4400.0,True
+What is 15 * 22?,"To calculate 15 * 22, I'll multiply the two numbers together.
+
+15 * 20 = 300
+15 * 2 = 30
+Adding those two results together gives us:
+300 + 30 = 330
+
+#### 330",330.0,330.0,True
+What is 33 * 58?,"To find the product of 33 and 58, we multiply these two numbers together.
+
+33 * 58 = 1914
+
+#### 1914",1914.0,1914.0,True
+What is 32 * 28?,"To find the answer, I'll multiply 32 by 28.
+
+32 * 20 = 640
+32 * 8 = 256
+Adding those together: 640 + 256 = 896
+
+#### 896",896.0,896.0,True
+What is 85 * 18?,"To calculate 85 * 18, we can multiply the numbers together.
+
+85 * 18 = 1530
+
+#### 1530",1530.0,1530.0,True
+What is 29 * 79?,"To calculate 29 * 79, we multiply the two numbers together.
+
+29 * 79 = 2291
+
+#### 2291",2291.0,2291.0,True
+What is 58 * 78?,"To calculate the result of 58 * 78, I'll multiply the two numbers together.
+
+58 * 78 = 4524
+
+#### 4524",4524.0,4524.0,True
+What is 63 * 53?,"To calculate the product of 63 and 53, I'll multiply the two numbers together.
+
+63 * 53 = 3339
+
+#### 3339",3339.0,3339.0,True
+What is 91 * 100?,"91 * 100 = 9100
+
+#### 9100",9100.0,9100.0,True
+What is 52 * 87?,"To calculate 52 * 87, we need to multiply the two numbers together.
+
+52 * 80 = 4160
+52 * 7 = 364
+Adding the two results together, we get:
+4160 + 364 = 4524
+
+#### 4524",4524.0,4524.0,True
+What is 54 * 77?,"To calculate the product of 54 and 77, I'll perform the multiplication.
+
+54 × 77 = 4158
+
+#### 4158",4158.0,4158.0,True
+What is 97 * 21?,"To calculate 97 * 21, I'll multiply the numbers together.
+
+97 * 20 = 1940
+97 * 1 = 97
+Adding those two results together gives us: 1940 + 97 = 2037
+
+#### 2037",2037.0,2037.0,True
+What is 22 * 78?,"To find the answer to 22 * 78, I'll multiply the two numbers together.
+
+22 * 78 = 1716
+
+#### 1716",1716.0,1716.0,True
+What is 17 * 98?,"To calculate 17 * 98, we multiply the two numbers together.
+
+17 * 98 = 1666
+
+#### 1666",1666.0,1666.0,True
+What is 81 * 65?,"To calculate 81 * 65, we need to multiply the two numbers together.
+
+81 * 65 = 5265
+
+#### 5265",5265.0,5265.0,True
+What is 98 * 72?,"To calculate 98 * 72, we can multiply the numbers together.
+
+98 * 70 = 6860
+98 * 2 = 196
+Adding these together, we get:
+6860 + 196 = 7056
+
+#### 7056",7056.0,7056.0,True
+What is 64 * 67?,"To calculate 64 * 67, we need to multiply 64 by 67.
+
+64 * 67 = 4288
+
+#### 4288",4288.0,4288.0,True
+What is 34 * 29?,"To find the product of 34 and 29, we multiply the two numbers together.
+
+34 * 29 = 986
+
+#### 986",986.0,986.0,True
+What is 39 * 72?,"To calculate 39 * 72, we can multiply the numbers together.
+
+39 * 70 = 2730
+39 * 2 = 78
+Adding the two results together, we get:
+2730 + 78 = 2808
+
+#### 2808",2808.0,2808.0,True
+What is 64 * 67?,"To calculate 64 * 67, I'd be happy to help.
+
+64 * 67 = 4288
+
+#### 4288",4288.0,4288.0,True
+What is 85 * 92?,"To calculate the product of 85 and 92, we multiply the two numbers together.
+
+85 * 92 = 7820
+
+#### 7820",7820.0,7820.0,True
+What is 98 * 37?,"To calculate 98 * 37, we need to multiply the two numbers together.
+
+98 * 30 = 2940
+98 * 7 = 686
+Add the two results together: 2940 + 686 = 3626
+
+#### 3626",3626.0,3626.0,True
+What is 38 * 93?,"To calculate 38 * 93, we need to multiply the two numbers together.
+
+38 * 90 = 3420
+38 * 3 = 114
+Adding these two results together, we get:
+3420 + 114 = 3534
+
+#### 3534",3534.0,3534.0,True
+What is 99 * 55?,"To find the product of 99 and 55, we need to multiply these two numbers together.
+
+99 * 55 = 5445
+
+#### 5445",5445.0,5445.0,True
+What is 51 * 56?,"To calculate 51 * 56, I'd be happy to help.
+
+51 * 56 = 2856
+
+#### 2856",2856.0,2856.0,True
+What is 69 * 97?,"To calculate the result of 69 multiplied by 97, we can simply multiply the two numbers together.
+
+69 * 97 = 6693
+
+#### 6693",6693.0,6693.0,True
+What is 31 * 43?,"To calculate 31 * 43, I'd be happy to help you with that.
+
+31 * 43 = 1333
+
+#### 1333",1333.0,1333.0,True
+What is 52 * 60?,"To calculate 52 * 60, I'll multiply the two numbers together.
+
+52 * 60 = 3120
+
+#### 3120",3120.0,3120.0,True
+What is 50 * 18?,"To calculate 50 * 18, we multiply 50 by 18.
+
+50 * 18 = 900
+
+#### 900",900.0,900.0,True
+What is 48 * 34?,"To find the product of 48 and 34, I'll multiply the two numbers together.
+
+48 * 30 = 1440
+48 * 4 = 192
+Adding the two results together gives:
+1440 + 192 = 1632
+
+#### 1632",1632.0,1632.0,True
+What is 91 * 50?,"To calculate the result of 91 * 50, I'll multiply the two numbers together.
+
+91 * 50 = 4550
+
+#### 4550",4550.0,4550.0,True
+What is 88 * 51?,"To calculate 88 * 51, I'll multiply the two numbers together.
+
+88 * 51 = 4488
+
+#### 4488",4488.0,4488.0,True
+What is 79 * 49?,"To calculate the product of 79 and 49, we multiply the two numbers together.
+
+79 * 49 = 3861
+
+#### 3861",3861.0,3871.0,False

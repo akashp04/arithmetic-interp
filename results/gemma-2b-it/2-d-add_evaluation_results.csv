@@ -1,0 +1,833 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 22 + 97?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 22 + 97?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 22 + 97 = 119.
+
+#### 119",119.0,119.0,True
+What is 16 + 67?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 16 + 67?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 16 + 67:
+
+16 + 67 = 83
+
+#### 83",83.0,83.0,True
+What is 91 + 92?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 91 + 92?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 91 + 92 = 183.
+
+#### 183",183.0,183.0,True
+What is 46 + 31?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 46 + 31?
+Also append the final numerical answer on a new line starting with '#### '
+model
+46 + 31 = 77
+
+#### 77",77.0,77.0,True
+What is 26 + 50?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 26 + 50?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 26 + 50 = 76.
+
+#### 76",76.0,76.0,True
+What is 46 + 96?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 46 + 96?
+Also append the final numerical answer on a new line starting with '#### '
+model
+46 + 96 = 142
+
+#### 142",142.0,142.0,True
+What is 76 + 98?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 76 + 98?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 76 + 98 = 174.
+
+#### 174",174.0,174.0,True
+What is 85 + 34?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 85 + 34?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 85 + 34:
+
+**85 + 34 = 129**
+
+Here is the final numerical answer:
+
+#### 129",129.0,119.0,True
+What is 70 + 23?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 70 + 23?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 70 + 23 = 93.
+
+#### 93",93.0,93.0,True
+What is 91 + 19?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 91 + 19?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 91 + 19 = 110.
+
+#### 110",110.0,110.0,True
+What is 60 + 46?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 60 + 46?
+Also append the final numerical answer on a new line starting with '#### '
+model
+60 + 46 = 106
+
+#### 106",106.0,106.0,True
+What is 90 + 13?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 90 + 13?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 90 + 13 = 103.
+
+#### 103",103.0,103.0,True
+What is 25 + 48?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 25 + 48?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 25 + 48 = 73.
+
+#### 73",73.0,73.0,True
+What is 25 + 29?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 25 + 29?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 25 + 29 = 54.
+
+#### 54",54.0,54.0,True
+What is 47 + 19?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 47 + 19?
+Also append the final numerical answer on a new line starting with '#### '
+model
+47 + 19 = 66
+
+#### 66",66.0,66.0,True
+What is 40 + 35?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 40 + 35?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 40 + 35 = 75.
+
+#### 75",75.0,75.0,True
+What is 40 + 48?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 40 + 48?
+Also append the final numerical answer on a new line starting with '#### '
+model
+40 + 48 = 88
+
+#### 88",88.0,88.0,True
+What is 60 + 85?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 60 + 85?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 60 + 85 = 145.
+
+#### 145",145.0,145.0,True
+What is 63 + 54?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 63 + 54?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to your question:
+
+63 + 54 = 117
+
+#### 117",117.0,117.0,True
+What is 34 + 66?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 34 + 66?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 34 + 66 = 100.
+
+#### 100",100.0,100.0,True
+What is 94 + 64?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 94 + 64?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 94 + 64 = 158.
+
+#### 158",158.0,158.0,True
+What is 50 + 89?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 50 + 89?
+Also append the final numerical answer on a new line starting with '#### '
+model
+50 + 89 = 139
+
+#### 139",139.0,139.0,True
+What is 29 + 12?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 29 + 12?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 29 + 12:
+
+**#### 41**",41.0,41.0,True
+What is 99 + 38?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 99 + 38?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question 99 + 38:
+
+**#### 137**",137.0,137.0,True
+What is 40 + 33?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 40 + 33?
+Also append the final numerical answer on a new line starting with '#### '
+model
+40 + 33 = 73
+
+#### 73",73.0,73.0,True
+What is 61 + 25?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 61 + 25?
+Also append the final numerical answer on a new line starting with '#### '
+model
+61 + 25 = 86
+
+#### 86",86.0,86.0,True
+What is 36 + 59?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 36 + 59?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question:
+
+36 + 59 = 95
+
+It is then printed on a new line starting with '#### ' as follows:
+
+#### 36 + 59 = 95",95.0,95.0,True
+What is 78 + 18?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 78 + 18?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 78 + 18 = 96.
+
+#### 96",96.0,96.0,True
+What is 29 + 60?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 29 + 60?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 29 + 60:
+
+**#### 89**",89.0,89.0,True
+What is 22 + 53?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 22 + 53?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 22 + 53 = 75.
+
+#### 75",75.0,75.0,True
+What is 51 + 65?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 51 + 65?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 51 + 65:
+
+#### 116",116.0,116.0,True
+What is 32 + 69?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 32 + 69?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 32 + 69 = 101.
+
+#### 101",101.0,101.0,True
+What is 84 + 94?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 84 + 94?
+Also append the final numerical answer on a new line starting with '#### '
+model
+84 + 94 = 178
+
+#### 178",178.0,178.0,True
+What is 41 + 57?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 41 + 57?
+Also append the final numerical answer on a new line starting with '#### '
+model
+41 + 57 = 98
+
+#### 98",98.0,98.0,True
+What is 72 + 68?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 72 + 68?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 72 + 68 = 140.
+
+#### 140",140.0,140.0,True
+What is 76 + 86?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 76 + 86?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 76 + 86 = 162.
+
+#### 162",162.0,162.0,True
+What is 99 + 48?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 99 + 48?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 99 + 48 = 147.
+
+#### 147",147.0,147.0,True
+What is 52 + 33?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 52 + 33?
+Also append the final numerical answer on a new line starting with '#### '
+model
+52 + 33 = 85
+
+#### 85",85.0,85.0,True
+What is 80 + 50?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 80 + 50?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 80 + 50 = 130.
+
+#### 130",130.0,130.0,True
+What is 11 + 49?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 11 + 49?
+Also append the final numerical answer on a new line starting with '#### '
+model
+11 + 49 = 60
+
+#### 60",60.0,60.0,True
+What is 64 + 40?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 64 + 40?
+Also append the final numerical answer on a new line starting with '#### '
+model
+64 + 40 = 104
+
+#### 104",104.0,104.0,True
+What is 82 + 28?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 82 + 28?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 82 + 28 = 110.
+
+#### 110",110.0,110.0,True
+What is 91 + 76?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 91 + 76?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 91 + 76:
+
+**#### 167**",167.0,167.0,True
+What is 91 + 64?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 91 + 64?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 91 + 64:
+
+**#### 155**",155.0,155.0,True
+What is 47 + 29?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 47 + 29?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 47 + 29 = 76.
+
+#### 76",76.0,76.0,True
+What is 44 + 11?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 44 + 11?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 44 + 11 = 55.
+
+#### 55",55.0,55.0,True
+What is 88 + 47?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 88 + 47?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 88 + 47:
+
+**88 + 47 = 135**
+
+Here is the final numerical answer, 135, appended on a new line starting with '#### ':
+
+#### 135",135.0,135.0,True
+What is 62 + 72?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 62 + 72?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 62 + 72 = 134.
+
+#### 134",134.0,134.0,True
+What is 81 + 82?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 81 + 82?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer:
+
+81 + 82 = 163.
+
+#### 163",163.0,163.0,True
+What is 63 + 89?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 63 + 89?
+Also append the final numerical answer on a new line starting with '#### '
+model
+63 + 89 = 152
+
+#### 152",152.0,152.0,True
+What is 96 + 49?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 96 + 49?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 96 + 49 = 145.
+
+#### 145",145.0,145.0,True
+What is 28 + 26?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 28 + 26?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to 28 + 26:
+
+**28 + 26 = 54**
+
+It is appended on a new line starting with '#### ' below:
+
+#### 28 + 26 = 54",54.0,54.0,True
+What is 42 + 43?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 42 + 43?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 42 + 43 = 85.
+
+#### 85",85.0,85.0,True
+What is 68 + 17?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 68 + 17?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 68 + 17 = 85.
+
+#### 85",85.0,85.0,True
+What is 58 + 82?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 58 + 82?
+Also append the final numerical answer on a new line starting with '#### '
+model
+58 + 82 = 140
+
+#### 140",140.0,140.0,True
+What is 54 + 81?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 54 + 81?
+Also append the final numerical answer on a new line starting with '#### '
+model
+54 + 81 = 135
+
+#### 135",135.0,135.0,True
+What is 56 + 33?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 56 + 33?
+Also append the final numerical answer on a new line starting with '#### '
+model
+56 + 33 = 99
+
+#### 99",99.0,89.0,True
+What is 40 + 75?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 40 + 75?
+Also append the final numerical answer on a new line starting with '#### '
+model
+40 + 75 = 115
+
+#### 115",115.0,115.0,True
+What is 43 + 86?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 43 + 86?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 43 + 86 = 129.
+
+#### 129",129.0,129.0,True
+What is 20 + 100?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 20 + 100?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 20 + 100 = 120.
+
+#### 120",120.0,120.0,True
+What is 59 + 36?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 59 + 36?
+Also append the final numerical answer on a new line starting with '#### '
+model
+59 + 36 = 95
+
+#### 95",95.0,95.0,True
+What is 27 + 74?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 27 + 74?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 27 + 74 = 101.
+
+#### 101",101.0,101.0,True
+What is 24 + 85?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 24 + 85?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 24 + 85 = 119.
+
+#### 119",119.0,109.0,True
+What is 85 + 58?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 85 + 58?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 85 + 58 = 143.
+
+#### 143",143.0,143.0,True
+What is 38 + 79?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 38 + 79?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 38 + 79 = 117.
+
+#### 117",117.0,117.0,True
+What is 59 + 79?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 59 + 79?
+Also append the final numerical answer on a new line starting with '#### '
+model
+59 + 79 = 138
+
+#### 138",138.0,138.0,True
+What is 80 + 17?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 80 + 17?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 80 + 17 = 97.
+
+#### 97",97.0,97.0,True
+What is 77 + 34?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 77 + 34?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to the question 77 + 34:
+
+**77 + 34 = 111**
+
+Please note that the final answer is 111 and is appended on a new line starting with '#### ' below:
+
+#### 77 + 34 = 111",111.0,111.0,True
+What is 40 + 98?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 40 + 98?
+Also append the final numerical answer on a new line starting with '#### '
+model
+40 + 98 = 138
+
+#### 138",138.0,138.0,True
+What is 87 + 83?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 87 + 83?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 87 + 83 = 170.
+
+#### 170",170.0,170.0,True
+What is 35 + 11?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 35 + 11?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 35 + 11 = 46.
+
+#### 46",46.0,46.0,True
+What is 37 + 75?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 37 + 75?
+Also append the final numerical answer on a new line starting with '#### '
+model
+37 + 75 = 112
+
+#### 112",112.0,112.0,True
+What is 100 + 92?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 100 + 92?
+Also append the final numerical answer on a new line starting with '#### '
+model
+100 + 92 = 192
+
+#### 192",192.0,192.0,True
+What is 13 + 34?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 13 + 34?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 13 + 34 = 47.
+
+#### 47",47.0,47.0,True
+What is 65 + 43?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 65 + 43?
+Also append the final numerical answer on a new line starting with '#### '
+model
+65 + 43 = 108
+
+#### 108",108.0,108.0,True
+What is 22 + 56?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 22 + 56?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 22 + 56 = 78.
+
+#### 78",78.0,78.0,True
+What is 59 + 70?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 59 + 70?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 59 + 70 = 129.
+
+#### 129",129.0,129.0,True
+What is 87 + 49?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 87 + 49?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here is the answer to 87 + 49:
+
+**87 + 49 = 136**
+
+Here is the final numerical answer, 136, appended on a new line starting with '#### ':
+
+#### 136",136.0,136.0,True
+What is 16 + 69?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 16 + 69?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 16 + 69 = 85.
+
+#### 85",85.0,85.0,True
+What is 54 + 34?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 54 + 34?
+Also append the final numerical answer on a new line starting with '#### '
+model
+54 + 34 = 88
+
+#### 88",88.0,88.0,True
+What is 73 + 89?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 73 + 89?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 73 + 89 = 162.
+
+#### 162",162.0,162.0,True
+What is 71 + 96?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 71 + 96?
+Also append the final numerical answer on a new line starting with '#### '
+model
+71 + 96 = 167
+
+#### 167",167.0,167.0,True
+What is 87 + 48?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 87 + 48?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 87 + 48 = 135.
+
+#### 135",135.0,135.0,True
+What is 94 + 29?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 94 + 29?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 94 + 29 = 123.
+
+#### 123",123.0,123.0,True
+What is 28 + 32?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 28 + 32?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 28 + 32 = 60.
+
+#### 60",60.0,60.0,True
+What is 40 + 47?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 40 + 47?
+Also append the final numerical answer on a new line starting with '#### '
+model
+40 + 47 = 87
+
+#### 87",87.0,87.0,True
+What is 56 + 18?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 56 + 18?
+Also append the final numerical answer on a new line starting with '#### '
+model
+56 + 18 = 74
+
+#### 74",74.0,74.0,True
+What is 90 + 93?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 90 + 93?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 90 + 93 = 183.
+
+#### 183",183.0,183.0,True
+What is 11 + 71?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 11 + 71?
+Also append the final numerical answer on a new line starting with '#### '
+model
+11 + 71 = 82
+
+#### 82",82.0,82.0,True
+What is 18 + 25?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 18 + 25?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, here's the answer to your question:
+
+18 + 25 = 43
+
+#### 43",43.0,43.0,True
+What is 87 + 58?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 87 + 58?
+Also append the final numerical answer on a new line starting with '#### '
+model
+87 + 58 = 145
+
+#### 145",145.0,145.0,True
+What is 83 + 65?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 83 + 65?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 83 + 65 = 148.
+
+#### 148",148.0,148.0,True
+What is 28 + 34?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 28 + 34?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 28 + 34 = 62.
+
+#### 62",62.0,62.0,True
+What is 72 + 12?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 72 + 12?
+Also append the final numerical answer on a new line starting with '#### '
+model
+72 + 12 = 84
+
+#### 84",84.0,84.0,True
+What is 75 + 71?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 75 + 71?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure. 75 + 71 = 146.
+
+#### 146",146.0,146.0,True
+What is 70 + 100?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 70 + 100?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 70 + 100 = 170.
+
+#### 170",170.0,170.0,True
+What is 30 + 44?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 30 + 44?
+Also append the final numerical answer on a new line starting with '#### '
+model
+30 + 44 = 74
+
+#### 74",74.0,74.0,True
+What is 89 + 53?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 89 + 53?
+Also append the final numerical answer on a new line starting with '#### '
+model
+89 + 53 = 142
+
+#### 142",142.0,142.0,True
+What is 53 + 35?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 53 + 35?
+Also append the final numerical answer on a new line starting with '#### '
+model
+53 + 35 = 88
+
+#### 88",88.0,88.0,True
+What is 99 + 88?,"user
+You are a helpful assistant. Do not use or generate code in your responses.
+What is 99 + 88?
+Also append the final numerical answer on a new line starting with '#### '
+model
+Sure, 99 + 88 = 187.
+
+#### 187",187.0,187.0,True

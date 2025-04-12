@@ -1,0 +1,501 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 7710898 + 7195835?,"To calculate the sum, I'll add the two numbers together:
+
+7710898 + 7195835 = 14906733
+
+#### 14906733",14906733.0,14906733.0,True
+What is 2646770 + 6583242?,"To calculate the sum, I'll add the two numbers together:
+
+2646770 + 6583242 = 9230012
+
+#### 9230012",9230012.0,9230012.0,True
+What is 7882043 + 9438605?,"To calculate the sum, I'll add the two numbers:
+
+7882043 + 9438605 = 17320648
+
+#### 17320648",17320648.0,17320648.0,True
+What is 3831375 + 7253883?,"To calculate the sum, I'll add the two numbers:
+
+3831375 + 7253883 = 11085258
+
+#### 11085258",11085258.0,11085258.0,True
+What is 1235977 + 6330503?,"To find the sum, I'll add the two numbers together:
+
+1235977 + 6330503 = 7566480
+
+#### 7566480",7566480.0,7566480.0,True
+What is 1877053 + 7195136?,"To calculate the sum, I'll add the two numbers:
+
+1877053 + 7195136 = 9072189
+
+#### 9072189",9072189.0,9072189.0,True
+What is 4207331 + 3806640?,"To calculate the sum, I'll add the two numbers:
+
+4207331 + 3806640 = 8013971
+
+#### 8013971",8013971.0,8013971.0,True
+What is 1453133 + 5163421?,"To calculate the sum, I'll add the two numbers:
+
+1453133 + 5163421 = 6616554
+
+#### 6616554",6616554.0,6616554.0,True
+What is 9662490 + 6291949?,"To calculate the sum, I'll add the two numbers:
+
+9662490 + 6291949 = 15954439
+
+#### 15954439",15954439.0,15954439.0,True
+What is 8523635 + 7050036?,"To find the answer, I'll add the two numbers:
+
+8523635 + 7050036 = 15573671
+
+#### 15573671",15573671.0,15573671.0,True
+What is 8859108 + 2777010?,"To calculate the sum, I'll add the two numbers:
+
+8859108 + 2777010 = 11636118
+
+#### 11636118",11636118.0,11636118.0,True
+What is 9837130 + 9424176?,"To calculate the sum of 9837130 and 9424176, I'll perform the addition:
+
+9837130 + 9424176 = 19261306
+
+#### 19261306",19261306.0,19261306.0,True
+What is 2701146 + 7426014?,"To calculate the sum, I'll add the two numbers:
+
+2701146 + 7426014 = 10127160
+
+#### 10127160",10127160.0,10127160.0,True
+What is 7898391 + 7376203?,"To calculate the sum of 7898391 and 7376203, I'll perform the addition.
+
+7898391 + 7376203 = 15274694
+
+#### 15274694",15274694.0,15274594.0,False
+What is 9268585 + 7862859?,"To calculate the sum, I'll add the two numbers:
+
+9268585 + 7862859 = 17131444
+
+#### 17131444",17131444.0,17131444.0,True
+What is 5524420 + 2719631?,"To calculate the sum, I'll add the two numbers together.
+
+5524420 + 2719631 = 8244051
+
+#### 8244051",8244051.0,8244051.0,True
+What is 1924559 + 5122858?,"To calculate the sum, I'll add the two numbers:
+
+1924559 + 5122858 = 7047417
+
+#### 7047417",7047417.0,7047417.0,True
+What is 3819216 + 6157302?,"To calculate the sum, I'll add the two numbers:
+
+3819216 + 6157302 = 9976518
+
+#### 9976518",9976518.0,9976518.0,True
+What is 6051033 + 2227026?,"To calculate the sum, I'll add the two numbers together:
+
+6051033 + 2227026 = 8278060
+
+#### 8278060",8278060.0,8278059.0,False
+What is 6979077 + 1172342?,"To calculate the sum, I'll add the two numbers together.
+
+6979077 + 1172342 = 8151420
+
+#### 8151420",8151420.0,8151419.0,False
+What is 9675269 + 7786167?,"To calculate the sum, I'll add the two numbers:
+
+9675269 + 7786167 = 17461436
+
+#### 17461436",17461436.0,17461436.0,True
+What is 8960316 + 9302270?,"To find the sum of 8960316 and 9302270, I'll perform the calculation:
+
+8960316 + 9302270 = 18262586
+
+#### 18262586",18262586.0,18262586.0,True
+What is 8250091 + 8714961?,"To calculate the sum, I'll add the two numbers together:
+
+8250091 + 8714961 = 16965052
+
+#### 16965052",16965052.0,16965052.0,True
+What is 6370083 + 6741063?,"To calculate the sum, I'll add the two numbers together:
+
+6370083 + 6741063 = 13111146
+
+#### 13111146",13111146.0,13111146.0,True
+What is 4758906 + 4653636?,"To calculate the sum, I'll add the two numbers together:
+
+4758906 + 4653636 = 9412542
+
+#### 9412542",9412542.0,9412542.0,True
+What is 6097661 + 9237860?,"To calculate the sum, I'll add the two numbers together:
+
+6097661 + 9237860 = 15335521
+
+#### 15335521",15335521.0,15335521.0,True
+What is 7782742 + 9305327?,"To calculate the sum, I'll add the two numbers together.
+
+7782742 + 9305327 = 17088069
+
+#### 17088069",17088069.0,17088069.0,True
+What is 3618463 + 2330390?,"To calculate the sum, I'll add the two numbers:
+
+3618463 + 2330390 = 5948853
+
+#### 5948853",5948853.0,5948853.0,True
+What is 5086850 + 6930195?,"To calculate the sum, I'll add the two numbers together:
+
+5086850 + 6930195 = 12017045
+
+#### 12017045",12017045.0,12017045.0,True
+What is 3757320 + 2003027?,"To find the sum, I'll add the two numbers together.
+
+3757320 + 2003027 = 5760347
+
+#### 5760347",5760347.0,5760347.0,True
+What is 7407661 + 6261296?,"To calculate the sum, I'll add the two numbers:
+
+7407661 + 6261296 = 13668957
+
+#### 13668957",13668957.0,13668957.0,True
+What is 3859884 + 3203934?,"To calculate the sum, I'll add the two numbers:
+
+3859884 + 3203934 = 7063818
+
+#### 7063818",7063818.0,7063818.0,True
+What is 7367016 + 9512899?,"To calculate the sum, I'll add the two numbers:
+
+7367016 + 9512899 = 16889915
+
+#### 16889915",16889915.0,16879915.0,False
+What is 3677639 + 8054979?,"To calculate the sum, I'll add the two numbers together:
+
+3677639 + 8054979 = 11732618
+
+#### 11732618",11732618.0,11732618.0,True
+What is 1874965 + 4948111?,"To calculate the sum, I'll add the two numbers together:
+
+1874965 + 4948111 = 6823076
+
+#### 6823076",6823076.0,6823076.0,True
+What is 6152110 + 3872672?,"To calculate the sum, I'll add the two numbers:
+
+6152110 + 3872672 = 10024782
+
+#### 10024782",10024782.0,10024782.0,True
+What is 2113384 + 4724319?,"To calculate the sum, I'll add the two numbers:
+
+2113384 + 4724319 = 6837703
+
+#### 6837703",6837703.0,6837703.0,True
+What is 8558517 + 1435652?,"To calculate the sum, I'll add the two numbers together:
+
+8558517 + 1435652 = 9994169
+
+#### 9994169",9994169.0,9994169.0,True
+What is 9259862 + 3729381?,"To calculate the sum, I'll add the two numbers:
+
+9259862 + 3729381 = 12989243
+
+#### 12989243",12989243.0,12989243.0,True
+What is 6473074 + 3440483?,"To calculate the sum, I'll add the two numbers:
+
+6473074 + 3440483 = 9913557
+
+#### 9913557",9913557.0,9913557.0,True
+What is 6863307 + 7238998?,"To calculate the sum, I'll add the two numbers together.
+
+6863307 + 7238998 = 14102305
+
+#### 14102305",14102305.0,14102305.0,True
+What is 8229087 + 3818243?,"To find the sum, I'll add the two numbers:
+
+8229087 + 3818243 = 12047330
+
+#### 12047330",12047330.0,12047330.0,True
+What is 5671127 + 6481201?,"To calculate the sum, I'll add the two numbers together:
+
+5671127 + 6481201 = 12152328
+
+#### 12152328",12152328.0,12152328.0,True
+What is 7962757 + 1119396?,"To calculate the sum, I'll add the two numbers together.
+
+7962757 + 1119396 = 9082153
+
+#### 9082153",9082153.0,9082153.0,True
+What is 7420745 + 5068006?,"To calculate the sum, I'll add the two numbers:
+
+7420745 + 5068006 = 12488751
+
+#### 12488751",12488751.0,12488751.0,True
+What is 4114831 + 2166112?,"To calculate the sum, I'll add the two numbers together:
+
+4114831 + 2166112 = 6280943
+
+#### 6280943",6280943.0,6280943.0,True
+What is 8793181 + 5261049?,"To calculate the sum, I'll add the two numbers together:
+
+8793181 + 5261049 = 14054230
+
+#### 14054230",14054230.0,14054230.0,True
+What is 3042867 + 7192333?,"To find the answer, I'll add the two numbers together:
+
+3042867 + 7192333 = 10235200
+
+#### 10235200",10235200.0,10235200.0,True
+What is 7434133 + 7767797?,"To calculate the sum, I'll add the two numbers together.
+
+7434133 + 7767797 = 15201930
+
+#### 15201930",15201930.0,15201930.0,True
+What is 8285322 + 2474216?,"To calculate the sum, I'll add the two numbers:
+
+8285322 + 2474216 = 10759538
+
+#### 10759538",10759538.0,10759538.0,True
+What is 2680519 + 7497115?,"To calculate the sum, I'll add the two numbers together:
+
+2680519 + 7497115 = 10177634
+
+#### 10177634",10177634.0,10177634.0,True
+What is 3886251 + 6156340?,"To calculate the sum, I'll add the two numbers together.
+
+3886251 + 6156340 = 10042591
+
+#### 10042591",10042591.0,10042591.0,True
+What is 3101090 + 5765405?,"To calculate the sum, I'll add the two numbers:
+
+3101090 + 5765405 = 8866495
+
+#### 8866495",8866495.0,8866495.0,True
+What is 1184564 + 5376630?,"To calculate the sum, I'll add the two numbers together:
+
+1184564 + 5376630 = 6561194
+
+#### 6561194",6561194.0,6561194.0,True
+What is 4836127 + 8347298?,"To calculate the sum, I'll add the two numbers:
+
+4836127 + 8347298 = 13183425
+
+#### 13183425",13183425.0,13183425.0,True
+What is 4142876 + 1483240?,"To calculate the sum, I'll add the two numbers:
+
+4142876 + 1483240 = 5626116
+
+#### 5626116",5626116.0,5626116.0,True
+What is 5608984 + 4032136?,"To calculate the sum, I'll add the two numbers together:
+
+5608984 + 4032136 = 9641120
+
+#### 9641120",9641120.0,9641120.0,True
+What is 5349293 + 2116717?,"To calculate the sum, I'll add the two numbers together:
+
+5349293 + 2116717 = 7466009
+
+#### 7466009",7466009.0,7466010.0,False
+What is 1483562 + 8031713?,"To calculate the sum, I'll add the two numbers:
+
+1483562 + 8031713 = 9515275
+
+#### 9515275",9515275.0,9515275.0,True
+What is 7875297 + 5213578?,"To calculate the sum, I'll add the two numbers:
+
+7875297 + 5213578 = 13088875
+
+#### 13088875",13088875.0,13088875.0,True
+What is 8736730 + 7316633?,"To calculate the sum, I'll add the two numbers:
+
+8736730 + 7316633 = 16053363
+
+#### 16053363",16053363.0,16053363.0,True
+What is 4999221 + 8241468?,"To calculate the sum, I'll add the two numbers:
+
+4999221 + 8241468 = 13240689
+
+#### 13240689",13240689.0,13240689.0,True
+What is 6823111 + 1016673?,"To calculate the sum, I'll add the two numbers:
+
+6823111 + 1016673 = 7839784
+
+#### 7839784",7839784.0,7839784.0,True
+What is 9185720 + 5792352?,"To calculate the sum, I'll add the two numbers:
+
+9185720 + 5792352 = 14978072
+
+#### 14978072",14978072.0,14978072.0,True
+What is 7980824 + 5338627?,"To calculate the sum, I'll add the two numbers:
+
+7980824 + 5338627 = 13319451
+
+#### 13319451",13319451.0,13319451.0,True
+What is 4086742 + 7904807?,"To find the answer, I'll add the two numbers together:
+
+4086742 + 7904807 = 11991549
+
+#### 11991549",11991549.0,11991549.0,True
+What is 5564125 + 5594045?,"To calculate the sum, I'll add the two numbers:
+
+5564125 + 5594045 = 11158170
+
+#### 11158170",11158170.0,11158170.0,True
+What is 6740797 + 2731025?,"To find the sum, I'll add the two numbers:
+
+6740797 + 2731025 = 9471822
+
+#### 9471822",9471822.0,9471822.0,True
+What is 5144650 + 9110755?,"To find the sum, I'll add the two numbers together.
+
+5144650 + 9110755 = 14255405
+
+#### 14255405",14255405.0,14255405.0,True
+What is 5880842 + 6659611?,"To calculate the sum, I'll add the two numbers together:
+
+5880842 + 6659611 = 12540453
+
+#### 12540453",12540453.0,12540453.0,True
+What is 8378573 + 6529191?,"To calculate the sum, I'll add the two numbers together:
+
+8378573 + 6529191 = 14907764
+
+#### 14907764",14907764.0,14907764.0,True
+What is 8495324 + 2144742?,"To calculate the sum, I'll add the two numbers:
+
+8495324 + 2144742 = 10640066
+
+#### 10640066",10640066.0,10640066.0,True
+What is 1069052 + 7977592?,"To calculate the sum, I'll add the two numbers:
+
+1069052 + 7977592 = 9086644
+
+#### 9086644",9086644.0,9046644.0,False
+What is 9385843 + 1130065?,"To calculate the sum, I'll add the two numbers:
+
+9385843 + 1130065 = 10515908
+
+#### 10515908",10515908.0,10515908.0,True
+What is 6466259 + 9422127?,"To calculate the sum of 6466259 and 9422127, I'll perform the addition.
+
+6466259 + 9422127 = 15888386
+
+#### 15888386",15888386.0,15888386.0,True
+What is 8359038 + 7156476?,"To find the sum, I'll add the two numbers together:
+
+8359038 + 7156476 = 15515514
+
+#### 15515514",15515514.0,15515514.0,True
+What is 4976131 + 9825020?,"To calculate the sum, I'll add the two numbers:
+
+4976131 + 9825020 = 14801151
+
+#### 14801151",14801151.0,14801151.0,True
+What is 2102326 + 1643734?,"To calculate the sum, I'll add the two numbers together:
+
+2102326 + 1643734 = 3746060
+
+#### 3746060",3746060.0,3746060.0,True
+What is 9290385 + 2200836?,"To calculate the sum, I'll add the two numbers:
+
+9290385 + 2200836 = 11491221
+
+#### 11491221",11491221.0,11491221.0,True
+What is 1194890 + 2282391?,"To calculate the sum, I'll perform the addition:
+
+1194890 + 2282391 = 3477281
+
+#### 3477281",3477281.0,3477281.0,True
+What is 6258409 + 3080915?,"To find the sum of 6258409 and 3080915, I'll perform the calculation:
+
+6258409 + 3080915 = 9339324
+
+#### 9339324",9339324.0,9339324.0,True
+What is 5037148 + 6267631?,"To calculate the sum, I'll add the two numbers:
+
+5037148 + 6267631 = 11304779
+
+#### 11304779",11304779.0,11304779.0,True
+What is 1363205 + 3520109?,"To calculate the sum, I'll add the two numbers:
+
+1363205 + 3520109 = 4883314
+
+#### 4883314",4883314.0,4883314.0,True
+What is 8515007 + 5944673?,"To calculate the sum, I'll add the two numbers:
+
+8515007 + 5944673 = 14459680
+
+#### 14459680",14459680.0,14459680.0,True
+What is 3242978 + 4693258?,"To calculate the sum, I'll add the two numbers:
+
+3242978 + 4693258 = 7936236
+
+#### 7936236",7936236.0,7936236.0,True
+What is 5100855 + 4324358?,"To calculate the sum, I'll add the two numbers:
+
+5100855 + 4324358 = 9425213
+
+#### 9425213",9425213.0,9425213.0,True
+What is 6448684 + 9732102?,"To calculate the sum, I'll add the two numbers:
+
+6448684 + 9732102 = 16180786
+
+#### 16180786",16180786.0,16180786.0,True
+What is 5321952 + 6546016?,"To calculate the sum, I'll add the two numbers:
+
+5321952 + 6546016 = 11867968
+
+#### 11867968",11867968.0,11867968.0,True
+What is 1944071 + 2915865?,"To calculate the sum, I'll add the two numbers:
+
+1944071 + 2915865 = 4860036
+
+#### 4860036",4860036.0,4859936.0,False
+What is 9721379 + 2671968?,"To calculate the sum, I'll add the two numbers together:
+
+9721379 + 2671968 = 12393347
+
+#### 12393347",12393347.0,12393347.0,True
+What is 7097344 + 9670096?,"To calculate the sum, I'll add the two numbers together:
+
+7097344 + 9670096 = 16767440
+
+#### 16767440",16767440.0,16767440.0,True
+What is 5523181 + 3809557?,"To calculate the sum, I'll add the two numbers:
+
+5523181 + 3809557 = 9332738
+
+#### 9332738",9332738.0,9332738.0,True
+What is 6617365 + 5712116?,"To find the sum, I'll add the two numbers together:
+
+6617365 + 5712116 = 12329481
+
+#### 12329481",12329481.0,12329481.0,True
+What is 8136928 + 9462835?,"To calculate the sum, I'll add the two numbers together:
+
+8136928 + 9462835 = 17609763
+
+#### 17609763",17609763.0,17599763.0,False
+What is 4554003 + 9683748?,"To calculate the sum, I'll add the two numbers:
+
+4554003 + 9683748 = 14237751
+
+#### 14237751",14237751.0,14237751.0,True
+What is 7252804 + 8217496?,"To calculate the sum, I'll add the two numbers:
+
+7252804 + 8217496 = 15470300
+
+#### 15470300",15470300.0,15470300.0,True
+What is 7790810 + 9796685?,"To find the answer, I'll add the two numbers together:
+
+7790810 + 9796685 = 17587495
+
+#### 17587495",17587495.0,17587495.0,True
+What is 6674467 + 1420254?,"To calculate the sum, I'll add the two numbers:
+
+6674467 + 1420254 = 8094721
+
+#### 8094721",8094721.0,8094721.0,True
+What is 9147447 + 6826908?,"To calculate the sum, I'll add the two numbers:
+
+9147447 + 6826908 = 15974355
+
+#### 15974355",15974355.0,15974355.0,True
+What is 1770502 + 4895485?,"To calculate the sum, I'll add the two numbers together:
+
+1770502 + 4895485 = 6665987
+
+#### 6665987",6665987.0,6665987.0,True

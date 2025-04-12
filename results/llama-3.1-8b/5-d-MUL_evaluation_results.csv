@@ -1,0 +1,512 @@
+Question,Response Text,Predicted Answer,Correct Answer,Is Correct
+What is 68506 * 30804?,"To calculate the product of 68506 and 30804, we need to multiply these two numbers together.
+
+68506 * 30804 = 21,110,392,244
+
+#### 21110392244",21110392244.0,2110258824.0,False
+What is 13847 * 74823?,"To calculate 13847 * 74823, we need to multiply these two numbers.
+
+13847 * 74823 = 1034835331
+
+#### 1034835331",1034835331.0,1036074081.0,False
+What is 43518 * 31404?,"To calculate the product of 43518 and 31404, we need to multiply these two numbers together.
+
+43518 × 31404 = 13,695,155,912
+
+#### 13695155912",13695155912.0,1366639272.0,False
+What is 75977 * 54236?,"To calculate 75977 * 54236, we need to multiply these two numbers.
+
+75977 * 54236 = 41,192,949,812
+
+#### 41192949112",41192949112.0,4120688572.0,False
+What is 15469 * 84084?,"To calculate 15469 * 84084, we need to multiply these two numbers together.
+
+The result of the multiplication is: 1,300,813,556
+
+#### 1300813556",1300813556.0,1300695396.0,False
+What is 16124 * 75924?,"To calculate 16124 * 75924, we need to multiply these two numbers together.
+
+The result of the multiplication is: 1,226,509,296
+
+#### 1226509296",1226509296.0,1224198576.0,False
+What is 49382 * 28075?,"To calculate the product of 49382 and 28075, we need to multiply these two numbers together.
+
+49382 * 28075 = 1,388,579,300
+
+#### 1,388,579,300",1388579300.0,1386399650.0,False
+What is 56237 * 99001?,"To calculate 56237 * 99001, we need to multiply these two numbers.
+
+56237 * 99001 = 556,184,157
+
+#### 556,184,157",556184157.0,5567519237.0,False
+What is 32553 * 95189?,"To calculate the product of 32553 and 95189, I'll perform the multiplication.
+
+32553 * 95189 = 309,551,497
+
+#### 309551497",309551497.0,3098687517.0,False
+What is 57714 * 15635?,"To calculate the product of 57714 and 15635, we need to multiply these two numbers together.
+
+57714 * 15635 = 900,911,690
+
+#### 900911690",900911690.0,902358390.0,False
+What is 72979 * 14221?,"To calculate 72979 * 14221, I get:
+
+1,037,361,159
+
+#### 1,037,361,159",1037361159.0,1037834359.0,False
+What is 45812 * 25814?,"To calculate the product of 45812 and 25814, we need to multiply these two numbers together.
+
+45812 * 25814 = 118,175,016,088
+
+#### 118,175,016,088",118175016088.0,1182590968.0,False
+What is 95504 * 19020?,"To calculate the product of 95504 and 19020, we need to multiply these two numbers together.
+
+95504 * 19020 = 1815793040
+
+#### 1815793040",1815793040.0,1816486080.0,False
+What is 31905 * 10394?,"To calculate 31905 * 10394, we need to multiply these two numbers together.
+
+31905 * 10394 = 330,759,510
+
+#### 330759510",330759510.0,331620570.0,False
+What is 63876 * 22978?,"To calculate 63876 * 22978, we need to multiply these two numbers together.
+
+63876 * 22978 = 146,771,428
+
+#### 146,771,428",146771428.0,1467742728.0,False
+What is 65110 * 56613?,"To calculate the product of 65110 and 56613, we need to multiply these two numbers together.
+
+65110 * 56613 = 367,011,6270
+
+#### 3670116270",3670116270.0,3686072430.0,False
+What is 63709 * 74042?,"To calculate the product of 63709 and 74042, we need to multiply these two numbers together.
+
+63709 × 74042 = 4714485868
+
+#### 4714485868",4714485868.0,4717141778.0,False
+What is 52924 * 76953?,"To calculate the product of 52924 and 76953, we can multiply these two numbers together.
+
+52924 * 76953 = 406,531,041,472
+
+#### 406531041472",406531041472.0,4072660572.0,False
+What is 71763 * 26843?,"To calculate the product of 71763 and 26843, we need to multiply these two numbers together.
+
+71763 × 26843 = 192,791,849
+
+#### 192791849",192791849.0,1926334209.0,False
+What is 28743 * 24769?,"To calculate 28743 * 24769, I get:
+
+11,314,333,687
+
+#### 11314336687",11314336687.0,711935367.0,False
+What is 67817 * 16926?,"To calculate 67817 * 16926, we need to multiply these two numbers together.
+
+67817 * 16926 = 114,814,782
+
+#### 114814782",114814782.0,1147870542.0,False
+What is 72686 * 52158?,"The result of the multiplication is 378,989,918.
+
+#### 378989918",378989918.0,3791156388.0,False
+What is 77656 * 52059?,"To calculate the product of 77656 and 52059, we need to multiply these two numbers together.
+
+77656 * 52059 = 404,511,094,144
+
+#### 404511094144",404511094144.0,4042693704.0,False
+What is 36766 * 83206?,"To calculate the product of 36766 and 83206, I get:
+
+3,070,939,716
+
+#### 3,070,939,716",3070939716.0,3059151796.0,False
+What is 81694 * 52170?,"The result of multiplying 81694 by 52170 is 42,638,058,000.
+
+#### 42638058000",42638058000.0,4261975980.0,False
+What is 40745 * 42136?,"To calculate the product of 40745 and 42136, we need to multiply these two numbers together.
+
+40745 * 42136 = 17,169,964,000
+
+#### 17169964000",17169964000.0,1716831320.0,False
+What is 32456 * 45293?,"To calculate the product of 32456 and 45293, I can perform the multiplication.
+
+32456 * 45293 = 14,684,625,768
+
+#### 14684625768",14684625768.0,1470029608.0,False
+What is 75703 * 41266?,"To calculate the product of 75703 and 41266, we need to multiply these two numbers together.
+
+75703 * 41266 = 31,251,551,878
+
+#### 31251551878",31251551878.0,3123959998.0,False
+What is 80126 * 51668?,"To calculate the product of 80126 and 51668, I get:
+
+4,133,143,888
+
+#### 4133143888",4133143888.0,4139950168.0,False
+What is 60038 * 29283?,"To calculate the product of 60038 and 29283, we need to multiply these two numbers together.
+
+60038 * 29283 = 17,535,399,394
+
+#### 17,535,399,394",17535399394.0,1758092754.0,False
+What is 71397 * 88631?,"To calculate 71397 * 88631, we need to multiply these two numbers.
+
+71397 * 88631 = 633,131,387
+
+#### 633131387",633131387.0,6327987507.0,False
+What is 88571 * 98113?,"To calculate 88571 * 98113, we need to multiply these two numbers.
+
+The result is: 869,111,879
+
+#### 869111879",869111879.0,8689966523.0,False
+What is 33051 * 57690?,"To calculate 33051 * 57690, we need to multiply these two numbers together.
+
+33051 * 57690 = 190,392,4590
+
+#### 1903924590",1903924590.0,1906712190.0,False
+What is 29551 * 56482?,"To calculate the product of 29551 and 56482, we need to multiply these two numbers together.
+
+29551 * 56482 = 166,836,417,262
+
+#### 166,836,417,262",166836417262.0,1669099582.0,False
+What is 78703 * 70375?,"To calculate 78703 * 70375, we need to multiply these two numbers.
+
+78703 * 70375 = 554,495,962,375
+
+#### 554,495,962,375",554495962375.0,5538723625.0,False
+What is 56336 * 95021?,"To calculate 56336 * 95021, I get:
+
+53,437,519,636
+
+#### 53437519636",53437519636.0,5353103056.0,False
+What is 96467 * 40347?,"To calculate the product of 96467 and 40347, we can multiply these two numbers together.
+
+96467 * 40347 = 38,913,349,069
+
+#### 38913349069",38913349069.0,3892154049.0,False
+What is 51313 * 50589?,"To calculate the product of 51313 and 50589, I'll perform the multiplication.
+
+51313 × 50000 = 2565656000
+51313 × 5000 = 256565600
+51313 × 500 = 25656500
+51313 × 90 = 4623167
+51313 × 9 = 461317
+51313 × 8 = 411604
+51313 × 5 = 256565
+
+Now, let's add up all the partial products:
+
+2565656000 + 256565600 = 2565655600
+2565655600 + 25656500 = 2589216600
+2589216600 + 4623167 = 2593839767
+2593839767 + 461317 = 2593847084
+2593847084 + 411604 = 2593847688
+2593847688 + 256565 = 2593854253
+
+The final answer is:
+2593854253
+####",2593854253.0,2595873357.0,False
+What is 26495 * 55456?,"To calculate the product of 26495 and 55456, I get:
+
+14,851,948,000
+
+#### 14851948000",14851948000.0,1469306720.0,False
+What is 70442 * 68436?,"To calculate 70442 * 68436, we need to multiply these two numbers together.
+
+70442 * 68436 = 48,287,151,472
+
+#### 48287151472",48287151472.0,4820768712.0,False
+What is 25940 * 47804?,"To calculate 25940 * 47804, I get:
+
+1,242,835,560
+
+#### 1,242,835,560",1242835560.0,1240035760.0,False
+What is 87287 * 46634?,"To calculate 87287 * 46634, we need to multiply these two numbers together.
+
+87287 * 46634 = 4,066,111,618
+
+#### 4066111618",4066111618.0,4070541958.0,False
+What is 64382 * 29394?,"To calculate the product of 64382 and 29394, we need to multiply these two numbers together.
+
+64382 * 29394 = 18,859,758,508
+
+#### 18859758508",18859758508.0,1892444508.0,False
+What is 27350 * 67902?,"To calculate the result of 27350 * 67902, we need to multiply these two numbers together.
+
+The result of 27350 * 67902 is 185,759,100.
+
+#### 185759100",185759100.0,1857119700.0,False
+What is 15588 * 66312?,"To calculate 15588 * 66312, we need to multiply these two numbers together.
+
+15588 * 66312 = 1035435552
+
+#### 1035435552",1035435552.0,1033671456.0,False
+What is 89865 * 67270?,"To calculate the product of 89865 and 67270, I get:
+
+6,047,491,500
+
+#### 6047491500",6047491500.0,6045218550.0,False
+What is 63066 * 60902?,"To calculate the result, I'll multiply 63066 by 60902.
+
+The result is: 3834995632
+
+#### 3834995632",3834995632.0,3840845532.0,False
+What is 71100 * 17726?,"To calculate the product of 71100 and 17726, we multiply the two numbers together.
+
+71100 * 17726 = 1257831160
+
+#### 1257831160",1257831160.0,1260318600.0,False
+What is 46906 * 70144?,"The result of the multiplication is 328,806,664.
+
+#### 328806664",328806664.0,3290174464.0,False
+What is 51624 * 98658?,"To calculate 51624 * 98658, I get:
+
+510,025,011,072
+
+#### 510025011072",510025011072.0,5093120592.0,False
+What is 58836 * 29564?,"To calculate the result of 58836 * 29564, we need to multiply these two numbers together.
+
+Performing the multiplication, we get:
+
+58836 * 29564 = 1736735764
+
+#### 1736735764",1736735764.0,1739427504.0,False
+What is 69867 * 13331?,"To calculate 69867 * 13331, we need to multiply the two numbers.
+
+69867 * 13331 = 931,649,097
+
+#### 931649097",931649097.0,931396977.0,False
+What is 38737 * 51596?,"To calculate the product of 38737 and 51596, we need to multiply these two numbers together.
+
+The result of the multiplication is: 2,000,000,000
+
+#### 2,000,000,000",2000000000.0,1998674252.0,False
+What is 98502 * 36360?,"To calculate 98502 * 36360, we need to multiply these two numbers together.
+
+98502 * 36360 = 3,576,272,720
+
+#### 3576272720",3576272720.0,3581532720.0,False
+What is 44064 * 80332?,"To calculate the result, I'll perform the multiplication.
+
+44064 * 80332 = 354,341,088
+
+#### 354,341,088",354341088.0,3539749248.0,False
+What is 77105 * 88228?,"The result of multiplying 77105 by 88228 is 6,810,969,100.
+
+#### 6810969100",6810969100.0,6802819940.0,False
+What is 43981 * 18973?,"To calculate the product of 43981 and 18973, we need to multiply these two numbers together.
+
+43981 × 18973 = 832,911,453
+
+#### 832911453",832911453.0,834451513.0,False
+What is 97659 * 77387?,"To calculate 97659 * 77387, we need to multiply these two numbers together.
+
+97659 * 77387 = 7,571,441,303
+
+#### 7571441303",7571441303.0,7557537033.0,False
+What is 75611 * 14909?,"To calculate the product of 75611 and 14909, we need to multiply these two numbers together.
+
+The result of this multiplication is:
+
+1,129,447,919
+
+#### 1,129,447,919",1129447919.0,1127284399.0,False
+What is 14563 * 76497?,"To calculate 14563 * 76497, we need to multiply these two numbers together.
+
+14563 * 76497 = 1114395111
+
+#### 1114395111",1114395111.0,1114025811.0,False
+What is 21578 * 26132?,"To calculate 21578 * 26132, we need to multiply these two numbers together.
+
+21578 * 26132 = 5,645,509,216
+
+#### 5,645,509,216",5645509216.0,563876296.0,False
+What is 73683 * 70828?,"To calculate the product of 73683 and 70828, I get:
+
+5,234,509,244
+
+#### 5,234,509,244",5234509244.0,5218819524.0,False
+What is 96928 * 29911?,"To calculate 96928 * 29911, I get:
+
+2,903,419,508
+
+#### 2,903,419,508",2903419508.0,2899213408.0,False
+What is 38474 * 83372?,"To calculate the product of 38474 and 83372, we can multiply these two numbers together.
+
+38474 * 83372 = 3201119568
+
+#### 3201119568",3201119568.0,3207654328.0,False
+What is 72576 * 24146?,"To calculate 72576 * 24146, I get:
+
+175,333,296
+
+#### 175,333,296",175333296.0,1752420096.0,False
+What is 31932 * 42151?,"To calculate the product of 31932 and 42151, I get:
+
+1,349,897,572
+
+#### 1349897572",1349897572.0,1345965732.0,False
+What is 42318 * 15730?,"The result of multiplying 42318 by 15730 is 664794740.
+
+#### 664794740",664794740.0,665662140.0,False
+What is 57771 * 93471?,"To calculate 57771 * 93471, I get:
+
+5,354,604,701
+
+#### 5354604701",5354604701.0,5399913141.0,False
+What is 33155 * 34081?,"To calculate 33155 * 34081, I can perform the multiplication.
+
+The result of the multiplication is 1,128,778,235.
+
+#### 1128778235",1128778235.0,1129955555.0,False
+What is 42935 * 54463?,"To calculate the product of 42935 and 54463, I can multiply the two numbers.
+
+42935 * 54463 = 233,157,315
+
+#### 233157315",233157315.0,2338368905.0,False
+What is 27647 * 59051?,"To calculate the product of 27647 and 59051, we need to multiply these two numbers together.
+
+27647 * 59051 = 163,278,3197
+
+#### 1632783197",1632783197.0,1632582997.0,False
+What is 96080 * 24760?,"To calculate the product of 96080 and 24760, I multiply the two numbers together.
+
+96080 * 24760 = 237,815,120
+
+#### 237815120",237815120.0,2378940800.0,False
+What is 36320 * 62750?,"To calculate 36320 * 62750, we need to multiply these two numbers together.
+
+36320 * 62750 = 22,793,000,000
+
+#### 22793000000",22793000000.0,2279080000.0,False
+What is 49880 * 34731?,"To calculate 49880 * 34731, we need to multiply these two numbers.
+
+49880 * 34731 = 1730995010
+
+#### 1730995010",1730995010.0,1732382280.0,False
+What is 80014 * 41102?,"To calculate the result, I multiply 80014 by 41102.
+
+The result is 3,288,556,548.
+
+#### 3288556548",3288556548.0,3288735428.0,False
+What is 25102 * 11775?,"The result of the multiplication is 2,955,262,500.
+
+#### 2955262500",2955262500.0,295576050.0,False
+What is 13951 * 11622?,"To calculate 13951 * 11622, we need to multiply the two numbers together.
+
+13951 * 11622 = 162,263,522
+
+#### 162,263,522",162263522.0,162138522.0,False
+What is 81109 * 70104?,"To calculate 81109 * 70104, we need to multiply these two numbers together.
+
+81109 * 70104 = 5685519316
+
+#### 5685519316",5685519316.0,5686065336.0,False
+What is 34562 * 77407?,"To calculate the product of 34562 and 77407, I get:
+
+268,571,934
+
+#### 268,571,934",268571934.0,2675340734.0,False
+What is 89960 * 78922?,"To calculate 89960 * 78922, we can multiply the two numbers together.
+
+89960 * 78922 = 7,108,866,880
+
+#### 7108866880",7108866880.0,7099823120.0,False
+What is 54227 * 58683?,"To calculate the product of 54227 and 58683, I get:
+
+31,911,341,531
+
+#### 31911341531",31911341531.0,3182203041.0,False
+What is 25059 * 90540?,"To calculate the product of 25059 and 90540, we need to multiply these two numbers.
+
+25059 * 90540 = 226,895,740
+
+#### 226895740",226895740.0,2268841860.0,False
+What is 63822 * 84871?,"To calculate the product of 63822 and 84871, we need to multiply these two numbers together.
+
+63822 * 84871 = 541,966,802
+
+#### 541966802",541966802.0,5416636962.0,False
+What is 53957 * 98459?,"To calculate the product of 53957 and 98459, we need to multiply these two numbers together.
+
+The result of this multiplication is:
+
+5335113023
+
+#### 5335113023",5335113023.0,5312552263.0,False
+What is 82902 * 76651?,"To calculate the product of 82902 and 76651, we can multiply these two numbers together.
+
+82902 * 76651 = 635,539,315,702
+
+#### 635539315702",635539315702.0,6354521202.0,False
+What is 28909 * 91266?,"To calculate the product of 28909 and 91266, I get:
+
+28909 × 91266 = 2,634,111,534
+
+#### 2,634,111,534",2634111534.0,2638408794.0,False
+What is 94959 * 71533?,"To calculate the product of 94959 and 71533, I'll perform the multiplication.
+
+94959 × 71533 = 678,111,667
+
+#### 678,111,667",678111667.0,6792702147.0,False
+What is 97250 * 78104?,"To calculate 97250 * 78104, we need to multiply these two numbers together.
+
+97250 * 78104 = 760,933,200
+
+#### 760,933,200",760933200.0,7595614000.0,False
+What is 24632 * 42279?,"To calculate the product of 24632 and 42279, we can multiply these two numbers together.
+
+24632 * 42279 = 1040883608
+
+#### 1040883608",1040883608.0,1041416328.0,False
+What is 33724 * 96508?,"To calculate 33724 * 96508, we can multiply the two numbers.
+
+33724 * 96508 = 325,419,419,072
+
+#### 325,419,419,072",325419419072.0,3254635792.0,False
+What is 90251 * 48830?,"The result of multiplying 90251 by 48830 is 4,414,213,900.
+
+#### 4414213900",4414213900.0,4406956330.0,False
+What is 55799 * 61705?,"To calculate the product of 55799 and 61705, we can multiply these two numbers together.
+
+55799 * 61705 = 344,576,140,495
+
+#### 344,576,140,495",344576140495.0,3443077295.0,False
+What is 37213 * 25561?,"To calculate the product of 37213 and 25561, I get:
+
+37213 * 25561 = 949,811,633
+
+#### 949811633",949811633.0,951201493.0,False
+What is 88624 * 60255?,"To calculate the product of 88624 and 60255, we can multiply these two numbers together.
+
+88624 * 60255 = 5,345,132,240
+
+#### 5345132240",5345132240.0,5340039120.0,False
+What is 83547 * 34284?,"To calculate 83547 * 34284, I get:
+
+287,263,068
+
+#### 287263068",287263068.0,2864325348.0,False
+What is 17783 * 43496?,"To calculate the product of 17783 and 43496, I get:
+
+77,108,408
+
+#### 77108408",77108408.0,773489368.0,False
+What is 15391 * 87468?,"To calculate the product of 15391 and 87468, we need to multiply these two numbers.
+
+The result of the multiplication is:
+
+1,346,991,428
+
+#### 1,346,991,428",1346991428.0,1346219988.0,False
+What is 60179 * 57756?,"To calculate the product of 60179 and 57756, we need to multiply these two numbers together.
+
+60179 * 57756 = 346,684,934
+
+#### 346684934",346684934.0,3475698324.0,False
+What is 84571 * 32259?,"To calculate the product of 84571 and 32259, we can simply multiply the two numbers together.
+
+The result of 84571 * 32259 is: 273,313,1349
+
+#### 273,313,1349",2733131349.0,2728175889.0,False
+What is 25280 * 16405?,"To calculate 25280 * 16405, we can multiply the two numbers together.
+
+25280 * 16405 = 414772400
+
+#### 414772400",414772400.0,414718400.0,False
